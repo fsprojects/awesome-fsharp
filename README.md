@@ -16,6 +16,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Packet](https://fsprojects.github.io/Paket/) - A dependency manager for .NET with support for NuGet packages and Git repositories. [MIT]
 
 ## Testing
+ * [canopy](http://lefthandedgoat.github.io/canopy/) - F# web automation and testing framework
  * [FsCheck](https://fscheck.github.io/FsCheck/) - Random Testing for .NET. [???]
  * [FsUnit](http://fsprojects.github.io/FsUnit/) - FsUnit makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework. [???]
  * [xUnit.net](https://xunit.github.io/) - Free, open source, community-focused unit testing tool for the .NET Framework. [Apache 2.0]
