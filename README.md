@@ -27,3 +27,8 @@ A curated list of awesome F# frameworks, libraries, software and resources.
   * [F# Software Foundation](http://fsharp.org/)
   * [F# for Fun and Profit](https://fsharpforfunandprofit.com/)
   
+### Blogs
+  * [Don Syme's WebLog on F# and Related Topics]()
+  * [Tomas Petricek's Blog](http://tomasp.net/blog/)
+  * [Sergey Tihon's Blog](https://sergeytihon.wordpress.com/)
+  
