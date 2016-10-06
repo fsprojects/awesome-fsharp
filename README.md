@@ -29,7 +29,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ## Compilers
  * [Fable](http://fable.io/) - F# to JavaScript Compiler. [Apache 2.0]
  * [FSharp](https://github.com/fsharp/fsharp) - The Open Edition of the F# compiler, core library and tools. [Apache 2.0]
- * [F# Compiler Services](http://fsharp.github.io/FSharp.Compiler.Service/) - he F# Compiler, F# Interactive scripting engine and F# editing services as a component library. [Apache 2.0]
+ * [F# Compiler Services](http://fsharp.github.io/FSharp.Compiler.Service/) - The F# Compiler, F# Interactive scripting engine and F# editing services as a component library. [Apache 2.0]
  * [Visual F#](https://github.com/Microsoft/visualfsharp) - The Visual F# compiler and tools. [Apache 2.0]
 
 ## Development Tools
