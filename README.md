@@ -8,6 +8,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Tools](#tools)
   * [Editor plugins](#editor-plugins)
   * [IDE](#ide)
+ * [Web frameworks](#web-frameworks)
  * [Resources](#resources)
   * [Websites](#websites)
   * [Blogs](#blogs)
@@ -36,6 +37,13 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [F# Bindings](https://github.com/fsharp/fsharpbinding) - Archive of F# Language Bindings for Open Editors. [Apache 2.0]
  * [Ionide](http://ionide.io/) - An Atom Editor and Visual Studio Code package suite for cross platform F# development. [MIT]
  * [Vim F#](https://github.com/fsharp/vim-fsharp) - F# support for Vim. [???]
+
+## Web frameworks
+ * [ASP.NET Core MVC](https://github.com/aspnet/Mvc) - ASP.NET Core MVC is a model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor. [Apache 2.0]
+ * [Freya](https://freya.io/) - Modern, purely functional stack for web programming in F#. [Apache 2.0]
+ * [Nancy](http://nancyfx.org/) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono. [MIT]
+ * [Suave](https://suave.io/) - Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition. [Apache 2.0]
+ * [WebSharper](http://websharper.com/) - F#-based web programming platform including a compiler from F# code to JavaScript. [Apache 2.0]
 
 ## Resources
 
