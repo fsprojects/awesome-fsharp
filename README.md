@@ -61,6 +61,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
   
 ### Other Lists
  * [Awesome .NET!](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software. [CC0 1.0]
+ * [F# Community Projects](http://fsharp.org/community/projects/)
 
 ### Websites
  * [F# Software Foundation](http://fsharp.org/)
