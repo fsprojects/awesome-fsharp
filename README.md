@@ -11,8 +11,9 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Testing](#testing)
  * [Web frameworks](#web-frameworks)
  * [Resources](#resources)
-  * [Websites](#websites)
   * [Blogs](#blogs)
+  * [Other Lists](#other-lists)
+  * [Websites](#websites)
 
 ## Build tools
  * [FAKE](http://fsharp.github.io/FAKE/) - "F# Make" is a cross platform build automation system. [Apache 2.0]
@@ -51,14 +52,15 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [WebSharper](http://websharper.com/) - F#-based web programming platform including a compiler from F# code to JavaScript. [Apache 2.0]
 
 ## Resources
-
-### Websites
- * [Awesome .NET!](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software. [CC0 1.0]
- * [F# Software Foundation](http://fsharp.org/)
- * [F# for Fun and Profit](https://fsharpforfunandprofit.com/)
   
 ### Blogs
  * [Don Syme's WebLog on F# and Related Topics]()
  * [Tomas Petricek's Blog](http://tomasp.net/blog/)
  * [Sergey Tihon's Blog](https://sergeytihon.wordpress.com/)
   
+### Other Lists
+ * [Awesome .NET!](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software. [CC0 1.0]
+
+### Websites
+ * [F# Software Foundation](http://fsharp.org/)
+ * [F# for Fun and Profit](https://fsharpforfunandprofit.com/)
