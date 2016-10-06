@@ -3,6 +3,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Contents
  * [Build tools](#build-tools)
+ * [Compilers](#compilers)
  * [Development Tools](#development-tools)
   * [Editor plugins](#editor-plugins)
   * [IDE](#ide)
@@ -15,6 +16,10 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Build tools
  * [FAKE](http://fsharp.github.io/FAKE/) - "F# Make" is a cross platform build automation system. [Apache 2.0]
+
+## Compilers
+ * [FSharp](https://github.com/fsharp/fsharp) - The Open Edition of the F# compiler, core library and tools. [Apache 2.0]
+ * [Visual F#](https://github.com/Microsoft/visualfsharp) - The Visual F# compiler and tools. [Apache 2.0]
 
 ## Development Tools
 
