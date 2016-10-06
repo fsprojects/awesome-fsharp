@@ -12,6 +12,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Web frameworks](#web-frameworks)
  * [Resources](#resources)
   * [Blogs](#blogs)
+  * [Community](#community)
   * [Other Lists](#other-lists)
   * [Websites](#websites)
 
@@ -59,6 +60,11 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Tomas Petricek's Blog](http://tomasp.net/blog/)
  * [Sergey Tihon's Blog](https://sergeytihon.wordpress.com/)
   
+### Community
+ * [F# on Github](https://github.com/fsharp/)
+ * [F# on IRC](http://webchat.freenode.net/?channels=%23%23fsharp)
+ * [F# on Slack](http://fsharp.org/guides/slack/)
+ 
 ### Other Lists
  * [Awesome .NET!](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software. [CC0 1.0]
  * [F# Community Projects](http://fsharp.org/community/projects/)
