@@ -7,6 +7,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Development Tools](#development-tools)
   * [Editor plugins](#editor-plugins)
   * [IDE](#ide)
+ * [Logging](#logging)
  * [Package Management](#package-management)
  * [Testing](#testing)
  * [Web frameworks](#web-frameworks)
@@ -35,6 +36,9 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [F# Bindings](https://github.com/fsharp/fsharpbinding) - Archive of F# Language Bindings for Open Editors. [Apache 2.0]
  * [Ionide](http://ionide.io/) - An Atom Editor and Visual Studio Code package suite for cross platform F# development. [MIT]
  * [Vim F#](https://github.com/fsharp/vim-fsharp) - F# support for Vim. [MIT]
+
+## Logging
+ * [Logary](https://logary.github.io/) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for mono and .Net. [Apache 2.0]
 
 ## Package Management
  * [NuGet](https://www.nuget.org/) - NuGet is the package manager for the Microsoft development platform including .NET. [Apache 2.0]
