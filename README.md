@@ -34,7 +34,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ### Editor plugins
  * [F# Bindings](https://github.com/fsharp/fsharpbinding) - Archive of F# Language Bindings for Open Editors. [Apache 2.0]
  * [Ionide](http://ionide.io/) - An Atom Editor and Visual Studio Code package suite for cross platform F# development. [MIT]
- * [Vim F#](https://github.com/fsharp/vim-fsharp) - F# support for Vim. [???]
+ * [Vim F#](https://github.com/fsharp/vim-fsharp) - F# support for Vim. [MIT]
 
 ## Package Management
  * [NuGet](https://www.nuget.org/) - NuGet is the package manager for the Microsoft development platform including .NET. [Apache 2.0]
