@@ -2,6 +2,7 @@
 A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Contents
+ * [Build tools](#build-tools)
  * [Package Management](#package-management)
  * [Testing](#testing)
  * [Tools](#tools)
@@ -10,7 +11,10 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Resources](#resources)
   * [Websites](#websites)
   * [Blogs](#blogs)
-  
+
+## Build tools
+ * [FAKE](http://fsharp.github.io/FAKE/) - "F# Make" is a cross platform build automation system. [Apache 2.0]
+
 ## Package Management
  * [NuGet](https://www.nuget.org/) - NuGet is the package manager for the Microsoft development platform including .NET. [Apache 2.0]
  * [Packet](https://fsprojects.github.io/Paket/) - A dependency manager for .NET with support for NuGet packages and Git repositories. [MIT]
