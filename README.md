@@ -67,7 +67,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ## Resources
   
 ### Blogs
- * [Don Syme's WebLog on F# and Related Topics]()
+ * [Don Syme's WebLog on F# and Related Topics](https://blogs.msdn.microsoft.com/dsyme/)
  * [Tomas Petricek's Blog](http://tomasp.net/blog/)
  * [Sergey Tihon's Blog](https://sergeytihon.wordpress.com/)
   
