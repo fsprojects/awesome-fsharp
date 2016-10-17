@@ -22,6 +22,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Akka.NET](http://getakka.net/) - Community-driven port of the popular Java/Scala framework Akka to .NET. [Apache 2.0]
  * [Cricket](http://fsprojects.github.io/Cricket/) - An actor framework for F#. [Unlicense]
  * [Orleans](http://dotnet.github.io/orleans/) - Distributed Virtual Actor Model. [MIT]
+ * [Orleankka](https://github.com/OrleansContrib/Orleankka) - Functional API for Orleans Framework. [Apache 2.0]
 
 ## Build tools
  * [FAKE](http://fsharp.github.io/FAKE/) - "F# Make" is a cross platform build automation system. [Apache 2.0]
