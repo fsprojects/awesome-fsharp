@@ -1,4 +1,6 @@
 # Awesome F# #
+
+[![Join the chat at https://gitter.im/VPashkov/awesome-fsharp](https://badges.gitter.im/VPashkov/awesome-fsharp.svg)](https://gitter.im/VPashkov/awesome-fsharp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Contents
