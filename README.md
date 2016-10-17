@@ -49,7 +49,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Package Management
  * [NuGet](https://www.nuget.org/) - NuGet is the package manager for the Microsoft development platform including .NET. [Apache 2.0]
- * [Packet](https://fsprojects.github.io/Paket/) - A dependency manager for .NET with support for NuGet packages and Git repositories. [MIT]
+ * [Paket](https://fsprojects.github.io/Paket/) - A dependency manager for .NET with support for NuGet packages and Git repositories. [MIT]
 
 ## Testing
  * [canopy](http://lefthandedgoat.github.io/canopy/) - F# web automation and testing framework
