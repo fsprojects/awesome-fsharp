@@ -28,6 +28,11 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Orleans](http://dotnet.github.io/orleans/) - Distributed Virtual Actor Model. [MIT]
  * [Orleankka](https://github.com/OrleansContrib/Orleankka) - Functional API for Orleans Framework. [Apache 2.0]
 
+## Concurrent, asynchronous and parallel programming
+ * [Hopac](http://hopac.github.io/Hopac/Hopac.html) - concurrent ML style concurrent programming library for F#
+ * [FSharpx.Async](https://github.com/fsprojects/FSharpx.Async) - collection of asynchronous programming utilities for F# [Apache 2.0]
+ * [FSharp.Control.AsyncSeq](https://github.com/fsprojects/FSharp.Control.AsyncSeq) - collection of asynchronous programming utilities for F# [Apache 2.0]
+
 ## Build tools
  * [FAKE](http://fsharp.github.io/FAKE/) - "F# Make" is a cross platform build automation system. [Apache 2.0]
 
