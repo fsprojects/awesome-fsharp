@@ -11,6 +11,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Development Tools](#development-tools)
   * [Editor plugins](#editor-plugins)
   * [IDE](#ide)
+ * [Game development](#game-development)
  * [Logging](#logging)
  * [Package Management](#package-management)
  * [Testing](#testing)
@@ -47,6 +48,9 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [F# Bindings](https://github.com/fsharp/fsharpbinding) - Archive of F# Language Bindings for Open Editors. [Apache 2.0]
  * [Ionide](http://ionide.io/) - An Atom Editor and Visual Studio Code package suite for cross platform F# development. [MIT]
  * [Vim F#](https://github.com/fsharp/vim-fsharp) - F# support for Vim. [MIT]
+
+## Game development
+ * [Nu Game Engine](https://github.com/bryanedds/Nu) - Cross-platform F# 2D game engine built in the functional style. Uses SDL2 and Farseer Physics. [MIT]
 
 ## Logging
  * [Logary](https://logary.github.io/) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for mono and .Net. [Apache 2.0]
