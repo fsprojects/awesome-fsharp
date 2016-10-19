@@ -30,7 +30,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Orleankka](https://github.com/OrleansContrib/Orleankka) - Functional API for Orleans Framework. [Apache 2.0]
 
 ## Concurrent, asynchronous and parallel programming
- * [Hopac](http://hopac.github.io/Hopac/Hopac.html) - concurrent ML style concurrent programming library for F#
+ * [Hopac](http://hopac.github.io/Hopac/Hopac.html) - concurrent ML style concurrent programming library for F#. [MIT]
  * [FSharpx.Async](https://github.com/fsprojects/FSharpx.Async) - collection of asynchronous programming utilities for F# [Apache 2.0]
  * [FSharp.Control.AsyncSeq](https://github.com/fsprojects/FSharp.Control.AsyncSeq) - collection of asynchronous programming utilities for F# [Apache 2.0]
 
