@@ -8,6 +8,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Actor frameworks](#actor-frameworks)
  * [Build tools](#build-tools)
  * [Compilers](#compilers)
+ * [Data Science](#data-science)
  * [Development Tools](#development-tools)
   * [Editor plugins](#editor-plugins)
   * [IDE](#ide)
@@ -41,6 +42,9 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [FSharp](https://github.com/fsharp/fsharp) - The Open Edition of the F# compiler, core library and tools. [Apache 2.0]
  * [F# Compiler Services](http://fsharp.github.io/FSharp.Compiler.Service/) - The F# Compiler, F# Interactive scripting engine and F# editing services as a component library. [Apache 2.0]
  * [Visual F#](https://github.com/Microsoft/visualfsharp) - The Visual F# compiler and tools. [Apache 2.0]
+
+## Data Science
+ * [FsLab](https://fslab.org/) - FsLab is a collection of libraries for data-science. It provides a rapid development envi­ronment that lets you write advanced analysis with few lines of production-quality code. [Apache 2.0]
 
 ## Development Tools
 
