@@ -91,3 +91,4 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ### Websites
  * [F# Software Foundation](http://fsharp.org/)
  * [F# for Fun and Profit](https://fsharpforfunandprofit.com/)
+ * [Try F#](http://www.tryfsharp.org)
