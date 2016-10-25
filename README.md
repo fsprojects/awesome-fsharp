@@ -55,6 +55,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ### Editor plugins
  * [F# Bindings](https://github.com/fsharp/fsharpbinding) - Archive of F# Language Bindings for Open Editors. [Apache 2.0]
+ * [FSharpFar](https://github.com/nightroman/FarNet/tree/master/FSharpFar) - F# support for Far Manager. [BSD-3-Clause]
  * [Ionide](http://ionide.io/) - An Atom Editor and Visual Studio Code package suite for cross platform F# development. [MIT]
  * [Vim F#](https://github.com/fsharp/vim-fsharp) - F# support for Vim. [MIT]
  * [Visual F# Power Tools](http://fsprojects.github.io/VisualFSharpPowerTools/) - Power commands for F# in Visual Studio [Apache 2.0]
@@ -85,18 +86,18 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [WebSharper](http://websharper.com/) - F#-based web programming platform including a compiler from F# code to JavaScript. [Apache 2.0]
 
 ## Resources
-  
+
 ### Blogs
  * [Don Syme's WebLog on F# and Related Topics](https://blogs.msdn.microsoft.com/dsyme/)
  * [Tomas Petricek's Blog](http://tomasp.net/blog/)
  * [Sergey Tihon's Blog](https://sergeytihon.wordpress.com/)
  * [Dave Thomas Blog](http://7sharpnine.com/)
-  
+
 ### Community
  * [F# on Github](https://github.com/fsharp/)
  * [F# on IRC](http://webchat.freenode.net/?channels=%23%23fsharp)
  * [F# on Slack](http://fsharp.org/guides/slack/)
- 
+
 ### Other Lists
  * [Awesome .NET!](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software. [CC0 1.0]
  * [F# Community Projects](http://fsharp.org/community/projects/)
