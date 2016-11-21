@@ -6,6 +6,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Contents
  * [Actor frameworks](#actor-frameworks)
+ * [Concurrent, asynchronous and parallel programming](#concurrent-asynchronous-and-parallel-programming)
  * [Build tools](#build-tools)
  * [Compilers](#compilers)
  * [Data Science](#data-science)
