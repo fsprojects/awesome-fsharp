@@ -48,6 +48,9 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [F# Compiler Services](http://fsharp.github.io/FSharp.Compiler.Service/) - The F# Compiler, F# Interactive scripting engine and F# editing services as a component library. [Apache 2.0]
  * [Visual F#](https://github.com/Microsoft/visualfsharp) - The Visual F# compiler and tools. [Apache 2.0]
 
+## Configuration
+ * [Argu](http://fsprojects.github.io/Argu) - declarative CLI argument/XML configuration parser for F# applications. [MIT]
+
 ## Data Science
  * [FsLab](https://fslab.org/) - FsLab is a collection of libraries for data-science. It provides a rapid development envi­ronment that lets you write advanced analysis with few lines of production-quality code. [Apache 2.0]
  * [Math.NET](http://numerics.mathdotnet.com/) - Math.NET Numerics aims to provide methods and algorithms for numerical computations in science, engineering and every day use. F# specific bindings available. [MIT]
