@@ -17,6 +17,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Game development](#game-development)
  * [Logging](#logging)
  * [Package Management](#package-management)
+ * [Serialization](#serialization)
  * [Testing](#testing)
  * [Web frameworks](#web-frameworks)
  * [Resources](#resources)
@@ -81,6 +82,9 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ## Package Management
  * [NuGet](https://www.nuget.org/) - NuGet is the package manager for the Microsoft development platform including .NET. [Apache 2.0]
  * [Paket](https://fsprojects.github.io/Paket/) - A dependency manager for .NET with support for NuGet packages and Git repositories. [MIT]
+
+## Serialization
+ * [FsPickler](http://mbraceproject.github.io/FsPickler/) - A fast, multi-format messaging serializer for .NET [MIT]
 
 ## Testing
  * [canopy](http://lefthandedgoat.github.io/canopy/) - F# web automation and testing framework. [MIT]
