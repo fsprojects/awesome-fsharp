@@ -39,6 +39,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  
 ## General purpose libraries
  * [FSharpPlus](https://github.com/gmpl/FSharpPlus) - extensions for F#. [Apache 2.0]
+ * [Chessie](https://github.com/fsprojects/Chessie) - railway-oriented programming. [Unlicense]
 
 ## Build tools
  * [FAKE](http://fsharp.github.io/FAKE/) - "F# Make" is a cross platform build automation system. [Apache 2.0]
