@@ -38,9 +38,9 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [FSharp.Control.AsyncSeq](https://github.com/fsprojects/FSharp.Control.AsyncSeq) - collection of asynchronous programming utilities for F# [Apache 2.0]
  
 ## General purpose libraries
- * [FSharpPlus](https://github.com/gmpl/FSharpPlus) - extensions for F#. [Apache 2.0]
  * [Chessie](https://github.com/fsprojects/Chessie) - railway-oriented programming. [Unlicense]
  * [FSharpLu](https://github.com/Microsoft/fsharplu) - lightweight utilities for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization. [MIT]
+ * [FSharpPlus](https://github.com/gmpl/FSharpPlus) - extensions for F#. [Apache 2.0]
 
 ## Build tools
  * [FAKE](http://fsharp.github.io/FAKE/) - "F# Make" is a cross platform build automation system. [Apache 2.0]
