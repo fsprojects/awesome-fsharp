@@ -22,6 +22,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Web frameworks](#web-frameworks)
  * [Resources](#resources)
   * [Blogs](#blogs)
+  * [Cheatsheets](#cheatsheets)
   * [Community](#community)
   * [Other Lists](#other-lists)
   * [Websites](#websites)
@@ -111,6 +112,11 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Tomas Petricek's Blog](http://tomasp.net/blog/)
  * [Sergey Tihon's Blog](https://sergeytihon.wordpress.com/)
  * [Dave Thomas Blog](http://7sharpnine.com/)
+ 
+### Cheatsheets
+ * [F# cheatsheet](http://dungpa.github.io/fsharp-cheatsheet)
+ * [F# tour](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour)
+ * [Learn F# in Y minutes](https://learnxinyminutes.com/docs/fsharp)
 
 ### Community
  * [F# on Github](https://github.com/fsharp/)
