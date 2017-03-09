@@ -79,6 +79,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Visual F# Power Tools](http://fsprojects.github.io/VisualFSharpPowerTools/) - Power commands for F# in Visual Studio [Apache 2.0]
 
 ## Game development
+ * [FsUnity](https://github.com/FsUnity) - F# Libraries, Tools, and Plugins for the Unity3d Game Engine. [Unilicense]
  * [Nu Game Engine](https://github.com/bryanedds/Nu) - Cross-platform F# 2D game engine built in the functional style. Uses SDL2 and Farseer Physics. [MIT]
 
 ## Logging
