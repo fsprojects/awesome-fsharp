@@ -11,6 +11,8 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Build tools](#build-tools)
  * [Compilers](#compilers)
  * [Data Science](#data-science)
+ * [Type providers](#type-providers)
+  * [Creating type providers](#creating-type-providers)
  * [Development Tools](#development-tools)
   * [Editor plugins](#editor-plugins)
   * [IDE](#ide)
@@ -61,6 +63,33 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [FsLab](https://fslab.org/) - FsLab is a collection of libraries for data-science. It provides a rapid development envi­ronment that lets you write advanced analysis with few lines of production-quality code. [Apache 2.0]
  * [Math.NET](http://numerics.mathdotnet.com/) - Math.NET Numerics aims to provide methods and algorithms for numerical computations in science, engineering and every day use. F# specific bindings available. [MIT]
  * [SIMDArray](https://github.com/jackmott/SIMDArray) - SIMD enhanced Array extensions for faster computation. [MIT]
+ 
+## Type providers
+ * [ApiaryProvider](https://github.com/fsprojects/ApiaryProvider) - Type provider for Apiary.io. [Apache 2.0]
+ * [AzureStorageTypeProvider](https://github.com/fsprojects/AzureStorageTypeProvider) - An F# Azure Type Provider which can be used to explore Blob, Table and Queue Azure Storage assets and easily apply CRUD operations on them. [Unilicense]
+ * [COM Type Provider](https://github.com/fsprojects/FSharp.Interop.ComProvider) - A type provider for COM interop. [Unilicense]
+ * [DynamicsCRMProvider](https://github.com/fsprojects/DynamicsCRMProvider) - A type provider for Microsoft Dynamics CRM 2011. [Apache 2.0]
+ * [ExcelProvider](https://github.com/fsprojects/ExcelProvider) - Excel type provider. [Unilicense]
+ * [FSharp.Configuration](https://github.com/fsprojects/FSharp.Configuration) - The project contains type providers for the configuration of .NET projects. Handles AppSettings, ResX, Yaml and Ini files. [Apache 2.0]
+ * [FSharp.Data.DbPedia](http://fsprojects.github.io/FSharp.Data.DbPedia/) - An F# type provider for DBpedia. [Unilicense]
+ * [FSharp.Data.HiveProvider](https://github.com/fsprojects/FSharp.Data.HiveProvider) - A demonstrator F# type provider for Apache Hive. [Apache 2.0]
+ * [FSharp.Data.SqlClient](https://github.com/fsprojects/FSharp.Data.SqlClient) - An F# Type Provider for statically typed access to T-SQL command parameters and result set. [Apache 2.0]
+ * [FSharp.Data.Toolbox](https://github.com/fsprojects/FSharp.Data.Toolbox) - A library for various data access APIs based on FSharp.Data. The library currently includes the Twitter type provider for access to Twitter users and feeds, and SAS type provider to read SAS dataset files. [Apache 2.0]
+ * [FSharp.Data.TypeProviders](https://github.com/fsprojects/FSharp.Data.TypeProviders) - A library that contains type providers for `.edmx` files, `.dbml` files, WSLD services, OData services, and SQL databases. [Unilicense]
+ * [FSharp.Data](https://github.com/fsharp/FSharp.Data) - Data science library that contains type providers for CSV, HTML, JSON, XML, and WorldBank data. [Apache 2.0]
+ * [FSharp.Management](https://github.com/fsprojects/FSharp.Management) - The project contains various type providers for the management of the machine. Handles file system, registry,  Windows Management Instrumentation, PowerShell and SystemTimeZones. [Apache 2.0]
+ * [FSharp.Text.RegexProvider](https://github.com/fsprojects/FSharp.Text.RegexProvider) - A type provider for regular expressions. [Apache 2.0]
+ * [FsYaml](https://github.com/bleis-tift/FsYaml) - A typed Yaml library for F#. [NYSL Version 0.9982]
+ * [GraphProvider](https://github.com/fsprojects/GraphProvider) - A `.dgml` state machine type provider. [Apache 2.0]
+ * [MatDataProvider](https://github.com/fsprojects/matprovider) - An erased type provider for `.mat` files (binary MATLAB format files). [Apache 2.0]
+ * [R Type Provider](https://github.com/BlueMountainCapital/FSharpRProvider) - Type provider to interop with R. [BSD-2-Clause]
+ * [S3Provider](https://github.com/fsprojects/S3Provider) - Experimental type provider for Amazon S3 [MIT]
+ * [SQLProvider](https://github.com/fsprojects/SQLProvider) - A general F# SQL database erasing type provider, supporting LINQ queries, schema exploration, individuals, CRUD operations and much more besides. [Apache 2.0]
+ * [SwaggerProvider](https://github.com/fsprojects/SwaggerProvider) - F# generative Type Provider for Swagger. [Unilicense]
+
+### Creating type providers
+ * [FSharp.TypeProviders.StarterPack](https://github.com/fsprojects/FSharp.TypeProviders.StarterPack) - The ProvidedTypes SDK for creating F# type providers. [Apache 2.0]
+ * [RestProvider](https://github.com/fsprojects/RestProvider) - Create type providers just by implementing a simple REST service [Apache 2.0]
  
 ## Development Tools
 
