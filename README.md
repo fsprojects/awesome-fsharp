@@ -61,6 +61,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Data Science
  * [Deep.Net](http://www.deepml.net) - Deep learning library for F#. Provides symbolic model differentiation, automatic differentiation and compilation to CUDA GPUs. [Apache 2.0]
+ * [DiffSharp](http://diffsharp.github.io/DiffSharp/) - DiffSharp is a functional automatic differentiation (AD) library [GPL-3.0]
 * [FsLab](https://fslab.org/) - FsLab is a collection of libraries for data-science. It provides a rapid development envi­ronment that lets you write advanced analysis with few lines of production-quality code. [Apache 2.0]
  * [Math.NET](http://numerics.mathdotnet.com/) - Math.NET Numerics aims to provide methods and algorithms for numerical computations in science, engineering and every day use. F# specific bindings available. [MIT]
  * [SIMDArray](https://github.com/jackmott/SIMDArray) - SIMD enhanced Array extensions for faster computation. [MIT]
