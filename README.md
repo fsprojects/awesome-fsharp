@@ -60,6 +60,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Argu](http://fsprojects.github.io/Argu) - declarative CLI argument/XML configuration parser for F# applications. [MIT]
 
 ## Data Science
+ * [Deedle](http://bluemountaincapital.github.io/Deedle/) - Deedle: Exploratory data library for .NET [BSD-2-Clause]
  * [Deep.Net](http://www.deepml.net) - Deep learning library for F#. Provides symbolic model differentiation, automatic differentiation and compilation to CUDA GPUs. [Apache 2.0]
  * [DiffSharp](http://diffsharp.github.io/DiffSharp/) - DiffSharp is a functional automatic differentiation (AD) library [GPL-3.0]
 * [FsLab](https://fslab.org/) - FsLab is a collection of libraries for data-science. It provides a rapid development envi­ronment that lets you write advanced analysis with few lines of production-quality code. [Apache 2.0]
