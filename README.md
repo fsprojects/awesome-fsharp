@@ -128,6 +128,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [canopy](http://lefthandedgoat.github.io/canopy/) - F# web automation and testing framework. [MIT]
  * [Expecto](https://github.com/haf/expecto) – a smooth testing framework for F# with tests-as-values and parallelism by default. [Apache 2.0]
  * [FsCheck](https://fscheck.github.io/FsCheck/) - Random Testing for .NET. [BSD-3-Clause]
+ * [fsharp-hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog) - Property-based testing system for F# [Apache 2.0]
  * [FsUnit](http://fsprojects.github.io/FsUnit/) - FsUnit makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework. [???]
  * [Persimmon](https://github.com/persimmon-projects/Persimmon) - A unit test framework for F# using computation expressions. [MIT]
  * [xUnit.net](https://xunit.github.io/) - Free, open source, community-focused unit testing tool for the .NET Framework. [Apache 2.0]
