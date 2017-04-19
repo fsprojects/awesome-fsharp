@@ -22,6 +22,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
   - [Serialization](#serialization)
   - [Testing](#testing)
   - [Web frameworks](#web-frameworks)
+  - [.Net Core Templates](#net-core-templates)
   - [Resources](#resources)
   - [Blogs](#blogs)
   - [Cheatsheets](#cheatsheets)
@@ -159,6 +160,19 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * **[Nancy ★ 5133 ⧗ 16](https://github.com/NancyFx/Nancy)** - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono. [MIT]
 * **[Suave ★ 756 ⧗ 2](https://github.com/SuaveIO/suave)** - Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition. [Apache 2.0]
 * [WebSharper ★ 270 ⧗ 7](https://github.com/intellifactory/websharper) - F#-based web programming platform including a compiler from F# code to JavaScript. [Apache 2.0]
+
+ ## .Net Core Templates
+ * [MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold) 
+    - F# Template for creating and publishing libraries targeting .NET Full (net45) and Core (netstandard1.6)
+    - `dotnet new -i MiniScaffold::*`
+ * [Giraffe Template](https://github.com/dustinmoris/Giraffe/tree/master/template) (Quick install: `dotnet new -i "giraffe-template::*"`)
+ * [vbfox's F# Templates](https://github.com/vbfox/FSharpTemplates)
+    - F# Template for creating github project with appveyor and travis support
+ * [Fable, F# |> Bable](http://fable.io) `dotnet new -i Fable.Template::*`
+ * [Fable-elmish](https://github.com/fable-compiler/fable-elmish) `dotnet new -i Fable.Template.Elmish.React::*`
+ * [Freya](https://freya.io) `dotnet new --install Freya.Template::*`
+ * [ASP.NET Core WebAPI F# Template](https://github.com/MNie/FSharpNetCoreWebApiTemplate) `dotnet new -i WebAPI.FSharp.Template::*`
+ * [Expecto Template](https://github.com/MNie/Expecto.Template) `dotnet new -i Expecto.Template::1.0.0-beta1`
 
 ## Resources
 
