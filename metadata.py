@@ -68,7 +68,7 @@ def query(owner, name):
                 req.add_header("Authorization", "Basic {0}".format(b64))
             u = urllib2.urlopen(req)
             j = json.load(u)
-            t = datetime.datetime.strptime(j['updated_at'], "%Y-%m-%dT%H:%M:%SZ")
+            t = datetime.datetime.strptime(j['pushed_at'], "%Y-%m-%dT%H:%M:%SZ")
             days = max(int((now - t).days), 0)
             print '    {0}/{1}: ok'.format(owner, name)
             return (int(j['stargazers_count']), days)
