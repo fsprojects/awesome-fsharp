@@ -4,7 +4,8 @@
 
 A curated list of awesome F# frameworks, libraries, software and resources.
 
-- [Contents](#awesome-fsharp)
+## Table of Contents
+- [ Awesome F#](#)
   - [Actor frameworks](#actor-frameworks)
   - [Concurrent, asynchronous and parallel programming](#concurrent-asynchronous-and-parallel-programming)
   - [General purpose libraries](#general-purpose-libraries)
@@ -210,4 +211,3 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [F# for Fun and Profit](https://fsharpforfunandprofit.com/)
 * [F# Software Foundation](http://fsharp.org/)
 * [Try F#](http://www.tryfsharp.org)
-
