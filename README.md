@@ -41,8 +41,8 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Concurrent, asynchronous and parallel programming
 
-* [FSharp.Control.AsyncSeq ★ 28 ⧗ 12](https://github.com/fsprojects/FSharp.Control.AsyncSeq) - Collection of asynchronous programming utilities for F# [Apache 2.0]
-* [FSharpx.Async ★ 37 ⧗ 56](https://github.com/fsprojects/FSharpx.Async) - Collection of asynchronous programming utilities for F# [Apache 2.0]
+* [FSharp.Control.AsyncSeq ★ 28 ⧗ 12](https://github.com/fsprojects/FSharp.Control.AsyncSeq) - Collection of asynchronous programming utilities for F#. [Apache 2.0]
+* [FSharpx.Async ★ 37 ⧗ 56](https://github.com/fsprojects/FSharpx.Async) - Collection of asynchronous programming utilities for F#. [Apache 2.0]
 * [Hopac ★ 268 ⧗ 7](https://github.com/Hopac/Hopac) - Concurrent ML style concurrent programming library for F#. [MIT]
 
 ## General purpose libraries
@@ -98,7 +98,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [GraphProvider ★ 21 ⧗ 379](https://github.com/fsprojects/GraphProvider) - `.dgml` state machine type provider. [Apache 2.0]
 * [MatDataProvider ★ 6 ⧗ 378](https://github.com/fsprojects/matprovider) - Erased type provider for `.mat` files (binary MATLAB format files). [Apache 2.0]
 * [R Type Provider ★ 159 ⧗ 365](https://github.com/BlueMountainCapital/FSharpRProvider) - Type provider to interop with R. [BSD-2-Clause]
-* [S3Provider ★ 16 ⧗ 379](https://github.com/fsprojects/S3Provider) - Experimental type provider for Amazon S3 [MIT]
+* [S3Provider ★ 16 ⧗ 379](https://github.com/fsprojects/S3Provider) - Experimental type provider for Amazon S3. [MIT]
 * [SQLProvider ★ 192 ⧗ 7](https://github.com/fsprojects/SQLProvider) - General F# SQL database erasing type provider, supporting LINQ queries, schema exploration, individuals, CRUD operations and much more besides. [Apache 2.0]
 * [SwaggerProvider ★ 81 ⧗ 3](https://github.com/fsprojects/SwaggerProvider) - F# generative Type Provider for Swagger. [Unilicense]
 
@@ -149,7 +149,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [canopy ★ 304 ⧗ 2](https://github.com/lefthandedgoat/canopy) - F# web automation and testing framework. [MIT]
 * [Expecto ★ 124 ⧗ 2](https://github.com/haf/expecto) - Smooth testing framework for F# with tests-as-values and parallelism by default. [Apache 2.0]
 * [FsCheck ★ 415 ⧗ 34](https://github.com/fscheck/FsCheck) - Random Testing for .NET. [BSD-3-Clause]
-* [fsharp-hedgehog ★ 42 ⧗ 4](https://github.com/hedgehogqa/fsharp-hedgehog) - Property-based testing system for F# [Apache 2.0]
+* [fsharp-hedgehog ★ 42 ⧗ 4](https://github.com/hedgehogqa/fsharp-hedgehog) - Property-based testing system for F#. [Apache 2.0]
 * [FsUnit ★ 193 ⧗ 15](https://github.com/fsprojects/FsUnit) - FsUnit makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework. [???]
 * [Persimmon ★ 29 ⧗ 9](https://github.com/persimmon-projects/Persimmon) - Unit test framework for F# using computation expressions. [MIT]
 * [unquote ★ 88 ⧗ 17](https://github.com/swensensoftware/unquote) - Write F# unit test assertions as quoted expressions. [Apache 2.0]
