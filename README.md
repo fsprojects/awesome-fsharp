@@ -71,9 +71,9 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Data Science
 
-* [Deedle ★ 347 ⧗ 21](https://github.com/BlueMountainCapital/Deedle) - Deedle: Exploratory data library for .NET [BSD-2-Clause]
+* [Deedle ★ 347 ⧗ 21](https://github.com/BlueMountainCapital/Deedle) - Deedle: Exploratory data library for .NET. [BSD-2-Clause]
 * [Deep.Net](http://www.deepml.net) - Deep learning library for F#. Provides symbolic model differentiation, automatic differentiation and compilation to CUDA GPUs. [Apache 2.0]
-* [DiffSharp ★ 106 ⧗ 70](https://github.com/DiffSharp/DiffSharp) - DiffSharp is a functional automatic differentiation (AD) library [GPL-3.0]
+* [DiffSharp ★ 106 ⧗ 70](https://github.com/DiffSharp/DiffSharp) - DiffSharp is a functional automatic differentiation (AD) library. [GPL-3.0]
 * [FsLab ★ 97 ⧗ 171](https://github.com/fslaborg/FsLab) - FsLab is a collection of libraries for data-science. It provides a rapid development envi­ronment that lets you write advanced analysis with few lines of production-quality code. [Apache 2.0]
 * **[Math.NET ★ 1081 ⧗ 3](https://github.com/mathnet/mathnet-numerics)** - Math.NET Numerics aims to provide methods and algorithms for numerical computations in science, engineering and every day use. F# specific bindings available. [MIT]
 * [SIMDArray ★ 42 ⧗ 11](https://github.com/jackmott/SIMDArray) - SIMD enhanced Array extensions for faster computation. [MIT]
@@ -105,7 +105,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ### Creating type providers
 
 * [FSharp.TypeProviders.StarterPack ★ 104 ⧗ 42](https://github.com/fsprojects/FSharp.TypeProviders.StarterPack) - The ProvidedTypes SDK for creating F# type providers. [Apache 2.0]
-* [RestProvider ★ 14 ⧗ 258](https://github.com/fsprojects/RestProvider) - Create type providers just by implementing a simple REST service [Apache 2.0]
+* [RestProvider ★ 14 ⧗ 258](https://github.com/fsprojects/RestProvider) - Create type providers just by implementing a simple REST service. [Apache 2.0]
 
 ## Development Tools
 
@@ -119,12 +119,12 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ### Editor plugins
 
 * [F# Bindings ★ 321 ⧗ 261](https://github.com/fsharp/fsharpbinding) - Archive of F# Language Bindings for Open Editors. [Apache 2.0]
-* [Fantomas ★ 119 ⧗ 5](https://github.com/dungpa/fantomas) - F# code formatter [Apache 2.0]
+* [Fantomas ★ 119 ⧗ 5](https://github.com/dungpa/fantomas) - F# code formatter. [Apache 2.0]
 * [FSharpFar ★ 33 ⧗ 54](https://github.com/nightroman/FarNet) - F# support for Far Manager. [BSD-3-Clause]
 * [Ionide](http://ionide.io/) - Atom Editor and Visual Studio Code package suite for cross platform F# development. [MIT]
 * [Vim F# ★ 66 ⧗ 3](https://github.com/fsharp/vim-fsharp) - F# support for Vim. [MIT]
 * [VimSpeak ★ 305 ⧗ 910](https://github.com/AshleyF/VimSpeak) - VimSpeak lets you control Vim with your voice using speech recognition. [MIT]
-* [Visual F# Power Tools ★ 310 ⧗ 53](https://github.com/fsprojects/VisualFSharpPowerTools) - Power commands for F# in Visual Studio [Apache 2.0]
+* [Visual F# Power Tools ★ 310 ⧗ 53](https://github.com/fsprojects/VisualFSharpPowerTools) - Power commands for F# in Visual Studio. [Apache 2.0]
 
 ## Game development
 
@@ -142,7 +142,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Serialization
 
-* [FsPickler ★ 195 ⧗ 13](https://github.com/mbraceproject/FsPickler) - Fast, multi-format messaging serializer for .NET [MIT]
+* [FsPickler ★ 195 ⧗ 13](https://github.com/mbraceproject/FsPickler) - Fast, multi-format messaging serializer for .NET. [MIT]
 
 ## Testing
 
