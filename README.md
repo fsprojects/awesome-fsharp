@@ -41,17 +41,17 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Concurrent, asynchronous and parallel programming
 
-* [FSharp.Control.AsyncSeq ★ 28 ⧗ 12](https://github.com/fsprojects/FSharp.Control.AsyncSeq) - collection of asynchronous programming utilities for F# [Apache 2.0]
-* [FSharpx.Async ★ 37 ⧗ 56](https://github.com/fsprojects/FSharpx.Async) - collection of asynchronous programming utilities for F# [Apache 2.0]
-* [Hopac ★ 268 ⧗ 7](https://github.com/Hopac/Hopac) - concurrent ML style concurrent programming library for F#. [MIT]
+* [FSharp.Control.AsyncSeq ★ 28 ⧗ 12](https://github.com/fsprojects/FSharp.Control.AsyncSeq) - Collection of asynchronous programming utilities for F# [Apache 2.0]
+* [FSharpx.Async ★ 37 ⧗ 56](https://github.com/fsprojects/FSharpx.Async) - Collection of asynchronous programming utilities for F# [Apache 2.0]
+* [Hopac ★ 268 ⧗ 7](https://github.com/Hopac/Hopac) - Concurrent ML style concurrent programming library for F#. [MIT]
 
 ## General purpose libraries
 
 * [Aether ★ 71 ⧗ 0](https://github.com/xyncro/aether) - Optics library for F#, similar to the Haskell Data.Lens package. [MIT]
-* [Chessie ★ 96 ⧗ 272](https://github.com/fsprojects/Chessie) - railway-oriented programming. [Unlicense]
-* [ExtCore ★ 96 ⧗ 0](https://github.com/jack-pappas/ExtCore) - extended core library for F#. [Apache 2.0]
-* [FSharpLu ★ 133 ⧗ 20](https://github.com/Microsoft/fsharplu) - lightweight utilities for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization. [MIT]
-* [FSharpPlus ★ 142 ⧗ 34](https://github.com/gmpl/FSharpPlus) - extensions for F#. [Apache 2.0]
+* [Chessie ★ 96 ⧗ 272](https://github.com/fsprojects/Chessie) - Railway-oriented programming. [Unlicense]
+* [ExtCore ★ 96 ⧗ 0](https://github.com/jack-pappas/ExtCore) - Extended core library for F#. [Apache 2.0]
+* [FSharpLu ★ 133 ⧗ 20](https://github.com/Microsoft/fsharplu) - Lightweight utilities for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization. [MIT]
+* [FSharpPlus ★ 142 ⧗ 34](https://github.com/gmpl/FSharpPlus) - Extensions for F#. [Apache 2.0]
 
 ## Build tools
 
@@ -67,7 +67,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Configuration
 
-* [Argu ★ 145 ⧗ 0](https://github.com/fsprojects/Argu) - declarative CLI argument/XML configuration parser for F# applications. [MIT]
+* [Argu ★ 145 ⧗ 0](https://github.com/fsprojects/Argu) - Declarative CLI argument/XML configuration parser for F# applications. [MIT]
 
 ## Data Science
 
@@ -147,7 +147,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ## Testing
 
 * [canopy ★ 304 ⧗ 2](https://github.com/lefthandedgoat/canopy) - F# web automation and testing framework. [MIT]
-* [Expecto ★ 124 ⧗ 2](https://github.com/haf/expecto) - a smooth testing framework for F# with tests-as-values and parallelism by default. [Apache 2.0]
+* [Expecto ★ 124 ⧗ 2](https://github.com/haf/expecto) - A smooth testing framework for F# with tests-as-values and parallelism by default. [Apache 2.0]
 * [FsCheck ★ 415 ⧗ 34](https://github.com/fscheck/FsCheck) - Random Testing for .NET. [BSD-3-Clause]
 * [fsharp-hedgehog ★ 42 ⧗ 4](https://github.com/hedgehogqa/fsharp-hedgehog) - Property-based testing system for F# [Apache 2.0]
 * [FsUnit ★ 193 ⧗ 15](https://github.com/fsprojects/FsUnit) - FsUnit makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework. [???]
@@ -202,12 +202,12 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ### Other Lists
 
 * **[Awesome .NET! ★ 4458 ⧗ 2](https://github.com/quozd/awesome-dotnet)** - A collection of awesome .NET libraries, tools, frameworks and software. [CC0 1.0]
-* [Awesome Fable](https://github.com/kunjee17/awesome-fable) - curated list of useful Fable tutorials, libraries and software. [CC0 1.0]
+* [Awesome Fable](https://github.com/kunjee17/awesome-fable) - Curated list of useful Fable tutorials, libraries and software. [CC0 1.0]
 * [F# Community Projects](http://fsharp.org/community/projects/)
 
 ### Websites
 
-* [Community for F#](http://c4fsharp.net/) - links to dojos and recordings of community presentations.
+* [Community for F#](http://c4fsharp.net/) - Links to dojos and recordings of community presentations.
 * [F# for Fun and Profit](https://fsharpforfunandprofit.com/)
 * [F# Software Foundation](http://fsharp.org/)
 * [Try F#](http://www.tryfsharp.org)
