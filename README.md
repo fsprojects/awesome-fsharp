@@ -51,6 +51,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [ExtCore ★ 96 ⧗ 0](https://github.com/jack-pappas/ExtCore) - extended core library for F#. [Apache 2.0]
 * [FSharpLu ★ 133 ⧗ 20](https://github.com/Microsoft/fsharplu) - lightweight utilities for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization. [MIT]
 * [FSharpPlus ★ 142 ⧗ 34](https://github.com/gmpl/FSharpPlus) - extensions for F#. [Apache 2.0]
+* [TypeShape ★ 64 ⧗ 0](https://github.com/eiriktsarpalis/TypeShape) - small, extensible F# library for practical generic programming. [MIT]
 
 ## Build tools
 
