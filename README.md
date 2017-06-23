@@ -22,6 +22,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
   - [Logging](#logging)
   - [Package Management](#package-management)
   - [Serialization](#serialization)
+  - [Parsing](#parsing)
   - [Testing](#testing)
   - [Web frameworks](#web-frameworks)
   - [.Net Core Templates](#net-core-templates)
@@ -146,6 +147,10 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ## Serialization
 
 * [FsPickler ★ 195 ⧗ 13](https://github.com/mbraceproject/FsPickler) - Fast, multi-format messaging serializer for .NET. [MIT]
+
+## Parsing
+
+* [FParsec ★ 50 ⧗ 0](https://github.com/stephan-tolksdorf/fparsec) - FParsec is a parser combinator library for F#. [BSD 2](http://www.quanttec.com/fparsec/license.html)
 
 ## Testing
 
