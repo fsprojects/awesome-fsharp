@@ -59,6 +59,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ## Build tools
 
 * **[FAKE ★ 733 ⧗ 0](https://github.com/fsharp/FAKE)** - "F# Make" is a cross platform build automation system. [Apache 2.0]
+* **[Xake ★ 8 ⧗ 0](https://github.com/OlegZee/Xake)** - Another MAKE utility implementation on F#, fully declarative with no-brain parallelism, inspired by Shake. [MIT]
 
 ## Compilers
 
