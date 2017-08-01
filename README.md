@@ -103,6 +103,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [GraphProvider ★ 21 ⧗ 379](https://github.com/fsprojects/GraphProvider) - `.dgml` state machine type provider. [Apache 2.0]
 * [MatDataProvider ★ 6 ⧗ 378](https://github.com/fsprojects/matprovider) - Erased type provider for `.mat` files (binary MATLAB format files). [Apache 2.0]
 * [R Type Provider ★ 159 ⧗ 365](https://github.com/BlueMountainCapital/FSharpRProvider) - Type provider to interop with R. [BSD-2-Clause]
+* [Rezoom.SQL ★ 7 ⧗ 0](https://github.com/rspeele/Rezoom.SQL) - Statically typed SQL for F#. [MIT]
 * [S3Provider ★ 16 ⧗ 379](https://github.com/fsprojects/S3Provider) - Experimental type provider for Amazon S3. [MIT]
 * [SQLProvider ★ 192 ⧗ 7](https://github.com/fsprojects/SQLProvider) - General F# SQL database erasing type provider, supporting LINQ queries, schema exploration, individuals, CRUD operations and much more besides. [Apache 2.0]
 * [SwaggerProvider ★ 81 ⧗ 3](https://github.com/fsprojects/SwaggerProvider) - F# generative Type Provider for Swagger. [Unilicense]
