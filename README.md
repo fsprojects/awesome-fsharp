@@ -46,6 +46,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [FSharp.Control.AsyncSeq ★ 28 ⧗ 12](https://github.com/fsprojects/FSharp.Control.AsyncSeq) - Collection of asynchronous programming utilities for F#. [Apache 2.0]
 * [FSharpx.Async ★ 37 ⧗ 56](https://github.com/fsprojects/FSharpx.Async) - Collection of asynchronous programming utilities for F#. [Apache 2.0]
 * [Hopac ★ 268 ⧗ 7](https://github.com/Hopac/Hopac) - Concurrent ML style concurrent programming library for F#. [MIT]
+* [TaskBuilder.fs](https://github.com/rspeele/TaskBuilder.fs) - F# computation expression builder for System.Threading.Tasks. [CC0]
 
 ## General purpose libraries
 
