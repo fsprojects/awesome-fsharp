@@ -25,6 +25,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
   - [Parsing](#parsing)
   - [Testing](#testing)
   - [Web frameworks](#web-frameworks)
+  - [Search](#search)
   - [.Net Core Templates](#net-core-templates)
   - [Resources](#resources)
   - [Blogs](#blogs)
@@ -175,6 +176,9 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * **[Nancy ★ 5133 ⧗ 16](https://github.com/NancyFx/Nancy)** - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono. [MIT]
 * **[Suave ★ 756 ⧗ 2](https://github.com/SuaveIO/suave)** - Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition. [Apache 2.0]
 * [WebSharper ★ 270 ⧗ 7](https://github.com/intellifactory/websharper) - F#-based web programming platform including a compiler from F# code to JavaScript. [Apache 2.0]
+
+## Search
+* [FlexSearch ★ 133 ⧗ 14](https://github.com/flexsearch/flexsearch) - high performance REST/SOAP services based full-text searching platform built on top of the popular Lucene search library. [Apache 2.0]
 
  ## .Net Core Templates
  * [MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold) 
