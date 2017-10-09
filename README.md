@@ -187,7 +187,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Giraffe Template](https://github.com/dustinmoris/Giraffe/tree/master/template) (Quick install: `dotnet new -i "giraffe-template::*"`)
  * [vbfox's F# Templates](https://github.com/vbfox/FSharpTemplates)
     - F# Template for creating github project with appveyor and travis support
- * [Fable, F# |> Bable](http://fable.io) `dotnet new -i Fable.Template::*`
+ * [Fable, F# |> Babel](http://fable.io) `dotnet new -i Fable.Template::*`
  * [Fable-elmish](https://github.com/fable-compiler/fable-elmish) `dotnet new -i Fable.Template.Elmish.React::*`
  * [Freya](https://freya.io) `dotnet new --install Freya.Template::*`
  * [ASP.NET Core WebAPI F# Template](https://github.com/MNie/FSharpNetCoreWebApiTemplate) `dotnet new -i WebAPI.FSharp.Template::*`
