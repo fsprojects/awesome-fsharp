@@ -170,7 +170,6 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Web frameworks
 
-* **[ASP.NET Core MVC ★ 4189 ⧗ 0](https://github.com/aspnet/Mvc)** - ASP.NET Core MVC is a model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor. [Apache 2.0]
 * [Freya ★ 241 ⧗ 7](https://github.com/xyncro/freya) - Modern, purely functional stack for web programming in F#. [Apache 2.0]
 * [Genit ★ 62 ⧗ 1](https://github.com/lefthandedgoat/genit) - Cross-platform website generator and server using F#, Suave and PostgreSQL or MS SQL Server.
 * [Giraffe ★ 526 ⧗ 49](https://github.com/giraffe-fsharp/Giraffe) - Native functional ASP.NET Core web framework for F# developers. [Apache 2.0]
