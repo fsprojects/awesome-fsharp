@@ -86,6 +86,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * **[Math.NET ★ 1081 ⧗ 3](https://github.com/mathnet/mathnet-numerics)** - Math.NET Numerics aims to provide methods and algorithms for numerical computations in science, engineering and every day use. F# specific bindings available. [MIT]
 * [SIMDArray ★ 42 ⧗ 11](https://github.com/jackmott/SIMDArray) - SIMD enhanced Array extensions for faster computation. [MIT]
 
+
 ## Type providers
 
 * [ApiaryProvider ★ 9 ⧗ 380](https://github.com/fsprojects/ApiaryProvider) - Type provider for Apiary.io. [Apache 2.0]
@@ -124,6 +125,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [MonoDevelop](http://www.monodevelop.com/) - Cross-platform IDE mostly aimed at Mono/.NET developers. [LGPLv2 and X11/MIT]
 * [Visual Studio](https://www.visualstudio.com/) - IDE from Microsoft with first class F# support(Windows only). [Proprietary]
 * [Xamarin Studio](https://www.xamarin.com/studio) - Advanced IDE for iOS & Android. [Proprietary]
+* [Jetbrains Rider](https://www.jetbrains.com/Rider) - Cross-Platform .Net IDE with F# support. [Proprietary] 
 
 ### Editor plugins
 
