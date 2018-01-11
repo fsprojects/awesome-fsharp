@@ -192,7 +192,9 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [Fable-elmish](https://github.com/fable-compiler/fable-elmish) `dotnet new -i Fable.Template.Elmish.React::*`
  * [Freya](https://freya.io) `dotnet new --install Freya.Template::*`
  * [ASP.NET Core WebAPI F# Template](https://github.com/MNie/FSharpNetCoreWebApiTemplate) `dotnet new -i WebAPI.FSharp.Template::*`
- * [Expecto Template](https://github.com/MNie/Expecto.Template) `dotnet new -i Expecto.Template::1.0.0-beta1`
+ * [Expecto Template](https://github.com/MNie/Expecto.Template) `dotnet new -i Expecto.Template::*`
+ * [NancyFx Template](https://github.com/MNie/NancyFxCore) `dotnet new -i NancyFx.Core.Template::*`
+ * [SAFE Stack Template](https://github.com/SAFE-Stack/SAFE-template) `dotnet new -i SAFE.Template::*`
 
 ## Resources
 
