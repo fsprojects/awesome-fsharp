@@ -159,6 +159,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 * [FParsec ★ 50 ⧗ 0](https://github.com/stephan-tolksdorf/fparsec) - FParsec is a parser combinator library for F#. [[BSD 2](http://www.quanttec.com/fparsec/license.html)]
 * [FsAttoparsec ★ 1 ⧗ 0](https://github.com/haf/FsAttoparsec) - Port of Bryan O'Sullivan's attoparsec from Haskell to F#. [BSD-3-Clause]
+* [XParsec ★ 29 ⧗ 2](https://github.com/corsis/XParsec) - Extensible, type-and-source-polymorphic, non-linear applicative parser combinator library for F# 3.0 and 4.0. [BSD-3-Clause]
 
 ## Testing
 
