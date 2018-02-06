@@ -71,6 +71,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * **[FSharp ★ 1549 ⧗ 0](https://github.com/fsharp/fsharp)** - The Open Edition of the F# compiler, core library and tools. [Apache 2.0]
 * [FunScript ★ 446 ⧗ 64](https://github.com/ZachBray/FunScript) - F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider. [Apache-2.0]
 * [Fez ★ 49 ⧗ 0](https://github.com/kjnilsson/fez) - F# to Erlang compiler. [MIT]
+* [Juniper ★ 73 ⧗ 0](https://github.com/calebh/Juniper) - Functional Reactive Programming for the Arduino and other microcontrollers. [MIT]
 * **[Visual F# ★ 988 ⧗ 0](https://github.com/Microsoft/visualfsharp)** - The Visual F# compiler and tools. [Apache 2.0]
 
 ## Configuration
