@@ -101,6 +101,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [FSharp.Data ★ 375 ⧗ 8](https://github.com/fsharp/FSharp.Data) - Data science library that contains type providers for CSV, HTML, JSON, XML, and WorldBank data. [Apache 2.0]
 * [FSharp.Data.DbPedia ★ 9 ⧗ 379](https://github.com/fsprojects/FSharp.Data.DbPedia) - F# type provider for DBpedia. [Unilicense]
 * [FSharp.Data.HiveProvider ★ 8 ⧗ 379](https://github.com/fsprojects/FSharp.Data.HiveProvider) - Demonstrator F# type provider for Apache Hive. [Apache 2.0]
+* [FSharp.Data.Npgsql ★ 6 ⧗ 1](https://github.com/demetrixbio/FSharp.Data.Npgsql) - F# type providers library on a top of well-known Npgsql ADO.NET client library. [Apache 2.0]
 * [FSharp.Data.SqlClient ★ 121 ⧗ 16](https://github.com/fsprojects/FSharp.Data.SqlClient) - F# Type Provider for statically typed access to T-SQL command parameters and result set. [Apache 2.0]
 * [FSharp.Data.Toolbox ★ 38 ⧗ 7](https://github.com/fsprojects/FSharp.Data.Toolbox) - Library for various data access APIs based on FSharp.Data. The library currently includes the Twitter type provider for access to Twitter users and feeds, and SAS type provider to read SAS dataset files. [Apache 2.0]
 * [FSharp.Data.TypeProviders ★ 9 ⧗ 379](https://github.com/fsprojects/FSharp.Data.TypeProviders) - Library that contains type providers for `.edmx` files, `.dbml` files, WSLD services, OData services, and SQL databases. [Unilicense]
