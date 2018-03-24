@@ -135,6 +135,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ### Editor plugins
 
+* [Emacs F# mode ★ 80 ⧗ 27](https://github.com/fsharp/emacs-fsharp-mode) - F# support in Emacs (including Intellisense and Interactive mode) [Apache 2.0]
 * [F# Bindings ★ 321 ⧗ 261](https://github.com/fsharp/fsharpbinding) - Archive of F# Language Bindings for Open Editors. [Apache 2.0]
 * [Fantomas ★ 119 ⧗ 5](https://github.com/dungpa/fantomas) - F# code formatter. [Apache 2.0]
 * [FSharpFar ★ 33 ⧗ 54](https://github.com/nightroman/FarNet) - F# support for Far Manager. [BSD-3-Clause]
