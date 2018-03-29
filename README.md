@@ -236,6 +236,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * **[Awesome .NET! ★ 4458 ⧗ 2](https://github.com/quozd/awesome-dotnet)** - Collection of awesome .NET libraries, tools, frameworks and software. [CC0 1.0]
 * [Awesome Fable](https://github.com/kunjee17/awesome-fable) - Curated list of useful Fable tutorials, libraries and software. [CC0 1.0]
 * [F# Community Projects](http://fsharp.org/community/projects/)
+* [WTF#](https://wtfsharp.net) - podcast focused on F# and its ecosystem
 
 ### Websites
 
