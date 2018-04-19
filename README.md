@@ -130,16 +130,15 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 * [MonoDevelop](http://www.monodevelop.com/) - Cross-platform IDE mostly aimed at Mono/.NET developers. [LGPLv2 and X11/MIT]
 * [Visual Studio](https://www.visualstudio.com/) - IDE from Microsoft with first class F# support(Windows only). [Proprietary]
-* [Xamarin Studio](https://www.xamarin.com/studio) - Advanced IDE for iOS & Android. [Proprietary]
-* [Jetbrains Rider](https://www.jetbrains.com/Rider) - Cross-Platform .Net IDE with F# support. [Proprietary] 
+* [Jetbrains Rider](https://www.jetbrains.com/Rider) - Cross-Platform .Net IDE with F# support. [Proprietary, free for open source projects] 
 
 ### Editor plugins
 
 * [Emacs F# mode ★ 80 ⧗ 27](https://github.com/fsharp/emacs-fsharp-mode) - F# support in Emacs (including Intellisense and Interactive mode) [Apache 2.0]
 * [F# Bindings ★ 321 ⧗ 261](https://github.com/fsharp/fsharpbinding) - Archive of F# Language Bindings for Open Editors. [Apache 2.0]
+* [Ionide](http://ionide.io/) - Atom Editor and Visual Studio Code package suite for cross platform F# development. [MIT]
 * [Fantomas ★ 119 ⧗ 5](https://github.com/dungpa/fantomas) - F# code formatter. [Apache 2.0]
 * [FSharpFar ★ 33 ⧗ 54](https://github.com/nightroman/FarNet) - F# support for Far Manager. [BSD-3-Clause]
-* [Ionide](http://ionide.io/) - Atom Editor and Visual Studio Code package suite for cross platform F# development. [MIT]
 * [Vim F# ★ 66 ⧗ 3](https://github.com/fsharp/vim-fsharp) - F# support for Vim. [MIT]
 * [VimSpeak ★ 305 ⧗ 910](https://github.com/AshleyF/VimSpeak) - VimSpeak lets you control Vim with your voice using speech recognition. [MIT]
 * [Visual F# Power Tools ★ 310 ⧗ 53](https://github.com/fsprojects/VisualFSharpPowerTools) - Power commands for F# in Visual Studio. [Apache 2.0]
@@ -147,7 +146,9 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ## Game development
 
 * [FsUnity](https://github.com/FsUnity) - F# Libraries, Tools, and Plugins for the Unity3d Game Engine. [Unilicense]
+* [Godot](http://www.lkokemohr.de/fsharp_godot.html) - Tutorial how to use F# with Godot. 
 * **[Nu Game Engine ★ 502 ⧗ 9](https://github.com/bryanedds/Nu)** - Cross-platform F# 2D game engine built in the functional style. Uses SDL2 and Farseer Physics. [MIT]
+
 
 ## Logging
 
@@ -235,13 +236,14 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 * **[Awesome .NET! ★ 4458 ⧗ 2](https://github.com/quozd/awesome-dotnet)** - Collection of awesome .NET libraries, tools, frameworks and software. [CC0 1.0]
 * [Awesome Fable](https://github.com/kunjee17/awesome-fable) - Curated list of useful Fable tutorials, libraries and software. [CC0 1.0]
-* [F# Community Projects](http://fsharp.org/community/projects/)
+* [F# Community Projects](http://fsharp.org/community/projects/) - FSharp community projects
 * [WTF#](https://wtfsharp.net) - podcast focused on F# and its ecosystem
 
 ### Websites
 
+* [F# Software Foundation](http://fsharp.org/) - Main website
+* [F# for Fun and Profit](https://fsharpforfunandprofit.com/) - Reference tutorials
 * [Community for F#](http://c4fsharp.net/) - Links to dojos and recordings of community presentations.
-* [F# for Fun and Profit](https://fsharpforfunandprofit.com/)
-* [F# Software Foundation](http://fsharp.org/)
+* [DotNetFiddle](https://dotnetfiddle.net/) - Online REPL
 * [SharpLab](https://sharplab.io/) - C#/VB/F# compiler playground.
-* [Try F#](http://www.tryfsharp.org)
+* [Try F#](http://www.tryfsharp.org) - Online tutorials, currently without execution of code due to Silverlight dependency
