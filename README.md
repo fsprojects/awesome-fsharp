@@ -170,7 +170,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [XParsec ★ 29 ⧗ 2](https://github.com/corsis/XParsec) - Extensible, type-and-source-polymorphic, non-linear applicative parser combinator library for F# 3.0 and 4.0. [BSD-3-Clause]
 
 ## Testing
-
+* [altcover ★ 139 ⧗ 0](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for .net/.net core and Mono. [MIT]
 * [canopy ★ 304 ⧗ 2](https://github.com/lefthandedgoat/canopy) - F# web automation and testing framework. [MIT]
 * [Expecto ★ 124 ⧗ 2](https://github.com/haf/expecto) - Smooth testing framework for F# with tests-as-values and parallelism by default. [Apache 2.0]
 * [FsCheck ★ 415 ⧗ 34](https://github.com/fscheck/FsCheck) - Random Testing for .NET. [BSD-3-Clause]
