@@ -6,33 +6,34 @@
 A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Table of Contents
-- [ Awesome F#](#)
+- [Awesome F#](#)
   - [Actor frameworks](#actor-frameworks)
-  - [Concurrent, asynchronous and parallel programming](#concurrent-asynchronous-and-parallel-programming)
-  - [General purpose libraries](#general-purpose-libraries)
   - [Build tools](#build-tools)
   - [Compilers](#compilers)
+  - [Concurrent, asynchronous and parallel programming](#concurrent-asynchronous-and-parallel-programming)
+  - [Configuration](#configuration)
   - [Data Science](#data-science)
-  - [Type providers](#type-providers)
-  - [Creating type providers](#creating-type-providers)
   - [Development Tools](#development-tools)
-  - [Editor plugins](#editor-plugins)
-  - [IDE](#ide)
+    - [IDE](#ide)
+    - [Editor plugins](#editor-plugins)
   - [Game development](#game-development)
+  - [General purpose libraries](#general-purpose-libraries)
   - [Logging](#logging)
   - [Package Management](#package-management)
-  - [Serialization](#serialization)
   - [Parsing](#parsing)
-  - [Testing](#testing)
-  - [Web frameworks](#web-frameworks)
   - [Search](#search)
+  - [Serialization](#serialization)
+  - [Testing](#testing)
+  - [Type providers](#type-providers)
+    - [Creating type providers](#creating-type-providers)
+  - [Web frameworks](#web-frameworks)
   - [.Net Core Templates](#net-core-templates)
   - [Resources](#resources)
-  - [Blogs](#blogs)
-  - [Cheatsheets](#cheatsheets)
-  - [Community](#community)
-  - [Other Lists](#other-lists)
-  - [Websites](#websites)
+    - [Blogs](#blogs)
+    - [Cheatsheets](#cheatsheets)
+    - [Community](#community)
+    - [Other Lists](#other-lists)
+    - [Websites](#websites)
 
 ## Actor frameworks
 
@@ -41,25 +42,6 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [Cricket ★ 141 ⧗ 380](https://github.com/fsprojects/Cricket) - Actor framework for F#. [Unlicense]
 * [Orleankka ★ 175 ⧗ 5](https://github.com/OrleansContrib/Orleankka) - Functional API for Orleans Framework. [Apache 2.0]
 * **[Orleans ★ 2754 ⧗ 0](https://github.com/dotnet/orleans)** - Distributed Virtual Actor Model. [MIT]
-
-## Concurrent, asynchronous and parallel programming
-
-* [FSharp.Control.AsyncSeq ★ 28 ⧗ 12](https://github.com/fsprojects/FSharp.Control.AsyncSeq) - Collection of asynchronous programming utilities for F#. [Apache 2.0]
-* [FSharpx.Async ★ 37 ⧗ 56](https://github.com/fsprojects/FSharpx.Async) - Collection of asynchronous programming utilities for F#. [Apache 2.0]
-* [Giraffe.Tasks ★ 13 ⧗ 0](https://github.com/giraffe-fsharp/giraffe.tasks) - task computation expression to work natively with .NET's Tasks from an F# application. [Apache 2.0]
-* [Hopac ★ 268 ⧗ 7](https://github.com/Hopac/Hopac) - Concurrent ML style concurrent programming library for F#. [MIT]
-* [TaskBuilder.fs](https://github.com/rspeele/TaskBuilder.fs) - F# computation expression builder for System.Threading.Tasks. [CC0]
-
-## General purpose libraries
-
-* [Aether ★ 71 ⧗ 0](https://github.com/xyncro/aether) - Optics library for F#, similar to the Haskell Data.Lens package. [MIT]
-* [Chessie ★ 96 ⧗ 272](https://github.com/fsprojects/Chessie) - Railway-oriented programming. [Unlicense]
-* [ExtCore ★ 96 ⧗ 0](https://github.com/jack-pappas/ExtCore) - Extended core library for F#. [Apache 2.0]
-* [FSharpLu ★ 133 ⧗ 20](https://github.com/Microsoft/fsharplu) - Lightweight utilities for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization. [MIT]
-* [FSharpPlus ★ 142 ⧗ 34](https://github.com/gmpl/FSharpPlus) - Extensions for F#. [Apache 2.0]
-* [TypeShape ★ 64 ⧗ 0](https://github.com/eiriktsarpalis/TypeShape) - Small, extensible F# library for practical generic programming. [MIT]
-* [LiteDB.FSharp](https://github.com/Zaid-Ajaj/LiteDB.FSharp) - F# Support for [LiteDB](https://github.com/mbdavid/LiteDB), an embedded single file database for .NET [MIT]
-* [Npgsql.FSharp](https://github.com/Zaid-Ajaj/Npgsql.FSharp) - Thin F# wrapper around [Npgsql](https://github.com/npgsql/npgsql), the PostgreSQL database driver [MIT]
 
 ## Build tools
 
@@ -77,6 +59,14 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [Pengines.Client ★ 3 ⧗ 0](https://github.com/ninjarobot/Pengines.Client) - sandboxed Prolog environment. [BSD-2-Clause]
 * **[Visual F# ★ 988 ⧗ 0](https://github.com/Microsoft/visualfsharp)** - The Visual F# compiler and tools. [Apache 2.0]
 
+## Concurrent, asynchronous and parallel programming
+
+* [FSharp.Control.AsyncSeq ★ 28 ⧗ 12](https://github.com/fsprojects/FSharp.Control.AsyncSeq) - Collection of asynchronous programming utilities for F#. [Apache 2.0]
+* [FSharpx.Async ★ 37 ⧗ 56](https://github.com/fsprojects/FSharpx.Async) - Collection of asynchronous programming utilities for F#. [Apache 2.0]
+* [Giraffe.Tasks ★ 13 ⧗ 0](https://github.com/giraffe-fsharp/giraffe.tasks) - task computation expression to work natively with .NET's Tasks from an F# application. [Apache 2.0]
+* [Hopac ★ 268 ⧗ 7](https://github.com/Hopac/Hopac) - Concurrent ML style concurrent programming library for F#. [MIT]
+* [TaskBuilder.fs](https://github.com/rspeele/TaskBuilder.fs) - F# computation expression builder for System.Threading.Tasks. [CC0]
+
 ## Configuration
 
 * [Argu ★ 145 ⧗ 0](https://github.com/fsprojects/Argu) - Declarative CLI argument/XML configuration parser for F# applications. [MIT]
@@ -91,6 +81,74 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * **[Math.NET ★ 1081 ⧗ 3](https://github.com/mathnet/mathnet-numerics)** - Math.NET Numerics aims to provide methods and algorithms for numerical computations in science, engineering and every day use. F# specific bindings available. [MIT]
 * [SIMDArray ★ 42 ⧗ 11](https://github.com/jackmott/SIMDArray) - SIMD enhanced Array extensions for faster computation. [MIT]
 
+## Development Tools
+
+### IDE
+
+* [MonoDevelop](http://www.monodevelop.com/) - Cross-platform IDE mostly aimed at Mono/.NET developers. [LGPLv2 and X11/MIT]
+* [Visual Studio](https://www.visualstudio.com/) - IDE from Microsoft with first class F# support(Windows only). [Proprietary]
+* [Jetbrains Rider](https://www.jetbrains.com/Rider) - Cross-Platform .Net IDE with F# support. [Proprietary, free for open source projects] 
+
+### Editor plugins
+
+* [Emacs F# mode ★ 80 ⧗ 27](https://github.com/fsharp/emacs-fsharp-mode) - F# support in Emacs (including Intellisense and Interactive mode) [Apache 2.0]
+* [F# Bindings ★ 321 ⧗ 261](https://github.com/fsharp/fsharpbinding) - Archive of F# Language Bindings for Open Editors. [Apache 2.0]
+* [Ionide](http://ionide.io/) - Atom Editor and Visual Studio Code package suite for cross platform F# development. [MIT]
+* [Fantomas ★ 119 ⧗ 5](https://github.com/dungpa/fantomas) - F# code formatter. [Apache 2.0]
+* [FSharpFar ★ 33 ⧗ 54](https://github.com/nightroman/FarNet) - F# support for Far Manager. [BSD-3-Clause]
+* [Vim F# ★ 66 ⧗ 3](https://github.com/fsharp/vim-fsharp) - F# support for Vim. [MIT]
+* [VimSpeak ★ 305 ⧗ 910](https://github.com/AshleyF/VimSpeak) - VimSpeak lets you control Vim with your voice using speech recognition. [MIT]
+* [Visual F# Power Tools ★ 310 ⧗ 53](https://github.com/fsprojects/VisualFSharpPowerTools) - Power commands for F# in Visual Studio. [Apache 2.0]
+
+## General purpose libraries
+
+* [Aether ★ 71 ⧗ 0](https://github.com/xyncro/aether) - Optics library for F#, similar to the Haskell Data.Lens package. [MIT]
+* [Chessie ★ 96 ⧗ 272](https://github.com/fsprojects/Chessie) - Railway-oriented programming. [Unlicense]
+* [ExtCore ★ 96 ⧗ 0](https://github.com/jack-pappas/ExtCore) - Extended core library for F#. [Apache 2.0]
+* [FSharpLu ★ 133 ⧗ 20](https://github.com/Microsoft/fsharplu) - Lightweight utilities for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization. [MIT]
+* [FSharpPlus ★ 142 ⧗ 34](https://github.com/gmpl/FSharpPlus) - Extensions for F#. [Apache 2.0]
+* [TypeShape ★ 64 ⧗ 0](https://github.com/eiriktsarpalis/TypeShape) - Small, extensible F# library for practical generic programming. [MIT]
+* [LiteDB.FSharp](https://github.com/Zaid-Ajaj/LiteDB.FSharp) - F# Support for [LiteDB](https://github.com/mbdavid/LiteDB), an embedded single file database for .NET [MIT]
+* [Npgsql.FSharp](https://github.com/Zaid-Ajaj/Npgsql.FSharp) - Thin F# wrapper around [Npgsql](https://github.com/npgsql/npgsql), the PostgreSQL database driver [MIT]
+
+## Game development
+
+* [FsUnity](https://github.com/FsUnity) - F# Libraries, Tools, and Plugins for the Unity3d Game Engine. [Unilicense]
+* [Godot](http://www.lkokemohr.de/fsharp_godot.html) - Tutorial how to use F# with Godot. 
+* **[Nu Game Engine ★ 502 ⧗ 9](https://github.com/bryanedds/Nu)** - Cross-platform F# 2D game engine built in the functional style. Uses SDL2 and Farseer Physics. [MIT]
+
+## Logging
+
+* [Logary ★ 259 ⧗ 0](https://github.com/logary/logary/) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for mono and .Net. [Apache 2.0]
+
+## Package Management
+
+* [NuGet](https://www.nuget.org/) - NuGet is the package manager for the Microsoft development platform including .NET. [Apache 2.0]
+* **[Paket ★ 903 ⧗ 0](https://github.com/fsprojects/Paket)** - Dependency manager for .NET with support for NuGet packages and Git repositories. [MIT]
+
+## Parsing
+
+* [FParsec ★ 50 ⧗ 0](https://github.com/stephan-tolksdorf/fparsec) - FParsec is a parser combinator library for F#. [[BSD-2-Clause](http://www.quanttec.com/fparsec/license.html)]
+* [FsAttoparsec ★ 1 ⧗ 0](https://github.com/haf/FsAttoparsec) - Port of Bryan O'Sullivan's attoparsec from Haskell to F#. [BSD-3-Clause]
+* [XParsec ★ 29 ⧗ 2](https://github.com/corsis/XParsec) - Extensible, type-and-source-polymorphic, non-linear applicative parser combinator library for F# 3.0 and 4.0. [BSD-3-Clause]
+
+## Serialization
+
+* [FsPickler ★ 195 ⧗ 13](https://github.com/mbraceproject/FsPickler) - Fast, multi-format messaging serializer for .NET. [MIT]
+
+## Search
+* [FlexSearch ★ 133 ⧗ 14](https://github.com/flexsearch/flexsearch) - high performance REST/SOAP services based full-text searching platform built on top of the popular Lucene search library. [Apache 2.0]
+
+## Testing
+* [altcover ★ 139 ⧗ 0](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for .net/.net core and Mono. [MIT]
+* [canopy ★ 304 ⧗ 2](https://github.com/lefthandedgoat/canopy) - F# web automation and testing framework. [MIT]
+* [Expecto ★ 124 ⧗ 2](https://github.com/haf/expecto) - Smooth testing framework for F# with tests-as-values and parallelism by default. [Apache 2.0]
+* [FsCheck ★ 415 ⧗ 34](https://github.com/fscheck/FsCheck) - Random Testing for .NET. [BSD-3-Clause]
+* [fsharp-hedgehog ★ 42 ⧗ 4](https://github.com/hedgehogqa/fsharp-hedgehog) - Property-based testing system for F#. [Apache 2.0]
+* [FsUnit ★ 193 ⧗ 15](https://github.com/fsprojects/FsUnit) - FsUnit makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework. [???]
+* [Persimmon ★ 29 ⧗ 9](https://github.com/persimmon-projects/Persimmon) - Unit test framework for F# using computation expressions. [MIT]
+* [unquote ★ 88 ⧗ 17](https://github.com/swensensoftware/unquote) - Write F# unit test assertions as quoted expressions. [Apache 2.0]
+* [xUnit.net](https://xunit.github.io/) - Free, open source, community-focused unit testing tool for the .NET Framework. [Apache 2.0]
 
 ## Type providers
 
@@ -123,63 +181,6 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [FSharp.TypeProviders.StarterPack ★ 104 ⧗ 42](https://github.com/fsprojects/FSharp.TypeProviders.StarterPack) - The ProvidedTypes SDK for creating F# type providers. [Apache 2.0]
 * [RestProvider ★ 14 ⧗ 258](https://github.com/fsprojects/RestProvider) - Create type providers just by implementing a simple REST service. [Apache 2.0]
 
-## Development Tools
-
-
-### IDE
-
-* [MonoDevelop](http://www.monodevelop.com/) - Cross-platform IDE mostly aimed at Mono/.NET developers. [LGPLv2 and X11/MIT]
-* [Visual Studio](https://www.visualstudio.com/) - IDE from Microsoft with first class F# support(Windows only). [Proprietary]
-* [Jetbrains Rider](https://www.jetbrains.com/Rider) - Cross-Platform .Net IDE with F# support. [Proprietary, free for open source projects] 
-
-### Editor plugins
-
-* [Emacs F# mode ★ 80 ⧗ 27](https://github.com/fsharp/emacs-fsharp-mode) - F# support in Emacs (including Intellisense and Interactive mode) [Apache 2.0]
-* [F# Bindings ★ 321 ⧗ 261](https://github.com/fsharp/fsharpbinding) - Archive of F# Language Bindings for Open Editors. [Apache 2.0]
-* [Ionide](http://ionide.io/) - Atom Editor and Visual Studio Code package suite for cross platform F# development. [MIT]
-* [Fantomas ★ 119 ⧗ 5](https://github.com/dungpa/fantomas) - F# code formatter. [Apache 2.0]
-* [FSharpFar ★ 33 ⧗ 54](https://github.com/nightroman/FarNet) - F# support for Far Manager. [BSD-3-Clause]
-* [Vim F# ★ 66 ⧗ 3](https://github.com/fsharp/vim-fsharp) - F# support for Vim. [MIT]
-* [VimSpeak ★ 305 ⧗ 910](https://github.com/AshleyF/VimSpeak) - VimSpeak lets you control Vim with your voice using speech recognition. [MIT]
-* [Visual F# Power Tools ★ 310 ⧗ 53](https://github.com/fsprojects/VisualFSharpPowerTools) - Power commands for F# in Visual Studio. [Apache 2.0]
-
-## Game development
-
-* [FsUnity](https://github.com/FsUnity) - F# Libraries, Tools, and Plugins for the Unity3d Game Engine. [Unilicense]
-* [Godot](http://www.lkokemohr.de/fsharp_godot.html) - Tutorial how to use F# with Godot. 
-* **[Nu Game Engine ★ 502 ⧗ 9](https://github.com/bryanedds/Nu)** - Cross-platform F# 2D game engine built in the functional style. Uses SDL2 and Farseer Physics. [MIT]
-
-
-## Logging
-
-* [Logary ★ 259 ⧗ 0](https://github.com/logary/logary/) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for mono and .Net. [Apache 2.0]
-
-## Package Management
-
-* [NuGet](https://www.nuget.org/) - NuGet is the package manager for the Microsoft development platform including .NET. [Apache 2.0]
-* **[Paket ★ 903 ⧗ 0](https://github.com/fsprojects/Paket)** - Dependency manager for .NET with support for NuGet packages and Git repositories. [MIT]
-
-## Serialization
-
-* [FsPickler ★ 195 ⧗ 13](https://github.com/mbraceproject/FsPickler) - Fast, multi-format messaging serializer for .NET. [MIT]
-
-## Parsing
-
-* [FParsec ★ 50 ⧗ 0](https://github.com/stephan-tolksdorf/fparsec) - FParsec is a parser combinator library for F#. [[BSD-2-Clause](http://www.quanttec.com/fparsec/license.html)]
-* [FsAttoparsec ★ 1 ⧗ 0](https://github.com/haf/FsAttoparsec) - Port of Bryan O'Sullivan's attoparsec from Haskell to F#. [BSD-3-Clause]
-* [XParsec ★ 29 ⧗ 2](https://github.com/corsis/XParsec) - Extensible, type-and-source-polymorphic, non-linear applicative parser combinator library for F# 3.0 and 4.0. [BSD-3-Clause]
-
-## Testing
-* [altcover ★ 139 ⧗ 0](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for .net/.net core and Mono. [MIT]
-* [canopy ★ 304 ⧗ 2](https://github.com/lefthandedgoat/canopy) - F# web automation and testing framework. [MIT]
-* [Expecto ★ 124 ⧗ 2](https://github.com/haf/expecto) - Smooth testing framework for F# with tests-as-values and parallelism by default. [Apache 2.0]
-* [FsCheck ★ 415 ⧗ 34](https://github.com/fscheck/FsCheck) - Random Testing for .NET. [BSD-3-Clause]
-* [fsharp-hedgehog ★ 42 ⧗ 4](https://github.com/hedgehogqa/fsharp-hedgehog) - Property-based testing system for F#. [Apache 2.0]
-* [FsUnit ★ 193 ⧗ 15](https://github.com/fsprojects/FsUnit) - FsUnit makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework. [???]
-* [Persimmon ★ 29 ⧗ 9](https://github.com/persimmon-projects/Persimmon) - Unit test framework for F# using computation expressions. [MIT]
-* [unquote ★ 88 ⧗ 17](https://github.com/swensensoftware/unquote) - Write F# unit test assertions as quoted expressions. [Apache 2.0]
-* [xUnit.net](https://xunit.github.io/) - Free, open source, community-focused unit testing tool for the .NET Framework. [Apache 2.0]
-
 ## Web frameworks
 
 * [Freya ★ 241 ⧗ 7](https://github.com/xyncro/freya) - Modern, purely functional stack for web programming in F#. [Apache 2.0]
@@ -189,10 +190,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * **[Suave ★ 756 ⧗ 2](https://github.com/SuaveIO/suave)** - Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition. [Apache 2.0]
 * [WebSharper ★ 270 ⧗ 7](https://github.com/intellifactory/websharper) - F#-based web programming platform including a compiler from F# code to JavaScript. [Apache 2.0]
 
-## Search
-* [FlexSearch ★ 133 ⧗ 14](https://github.com/flexsearch/flexsearch) - high performance REST/SOAP services based full-text searching platform built on top of the popular Lucene search library. [Apache 2.0]
-
- ## .Net Core Templates
+## .Net Core Templates
  * [MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold) 
     - F# Template for creating and publishing libraries targeting .NET Full (net45) and Core (netstandard1.6)
     - `dotnet new -i MiniScaffold::*`
@@ -208,7 +206,6 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [SAFE Stack Template](https://github.com/SAFE-Stack/SAFE-template) `dotnet new -i SAFE.Template::*`
 
 ## Resources
-
 
 ### Blogs
 
