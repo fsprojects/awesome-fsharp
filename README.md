@@ -42,6 +42,8 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [Cricket ★ 141 ⧗ 380](https://github.com/fsprojects/Cricket) - Actor framework for F#. [Unlicense]
 * [Orleankka ★ 175 ⧗ 5](https://github.com/OrleansContrib/Orleankka) - Functional API for Orleans Framework. [Apache 2.0]
 * **[Orleans ★ 2754 ⧗ 0](https://github.com/dotnet/orleans)** - Distributed Virtual Actor Model. [MIT]
+* **[Proto.actor ★ 692 ⧗ 0](https://github.com/AsynkronIT/protoactor-dotnet)** - Cross-platform actor framework for .NET, GO, JAVA and KOTLIN. [Apache 2.0]
+
 
 ## Build tools
 
