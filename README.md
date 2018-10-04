@@ -72,6 +72,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ## Configuration
 
 * [Argu ★ 145 ⧗ 0](https://github.com/fsprojects/Argu) - Declarative CLI argument/XML configuration parser for F# applications. [MIT]
+* [docopt.fs ★ 18 ⧗ 0](https://github.com/docopt/docopt.fs/) - command line arguments parser, F# port of [docopt](https://github.com/docopt/docopt). [MIT]
 * [FsConfig ★ 14 ⧗ 1](https://github.com/demystifyfp/FsConfig) - F# library for reading configuration data from environment variables and AppSettings with type safety. [Unlicense]
 
 ## Data Science
