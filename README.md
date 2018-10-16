@@ -199,7 +199,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
  * [MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold) 
     - F# Template for creating and publishing libraries targeting .NET Full (net45) and Core (netstandard1.6)
     - `dotnet new -i MiniScaffold::*`
- * [Giraffe Template](https://github.com/dustinmoris/Giraffe/tree/master/template) (Quick install: `dotnet new -i "giraffe-template::*"`)
+ * [Giraffe Template](https://github.com/giraffe-fsharp/giraffe-template) (Quick install: `dotnet new -i "giraffe-template::*"`)
  * [vbfox's F# Templates](https://github.com/vbfox/FSharpTemplates)
     - F# Template for creating github project with appveyor and travis support
  * [Fable, F# |> Babel](http://fable.io) `dotnet new -i Fable.Template::*`
