@@ -9,6 +9,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 - [Awesome F#](#)
   - [Actor frameworks](#actor-frameworks)
   - [Build tools](#build-tools)
+  - [Cloud](#cloud)
   - [Compilers](#compilers)
   - [Concurrent, asynchronous and parallel programming](#concurrent-asynchronous-and-parallel-programming)
   - [Configuration](#configuration)
@@ -49,6 +50,10 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 * **[FAKE ★ 733 ⧗ 0](https://github.com/fsharp/FAKE)** - "F# Make" is a cross platform build automation system. [Apache 2.0]
 * **[Xake ★ 8 ⧗ 0](https://github.com/OlegZee/Xake)** - Another MAKE utility implementation on F#, fully declarative with no-brain parallelism, inspired by Shake. [MIT]
+
+## Cloud
+
+* [FsFirestore](https://github.com/mrbandler/FsFirestore) - Functional F# library to access Firestore database hosted on Google Cloud Platform (GCP) or Firebase. [MIT]
 
 ## Compilers
 
