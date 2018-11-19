@@ -156,7 +156,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [FsCheck ★ 415 ⧗ 34](https://github.com/fscheck/FsCheck) - Random Testing for .NET. [BSD-3-Clause]
 * [fsharp-hedgehog ★ 42 ⧗ 4](https://github.com/hedgehogqa/fsharp-hedgehog) - Property-based testing system for F#. [Apache 2.0]
 * [FsUnit ★ 193 ⧗ 15](https://github.com/fsprojects/FsUnit) - FsUnit makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework. [???]
-* [NBomber ★ 14 ⧗ 23](https://github.com/PragmaticFlow/NBomber) - imple load testing framework for Pull and Push scenarios. [Apache 2.0]
+* [NBomber ★ 14 ⧗ 23](https://github.com/PragmaticFlow/NBomber) - simple load testing framework for Pull and Push scenarios. [Apache 2.0]
 * [Persimmon ★ 29 ⧗ 9](https://github.com/persimmon-projects/Persimmon) - Unit test framework for F# using computation expressions. [MIT]
 * [unquote ★ 88 ⧗ 17](https://github.com/swensensoftware/unquote) - Write F# unit test assertions as quoted expressions. [Apache 2.0]
 * [xUnit.net](https://xunit.github.io/) - Free, open source, community-focused unit testing tool for the .NET Framework. [Apache 2.0]
