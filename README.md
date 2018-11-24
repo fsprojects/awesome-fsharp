@@ -72,8 +72,8 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [FSharpx.Async ★ 37 ⧗ 56](https://github.com/fsprojects/FSharpx.Async) - Collection of asynchronous programming utilities for F#. [Apache 2.0]
 * [Giraffe.Tasks ★ 13 ⧗ 0](https://github.com/giraffe-fsharp/giraffe.tasks) - task computation expression to work natively with .NET's Tasks from an F# application. [Apache 2.0]
 * [Hopac ★ 268 ⧗ 7](https://github.com/Hopac/Hopac) - Concurrent ML style concurrent programming library for F#. [MIT]
+* [Reaction.AsyncRx](https://github.com/dbrattli/Reaction) - An implementation of Async Observables in F# for .NET and Fable. [MIT]
 * [TaskBuilder.fs](https://github.com/rspeele/TaskBuilder.fs) - F# computation expression builder for System.Threading.Tasks. [CC0]
-* [Reaction.AsyncRx](https://github.com/dbrattli/Reaction) - An implementation of Async Observables in F# for .NET and Fable.
 
 ## Configuration
 
