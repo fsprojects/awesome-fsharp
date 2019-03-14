@@ -35,6 +35,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
     - [Community](#community)
     - [Other Lists](#other-lists)
     - [Websites](#websites)
+    - [Videos](#videos)
 
 ## Actor frameworks
 
@@ -257,3 +258,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [DotNetFiddle](https://dotnetfiddle.net/) - Online REPL
 * [SharpLab](https://sharplab.io/) - C#/VB/F# compiler playground.
 * [Try F#](http://www.tryfsharp.org) - Online tutorials, currently without execution of code due to Silverlight dependency
+
+### Videos
+
+* [Austin F# Meetup Group Recorded Presentations](http://usergroup.tv/?cat=972)
