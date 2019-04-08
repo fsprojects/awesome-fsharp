@@ -204,6 +204,9 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * **[Suave ★ 756 ⧗ 2](https://github.com/SuaveIO/suave)** - Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition. [Apache 2.0]
 * [WebSharper ★ 270 ⧗ 7](https://github.com/intellifactory/websharper) - F#-based web programming platform including a compiler from F# code to JavaScript. [Apache 2.0]
 
+## Uncategorized
+* [Http.fs](https://github.com/haf/Http.fs) - A simple, functional HTTP client library for F#
+
 ## .Net Core Templates
  * [MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold) 
     - F# Template for creating and publishing libraries targeting .NET Full (net45) and Core (netstandard1.6)
