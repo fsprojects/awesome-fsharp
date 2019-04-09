@@ -19,6 +19,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
     - [Editor plugins](#editor-plugins)
   - [Game development](#game-development)
   - [General purpose libraries](#general-purpose-libraries)
+  - [HTTP Clients](#http-clients)
   - [Logging](#logging)
   - [Package Management](#package-management)
   - [Parsing](#parsing)
@@ -128,6 +129,9 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [Godot](http://www.lkokemohr.de/fsharp_godot.html) - Tutorial how to use F# with Godot. 
 * **[Nu Game Engine ★ 502 ⧗ 9](https://github.com/bryanedds/Nu)** - Cross-platform F# 2D game engine built in the functional style. Uses SDL2 and Farseer Physics. [MIT]
 
+## HTTP Clients
+* [Http.fs](https://github.com/haf/Http.fs) - A simple, functional HTTP client library for F#
+
 ## Logging
 
 * [Logary ★ 259 ⧗ 0](https://github.com/logary/logary/) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for mono and .Net. [Apache 2.0]
@@ -203,9 +207,6 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [Saturn ★ 62 ⧗ 2](https://github.com/SaturnFramework/Saturn) - Opinionated, web development framework for F# which implements the server-side, functional MVC pattern. [MIT]
 * **[Suave ★ 756 ⧗ 2](https://github.com/SuaveIO/suave)** - Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition. [Apache 2.0]
 * [WebSharper ★ 270 ⧗ 7](https://github.com/intellifactory/websharper) - F#-based web programming platform including a compiler from F# code to JavaScript. [Apache 2.0]
-
-## Uncategorized
-* [Http.fs](https://github.com/haf/Http.fs) - A simple, functional HTTP client library for F#
 
 ## .Net Core Templates
  * [MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold) 
