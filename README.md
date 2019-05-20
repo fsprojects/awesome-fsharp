@@ -264,7 +264,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [Try F#](http://www.tryfsharp.org) - Online tutorials, currently without execution of code due to Silverlight dependency
 * [fantomas-ui](https://jindraivanek.gitlab.io/fantomas-ui) - FSharp source code formatter
 * [ast-viewer](https://jindraivanek.gitlab.io/ast-viewer) - F# AST viewer
-* [cs2fs](https://jindraivanek.gitlab.io/cs2fs-online) - Transform F# code to C# code
+* [cs2fs](https://jindraivanek.gitlab.io/cs2fs-online) - Transform C# code to F# code
 
 ### Videos
 
