@@ -268,4 +268,4 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ### Videos
 
-* [Austin F# Meetup Group Recorded Presentations](http://usergroup.tv/?cat=972)
+* [Austin F# Meetup Group Recorded Presentations](http://usergroup.tv/videos/category/group/austin-f-meetup)
