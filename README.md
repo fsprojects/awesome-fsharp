@@ -76,6 +76,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [Hopac ★ 268 ⧗ 7](https://github.com/Hopac/Hopac) - Concurrent ML style concurrent programming library for F#. [MIT]
 * [Reaction.AsyncRx](https://github.com/dbrattli/Reaction) - An implementation of Async Observables in F# for .NET and Fable. [MIT]
 * [TaskBuilder.fs](https://github.com/rspeele/TaskBuilder.fs) - F# computation expression builder for System.Threading.Tasks. [CC0]
+* [Ply](https://github.com/crowded/ply) - High performance System.Threading.(Value)Task computation expressions for F#. [MIT]
 
 ## Configuration
 
