@@ -153,6 +153,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [FsPickler ★ 195 ⧗ 13](https://github.com/mbraceproject/FsPickler) - Fast, multi-format messaging serializer for .NET. [MIT]
 * [Thoth.Json ★ 40 ⧗ 11](https://mangelmaxime.github.io/Thoth/) - Json encoder/decoder library inspire by Elm. [MIT]
 * [FSharp.Json ★ 72 ⧗ 15](https://github.com/vsapronov/FSharp.Json) - F# JSON Reflection based serialization library. [Apache-2.0]
+* [Legivel ★ 19 ⧗ 4](https://github.com/fjoppe/Legivel) - F# Yaml 1.2 parser. [Unlicense]
 
 ## Search
 * [FlexSearch ★ 133 ⧗ 14](https://github.com/flexsearch/flexsearch) - high performance REST/SOAP services based full-text searching platform built on top of the popular Lucene search library. [Apache 2.0]
