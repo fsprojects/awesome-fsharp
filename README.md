@@ -25,6 +25,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
   - [Parsing](#parsing)
   - [Search](#search)
   - [Serialization](#serialization)
+  - [Simulation](#simulation)
   - [Testing](#testing)
   - [Type providers](#type-providers)
     - [Creating type providers](#creating-type-providers)
@@ -160,6 +161,9 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Search
 * [FlexSearch ★ 133 ⧗ 14](https://github.com/flexsearch/flexsearch) - high performance REST/SOAP services based full-text searching platform built on top of the popular Lucene search library. [Apache 2.0]
+
+## Simulation
+* [F# RISC-V Instruction Set formal specification](https://github.com/mrLSD/riscv-fs) - RISC-V CPU formal ISA Specification. RISC-V CPU simulator with ELF files execution. [MIT]
 
 ## Testing
 * [altcover ★ 139 ⧗ 0](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for .net/.net core and Mono. [MIT]
