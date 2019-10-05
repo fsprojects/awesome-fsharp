@@ -158,6 +158,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [FSharp.Json ★ 72 ⧗ 15](https://github.com/vsapronov/FSharp.Json) - F# JSON Reflection based serialization library. [Apache-2.0]
 * [Legivel ★ 19 ⧗ 4](https://github.com/fjoppe/Legivel) - F# Yaml 1.2 parser. [Unlicense]
 * [FSharp.SystemTextJson ★ 36 ⧗ 0](https://github.com/Tarmil/FSharp.SystemTextJson) - System.Text.Json extensions for F# types. [MIT]
+* [Fleece ★ 94 ⧗ 76](https://github.com/mausch/Fleece) - Fleece is a JSON mapper for F#. It simplifies mapping from a Json library's JsonValue onto your types, and mapping from your types onto JsonValue. [Apache-2.0]
 
 ## Search
 * [FlexSearch ★ 133 ⧗ 14](https://github.com/flexsearch/flexsearch) - high performance REST/SOAP services based full-text searching platform built on top of the popular Lucene search library. [Apache 2.0]
