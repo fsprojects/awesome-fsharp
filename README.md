@@ -238,11 +238,10 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ### Blogs
 
-* [Dave Thomas](http://7sharpnine.com/)
-* [Don Syme](https://blogs.msdn.microsoft.com/dsyme/)
+* [.NET Blog (F# tag)](https://devblogs.microsoft.com/dotnet/tag/f/)
+* [Sergey Tihon (F# Weekly)](https://sergeytihon.wordpress.com/)
 * [Krzysztof Cieslak](http://kcieslak.io/)
 * [Mark Seemann](http://blog.ploeh.dk/)
-* [Sergey Tihon](https://sergeytihon.wordpress.com/)
 * [Tomas Petricek](http://tomasp.net/blog/)
 
 ### Cheatsheets
@@ -269,6 +268,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ### Websites
 
 * [F# Software Foundation](http://fsharp.org/) - Main website
+* [F# Core Engineering](http://fsharp.github.io/)
 * [F# for Fun and Profit](https://fsharpforfunandprofit.com/) - Reference tutorials
 * [Community for F#](http://c4fsharp.net/) - Links to dojos and recordings of community presentations.
 * [DotNetFiddle](https://dotnetfiddle.net/) - Online REPL
