@@ -90,8 +90,9 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [Deedle ★ 347 ⧗ 21](https://github.com/BlueMountainCapital/Deedle) - Deedle: Exploratory data library for .NET. [BSD-2-Clause]
 * [Deep.Net](http://www.deepml.net) - Deep learning library for F#. Provides symbolic model differentiation, automatic differentiation and compilation to CUDA GPUs. [Apache 2.0]
 * [DiffSharp ★ 106 ⧗ 70](https://github.com/DiffSharp/DiffSharp) - DiffSharp is a functional automatic differentiation (AD) library. [BSD-2-Clause]
-* [FsLab ★ 97 ⧗ 171](https://github.com/fslaborg/FsLab) - FsLab is a collection of libraries for data-science. It provides a rapid development envi­ronment that lets you write advanced analysis with few lines of production-quality code. [Apache 2.0]
-* **[Math.NET ★ 1081 ⧗ 3](https://github.com/mathnet/mathnet-numerics)** - Math.NET Numerics aims to provide methods and algorithms for numerical computations in science, engineering and every day use. F# specific bindings available. [MIT]
+* [FsLab ★ 97 ⧗ 171](https://github.com/fslaborg/FsLab) - FsLab is a collection of libraries for data-science. It provides a rapid development environment that lets you write advanced analysis with few lines of production-quality code. [Apache 2.0]
+* **[Math.NET Numerics ★ 1,923 ⧗ 0](https://github.com/mathnet/mathnet-numerics)** - Math.NET Numerics aims to provide methods and algorithms for numerical computations in science, engineering and every day use. F# specific bindings available. [MIT]
+* [Math.NET Symbolics ★ 203 ⧗ 5](https://github.com/mathnet/mathnet-symbolics/) - Math.NET Symbolics is a basic open source computer algebra library for .NET, Silverlight and Mono written entirely in F#. [MIT]
 * [IfSharp * 272 ⧗ 1](https://github.com/fsprojects/IfSharp) - F# for Jupyter Notebooks. [BSD-3-Clause]
 * [SIMDArray ★ 42 ⧗ 11](https://github.com/jackmott/SIMDArray) - SIMD enhanced Array extensions for faster computation. [MIT]
 
