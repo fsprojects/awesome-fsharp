@@ -205,6 +205,8 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [S3Provider ★ 16 ⧗ 379](https://github.com/fsprojects/S3Provider) - Experimental type provider for Amazon S3. [MIT]
 * [SQLProvider ★ 192 ⧗ 7](https://github.com/fsprojects/SQLProvider) - General F# SQL database erasing type provider, supporting LINQ queries, schema exploration, individuals, CRUD operations and much more besides. [Apache 2.0]
 * [SwaggerProvider ★ 81 ⧗ 3](https://github.com/fsprojects/SwaggerProvider) - F# generative Type Provider for Swagger. [Unilicense]
+* [FsXaml ★ 158 ⧗ 453](https://github.com/fsprojects/FsXaml) - F# Tools for working with XAML Projects. [MIT]
+
 
 ### Creating type providers
 
