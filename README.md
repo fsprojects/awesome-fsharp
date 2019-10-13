@@ -38,6 +38,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
     - [Other Lists](#other-lists)
     - [Websites](#websites)
     - [Videos](#videos)
+    - [Courses](#courses)
 
 ## Actor frameworks
 
@@ -267,6 +268,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [Awesome Fable](https://github.com/kunjee17/awesome-fable) - Curated list of useful Fable tutorials, libraries and software. [CC0 1.0]
 * [F# Community Projects](http://fsharp.org/community/projects/) - FSharp community projects
 * [WTF#](https://wtfsharp.net) - podcast focused on F# and its ecosystem
+* [F# for fun and profit](https://fsharpforfunandprofit.com/)
 
 ### Websites
 
@@ -284,3 +286,8 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ### Videos
 
 * [Austin F# Meetup Group Recorded Presentations](http://usergroup.tv/videos/category/group/austin-f-meetup)
+
+### Courses
+* [Introduction to F#](https://fsharp.tv/courses/fsharp-programming-intro/)
+* [F# workshop](http://www.fsharpworkshop.com/)
+* [Data programming with F#](https://www.udemy.com/course/data-programming-with-f/)
