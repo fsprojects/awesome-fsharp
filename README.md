@@ -246,6 +246,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [Krzysztof Cieslak](http://kcieslak.io/)
 * [Mark Seemann](http://blog.ploeh.dk/)
 * [Tomas Petricek](http://tomasp.net/blog/)
+* [Codesuji](http://codesuji.com)
 
 ### Cheatsheets
 
