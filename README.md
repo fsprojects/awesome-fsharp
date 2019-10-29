@@ -19,6 +19,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
     - [Editor plugins](#editor-plugins)
   - [Game development](#game-development)
   - [General purpose libraries](#general-purpose-libraries)
+  - [GUI](#gui)
   - [HTTP Clients](#http-clients)
   - [Logging](#logging)
   - [Package Management](#package-management)
@@ -134,6 +135,10 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [Garnet ★ 15 ⧗ 6](https://github.com/bcarruthers/garnet) - Garnet is a lightweight game composition library for F# with entity-component-system (ECS) and actor-like messaging features. [MIT]
 * [Godot](http://www.lkokemohr.de/fsharp_godot.html) - Tutorial how to use F# with Godot. 
 * **[Nu Game Engine ★ 502 ⧗ 9](https://github.com/bryanedds/Nu)** - Cross-platform F# 2D game engine built in the functional style. Uses SDL2 and Farseer Physics. [MIT]
+
+## GUI
+
+* [Avalonia.FuncUI](https://github.com/JaggerJo/Avalonia.FuncUI) - Develop cross-platform MVU GUI Applications using F# and Avalonia
 
 ## HTTP Clients
 * [Http.fs](https://github.com/haf/Http.fs) - A simple, functional HTTP client library for F#
