@@ -267,6 +267,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [F# on Github](https://github.com/fsharp/)
 * [F# on IRC](http://webchat.freenode.net/?channels=%23%23fsharp)
 * [F# on Slack](http://fsharp.org/guides/slack/)
+* [F# news on Telegram](https://t.me/fsharp_news)
 
 ### Other Lists
 
