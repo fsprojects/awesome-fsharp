@@ -160,6 +160,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Serialization
 
+* [FsCodec ★ 21 ⧗ 7](https://github.com/jet/FsCodec) - F# Event-Union Contract Encoding with versioning tolerant converters. [Apache 2.0]
 * [FSharp.Json ★ 72 ⧗ 15](https://github.com/vsapronov/FSharp.Json) - F# JSON Reflection based serialization library. [Apache-2.0]
 * [FSharp.SystemTextJson ★ 36 ⧗ 0](https://github.com/Tarmil/FSharp.SystemTextJson) - System.Text.Json extensions for F# types. [MIT]
 * [Fleece ★ 94 ⧗ 76](https://github.com/mausch/Fleece) - Fleece is a JSON mapper for F#. It simplifies mapping from a Json library's JsonValue onto your types, and mapping from your types onto JsonValue. [Apache-2.0]
