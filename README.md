@@ -30,6 +30,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
   - [Testing](#testing)
   - [Type providers](#type-providers)
     - [Creating type providers](#creating-type-providers)
+  - [Visualization](#visualization)
   - [Web frameworks](#web-frameworks)
   - [.Net Core Templates](#net-core-templates)
   - [Resources](#resources)
@@ -219,6 +220,12 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 * [FSharp.TypeProviders.StarterPack ★ 104 ⧗ 42](https://github.com/fsprojects/FSharp.TypeProviders.StarterPack) - The ProvidedTypes SDK for creating F# type providers. [Apache 2.0]
 * [RestProvider ★ 14 ⧗ 258](https://github.com/fsprojects/RestProvider) - Create type providers just by implementing a simple REST service. [Apache 2.0]
+
+## Visualization
+
+* [FSharp.Charting ★ 186 ⧗ 0](https://github.com/fslaborg/FSharp.Charting) - Charting library suitable for interactive F# scripting. [MIT]
+* [SharpVG ★ 32 ⧗ 0](https://github.com/ChrisNikkel/SharpVG) - Create SVG vector graphics in F#. [MIT]
+* [XPlot ★ 173 ⧗ 0](https://github.com/fslaborg/XPlot) - A plotting library for the F# programming language. [Apache 2.0]
 
 ## Web frameworks
 
