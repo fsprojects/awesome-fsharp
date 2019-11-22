@@ -11,6 +11,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
   - [Build tools](#build-tools)
   - [Cloud](#cloud)
   - [Compilers](#compilers)
+  - [PreCompilation](#precompilation)
   - [Concurrent, asynchronous and parallel programming](#concurrent-asynchronous-and-parallel-programming)
   - [Configuration](#configuration)
   - [Data Science](#data-science)
@@ -71,6 +72,9 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [Juniper ★ 73 ⧗ 0](https://github.com/calebh/Juniper) - Functional Reactive Programming for the Arduino and other microcontrollers. [MIT]
 * [Pengines.Client ★ 3 ⧗ 0](https://github.com/ninjarobot/Pengines.Client) - sandboxed Prolog environment. [BSD-2-Clause]
 * **[Visual F# ★ 988 ⧗ 0](https://github.com/Microsoft/visualfsharp)** - The Visual F# compiler and tools. [Apache 2.0]
+
+## PreCompilation
+* [Myriad ★ 38 ⧗ 4](https://github.com/MoiraeSoftware/myriad) - Myriad is a pre-compilation code generator
 
 ## Concurrent, asynchronous and parallel programming
 
