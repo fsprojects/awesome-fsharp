@@ -99,6 +99,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * **[Math.NET Numerics ★ 1,923 ⧗ 0](https://github.com/mathnet/mathnet-numerics)** - Math.NET Numerics aims to provide methods and algorithms for numerical computations in science, engineering and every day use. F# specific bindings available. [MIT]
 * [Math.NET Symbolics ★ 203 ⧗ 5](https://github.com/mathnet/mathnet-symbolics/) - Math.NET Symbolics is a basic open source computer algebra library for .NET, Silverlight and Mono written entirely in F#. [MIT]
 * [SIMDArray ★ 42 ⧗ 11](https://github.com/jackmott/SIMDArray) - SIMD enhanced Array extensions for faster computation. [MIT]
+* [Synapses](https://github.com/mrdimosthenis/Synapses) - Neural network library in F#. [MIT]
 
 ## Development Tools
 
