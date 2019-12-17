@@ -147,6 +147,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Logging
 
+* [FsLibLog ★ 26 ⧗ 0](https://github.com/TheAngryByrd/FsLibLog) - FsLibLog is a single file you can copy paste or add through Paket Github dependencies to provide your F# library with a logging abstraction. [MIT]
 * [Logary ★ 259 ⧗ 0](https://github.com/logary/logary/) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for mono and .Net. [Apache 2.0]
 
 ## Package Management
