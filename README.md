@@ -119,6 +119,8 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [Vim F# ★ 66 ⧗ 3](https://github.com/fsharp/vim-fsharp) - F# support for Vim. [MIT]
 * [VimSpeak ★ 305 ⧗ 910](https://github.com/AshleyF/VimSpeak) - VimSpeak lets you control Vim with your voice using speech recognition. [MIT]
 * [Visual F# Power Tools ★ 310 ⧗ 53](https://github.com/fsprojects/VisualFSharpPowerTools) - Power commands for F# in Visual Studio. [Apache 2.0]
+* [VimSpeak ★ 305 ⧗ 910](https://github.com/AshleyF/VimSpeak) - VimSpeak lets you control Vim with your voice using speech recognition. [MIT]
+* [fsharp-notebook](https://github.com/pablofrommars/fsharp-notebook) - Data Science Notebook for F# interactive. [MIT]
 
 ## General purpose libraries
 
@@ -234,6 +236,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [FSharp.Charting ★ 186 ⧗ 0](https://github.com/fslaborg/FSharp.Charting) - Charting library suitable for interactive F# scripting. [MIT]
 * [SharpVG ★ 32 ⧗ 0](https://github.com/ChrisNikkel/SharpVG) - Create SVG vector graphics in F#. [MIT]
 * [XPlot ★ 173 ⧗ 0](https://github.com/fslaborg/XPlot) - A plotting library for the F# programming language. [Apache 2.0]
+* [GG.Net](https://github.com/pablofrommars/GGNet) - Visualization library for data scientits. [MIT]
 
 ## Web frameworks
 
