@@ -236,7 +236,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [FSharp.Charting ★ 186 ⧗ 0](https://github.com/fslaborg/FSharp.Charting) - Charting library suitable for interactive F# scripting. [MIT]
 * [SharpVG ★ 32 ⧗ 0](https://github.com/ChrisNikkel/SharpVG) - Create SVG vector graphics in F#. [MIT]
 * [XPlot ★ 173 ⧗ 0](https://github.com/fslaborg/XPlot) - A plotting library for the F# programming language. [Apache 2.0]
-* [GG.Net](https://github.com/pablofrommars/GGNet) - Visualization library for data scientits. [MIT]
+* [GG.Net](https://github.com/pablofrommars/GGNet) - Visualization library for data scientists. [MIT]
 
 ## Web frameworks
 
