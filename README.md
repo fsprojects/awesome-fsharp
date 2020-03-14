@@ -125,6 +125,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [Aether ★ 71 ⧗ 0](https://github.com/xyncro/aether) - Optics library for F#, similar to the Haskell Data.Lens package. [MIT]
 * [Chessie ★ 96 ⧗ 272](https://github.com/fsprojects/Chessie) - Railway-oriented programming. [Unlicense]
 * [ExtCore ★ 96 ⧗ 0](https://github.com/jack-pappas/ExtCore) - Extended core library for F#. [Apache 2.0]
+* [FSharp.HashCollections ★ 4 ⧗ 0](https://github.com/mvkara/fsharp-hashcollections) - Library providing fast hash based immutable map and set. [MIT]
 * [FSharpLu ★ 133 ⧗ 20](https://github.com/Microsoft/fsharplu) - Lightweight utilities for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization. [MIT]
 * [FSharpPlus ★ 142 ⧗ 34](https://github.com/gmpl/FSharpPlus) - Extensions for F#. [Apache 2.0]
 * [FSharpx.Extras ★ 589 ⧗ 28](https://github.com/fsprojects/FSharpx.Extras) - FSharpx.Extras is a collection of libraries and tools for use with F#. [Unlicense]
