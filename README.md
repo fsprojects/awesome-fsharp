@@ -113,7 +113,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 * [Emacs F# mode ★ 80 ⧗ 27](https://github.com/fsharp/emacs-fsharp-mode) - F# support in Emacs (including Intellisense and Interactive mode) [Apache 2.0]
 * [F# Bindings ★ 321 ⧗ 261](https://github.com/fsharp/fsharpbinding) - Archive of F# Language Bindings for Open Editors. [Apache 2.0]
-* [Fantomas ★ 119 ⧗ 5](https://github.com/dungpa/fantomas) - F# code formatter. [Apache 2.0]
+* [Fantomas ★ 119 ⧗ 5](https://github.com/fsprojects/fantomas) - F# code formatter. [Apache 2.0]
 * [FSharpFar ★ 33 ⧗ 54](https://github.com/nightroman/FarNet) - F# support for Far Manager. [BSD-3-Clause]
 * [Ionide](http://ionide.io/) - Atom Editor and Visual Studio Code package suite for cross platform F# development. [MIT]
 * [Vim F# ★ 66 ⧗ 3](https://github.com/fsharp/vim-fsharp) - F# support for Vim. [MIT]
@@ -299,14 +299,13 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ### Websites
 
-* [ast-viewer](https://jindraivanek.gitlab.io/ast-viewer) - F# AST viewer
 * [Community for F#](http://c4fsharp.net/) - Links to dojos and recordings of community presentations.
 * [cs2fs](https://jindraivanek.gitlab.io/cs2fs-online) - Transform C# code to F# code
 * [DotNetFiddle](https://dotnetfiddle.net/) - Online REPL
 * [F# Core Engineering](http://fsharp.github.io/)
 * [F# for Fun and Profit](https://fsharpforfunandprofit.com/) - Reference tutorials
 * [F# Software Foundation](http://fsharp.org/) - Main website
-* [fantomas-ui](https://jindraivanek.gitlab.io/fantomas-ui) - FSharp source code formatter
+* [fantomas-tools](https://fsprojects.github.io/fantomas-tools) - A set of Fantomas related tools like AST viewer and online bug reporter.
 * [SharpLab](https://sharplab.io/) - C#/VB/F# compiler playground.
 * [Try F#](http://www.tryfsharp.org) - Online tutorials, currently without execution of code due to Silverlight dependency
 
