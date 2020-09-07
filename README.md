@@ -61,6 +61,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ## Cloud
 
 * [FsFirestore](https://github.com/mrbandler/FsFirestore) - Functional F# library to access Firestore database hosted on Google Cloud Platform (GCP) or Firebase. [MIT]
+* [Chia ★ 3 ⧗ 0](https://github.com/DanpowerGruppe/Chia) - Chia is a F# library which contains HelperFunctions for reporting, logging and Azure cloud operations. [Apache-2.0]
 
 ## Compilers
 
