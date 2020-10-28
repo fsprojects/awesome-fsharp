@@ -106,6 +106,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ### IDE
 
+* [F# Playground](https://github.com/Seng-Jik/FSharpPlayground) - Minimal playground for F#. [GPL 3.0]
 * [Jetbrains Rider](https://www.jetbrains.com/rider) - Cross-Platform .Net IDE with F# support. [Proprietary, free for open source projects] 
 * [MonoDevelop](http://www.monodevelop.com/) - Cross-platform IDE mostly aimed at Mono/.NET developers. [LGPLv2 and X11/MIT]
 * [Visual Studio](https://www.visualstudio.com/) - IDE from Microsoft with first class F# support(Windows only). [Proprietary]
