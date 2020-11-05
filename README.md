@@ -152,6 +152,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ## HTTP Clients
 * [Http.fs](https://github.com/haf/Http.fs) - A simple, functional HTTP client library for F#
 * [FsHttp](https://github.com/ronaldschlenker/FsHttp) - A convenient library for consuming HTTP/REST endpoints via F#. [Apache 2.0]
+* [Oryx](https://github.com/cognitedata/oryx) - A high performance .NET cross platform functional HTTP request handler library for writing HTTP clients and orchestrating web requests. [Apache 2.0]
 
 ## Logging
 
