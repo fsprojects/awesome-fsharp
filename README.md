@@ -210,7 +210,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [COM Type Provider ★ 36 ⧗ 330](https://github.com/fsprojects/FSharp.Interop.ComProvider) - Type provider for COM interop. [Unilicense]
 * [DynamicsCRMProvider ★ 8 ⧗ 380](https://github.com/fsprojects/DynamicsCRMProvider) - Type provider for Microsoft Dynamics CRM 2011. [Apache 2.0]
 * [ExcelProvider ★ 45 ⧗ 75](https://github.com/fsprojects/ExcelProvider) - Excel type provider. [Unilicense]
-* [Facil](https://github.com/cmeeren/Facil) - Boilerplate-free, strongly typed SQL without the drawbacks of type providers. Optimized for developer happiness. [MIT]
+* [Facil](https://github.com/cmeeren/Facil) - Facil generates F# data access source code from SQL queries and stored procedures. Optimized for developer happiness. [MIT]
 * [FSharp.Configuration ★ 60 ⧗ 6](https://github.com/fsprojects/FSharp.Configuration) - The project contains type providers for the configuration of .NET projects. Handles AppSettings, ResX, Yaml and Ini files. [Apache 2.0]
 * [FSharp.Data ★ 375 ⧗ 8](https://github.com/fsharp/FSharp.Data) - Data science library that contains type providers for CSV, HTML, JSON, XML, and WorldBank data. [Apache 2.0]
 * [FSharp.Data.DbPedia ★ 9 ⧗ 379](https://github.com/fsprojects/FSharp.Data.DbPedia) - F# type provider for DBpedia. [Unilicense]
