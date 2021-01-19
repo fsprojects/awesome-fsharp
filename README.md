@@ -247,6 +247,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Web frameworks
 
+* [Bolero ★ 629](https://github.com/fsbolero/Bolero/) - F# in WebAssembly, develop SPAs with the full power of F# and .NET Blazor. [Apache 2.0]
 * [Falco](https://github.com/pimbrouwers/Falco/) - A functional-first toolkit for building brilliant ASP.NET Core applications using F#.
 * [Felicity](https://github.com/cmeeren/Felicity) - Boilerplate-free, idiomatic JSON:API for your beautiful, idiomatic F# domain model. Optimized for developer happiness. [MIT]
 * [Freya ★ 241 ⧗ 7](https://github.com/xyncro/freya) - Modern, purely functional stack for web programming in F#. [Apache 2.0]
