@@ -115,7 +115,8 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 * [Emacs F# mode ★ 80 ⧗ 27](https://github.com/fsharp/emacs-fsharp-mode) - F# support in Emacs (including Intellisense and Interactive mode) [Apache 2.0]
 * [F# Bindings ★ 321 ⧗ 261](https://github.com/fsharp/fsharpbinding) - Archive of F# Language Bindings for Open Editors. [Apache 2.0]
-* [Fantomas ★ 119 ⧗ 5](https://github.com/fsprojects/fantomas) - F# code formatter. [Apache 2.0]
+* [Fantomas ★ 472 ⧗ 115](https://github.com/fsprojects/fantomas) - F# code formatter. [Apache 2.0]
+* [FSharpLint ★ 223 ⧗ 55](https://github.com/fsprojects/FSharpLint) - F# code linter. [MIT]
 * [FSharpFar ★ 33 ⧗ 54](https://github.com/nightroman/FarNet) - F# support for Far Manager. [BSD-3-Clause]
 * [Ionide](http://ionide.io/) - Atom Editor and Visual Studio Code package suite for cross platform F# development. [MIT]
 * [Vim F# ★ 66 ⧗ 3](https://github.com/fsharp/vim-fsharp) - F# support for Vim. [MIT]
