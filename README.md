@@ -121,6 +121,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [FSharpFar ★ 33 ⧗ 54](https://github.com/nightroman/FarNet) - F# support for Far Manager. [BSD-3-Clause]
 * [Ionide](http://ionide.io/) - Atom Editor and Visual Studio Code package suite for cross platform F# development. [MIT]
 * [Vim F# ★ 66 ⧗ 3](https://github.com/fsharp/vim-fsharp) - F# support for Vim. [MIT]
+* [neofsharp.vim](https://github.com/adelarsq/neofsharp.vim) - Basic F# support for (Neo)Vim [MIT]
 * [VimSpeak ★ 305 ⧗ 910](https://github.com/AshleyF/VimSpeak) - VimSpeak lets you control Vim with your voice using speech recognition. [MIT]
 * [Visual F# Power Tools ★ 310 ⧗ 53](https://github.com/fsprojects/VisualFSharpPowerTools) - Power commands for F# in Visual Studio. [Apache 2.0]
 * [fsharp-notebook](https://github.com/pablofrommars/fsharp-notebook) - Data Science Notebook for F# interactive. [MIT]
@@ -152,6 +153,8 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ## GUI
 
 * [Avalonia.FuncUI](https://github.com/JaggerJo/Avalonia.FuncUI) - Develop cross-platform MVU GUI Applications using F# and Avalonia
+* [Epoxy](https://github.com/kekyo/epoxy) - An independent flexible XAML MVVM library for .NET
+* [Fabulous](https://fsprojects.github.io/Fabulous/) - F# Functional App Development, using declarative dynamic UI
 
 ## HTTP Clients
 * [Http.fs](https://github.com/haf/Http.fs) - A simple, functional HTTP client library for F#
