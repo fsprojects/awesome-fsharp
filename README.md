@@ -323,6 +323,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [fantomas-tools](https://fsprojects.github.io/fantomas-tools) - A set of Fantomas related tools like AST viewer and online bug reporter.
 * [SharpLab](https://sharplab.io/) - C#/VB/F# compiler playground.
 * [Try F#](http://www.tryfsharp.org) - Online tutorials, currently without execution of code due to Silverlight dependency
+* [F# for Data Analysis](https://github.com/anton-shumakov/F-Sharp-for-Data-Analysis) - Presentation with a talk on the use of F# sharp for data analysis (Russian)
 
 ### Videos
 
