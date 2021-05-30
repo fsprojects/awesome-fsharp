@@ -7,7 +7,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Table of Contents
 - [Awesome F#](#)
-  - [F# wrappers for popular .NET libraries](#fsharp-wrappers)
+  - [F# wrappers for popular .NET libraries](#f-wrappers-for-popular-net-libraries)
   - [Actor frameworks](#actor-frameworks)
   - [Build tools](#build-tools)
   - [Cloud](#cloud)
@@ -44,7 +44,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
     - [Videos](#videos)
     - [Courses](#courses)
 
-## F# wrappers for .NET libraries
+## F# wrappers for popular .NET libraries
 Looking to have a more enjoyable experience when consuming a popular .NET library? Here is a quick table.
 
 .NET Library | F# Wrapper
