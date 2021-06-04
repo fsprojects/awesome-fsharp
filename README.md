@@ -17,6 +17,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
   - [Development Tools](#development-tools)
     - [IDE](#ide)
     - [Editor plugins](#editor-plugins)
+    - [Performance analysis](#performance-analysis)
   - [Game development](#game-development)
   - [General purpose libraries](#general-purpose-libraries)
   - [GUI](#gui)
@@ -125,6 +126,10 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [VimSpeak ★ 305 ⧗ 910](https://github.com/AshleyF/VimSpeak) - VimSpeak lets you control Vim with your voice using speech recognition. [MIT]
 * [Visual F# Power Tools ★ 310 ⧗ 53](https://github.com/fsprojects/VisualFSharpPowerTools) - Power commands for F# in Visual Studio. [Apache 2.0]
 * [fsharp-notebook](https://github.com/pablofrommars/fsharp-notebook) - Data Science Notebook for F# interactive. [MIT]
+
+### Performance analysis
+
+* [fasm](https://github.com/d-edge/fasm) - F# jit disassembler, as a dotnet tool [MIT]
 
 ## General purpose libraries
 
