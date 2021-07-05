@@ -135,6 +135,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 * [Aether ★ 71 ⧗ 0](https://github.com/xyncro/aether) - Optics library for F#, similar to the Haskell Data.Lens package. [MIT]
 * [Chessie ★ 96 ⧗ 272](https://github.com/fsprojects/Chessie) - Railway-oriented programming. [Unlicense]
+* [Donald](https://github.com/pimbrouwers/Donald) - A simple F# interface for ADO.NET. [Apache-2.0]
 * [DustyTables ★ 39 ⧗ 6](https://github.com/Zaid-Ajaj/DustyTables) - Thin F# API for SqlClient for easy data access to ms sql server with functional seasoning on top [MIT]
 * [ExtCore ★ 96 ⧗ 0](https://github.com/jack-pappas/ExtCore) - Extended core library for F#. [Apache 2.0]
 * [Fling](https://github.com/cmeeren/Fling) - Fling significantly reduces boilerplate needed to efficiently save/load complex domain entities to/from multiple tables. [MIT]
