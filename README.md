@@ -143,6 +143,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [DustyTables ★ 39 ⧗ 6](https://github.com/Zaid-Ajaj/DustyTables) - Thin F# API for SqlClient for easy data access to ms sql server with functional seasoning on top [MIT]
 * [ExtCore ★ 96 ⧗ 0](https://github.com/jack-pappas/ExtCore) - Extended core library for F#. [Apache 2.0]
 * [Fling](https://github.com/cmeeren/Fling) - Fling significantly reduces boilerplate needed to efficiently save/load complex domain entities to/from multiple tables. [MIT]
+* [FSharp.CosmosDb](https://github.com/aaronpowell/fsharp.cosmosdb) - An F# wrapper around the CosmosDB SDK, making it more functional-friendly [MIT]
 * [FSharp.HashCollections ★ 4 ⧗ 0](https://github.com/mvkara/fsharp-hashcollections) - Library providing fast hash based immutable map and set. [MIT]
 * [FSharpLu ★ 133 ⧗ 20](https://github.com/Microsoft/fsharplu) - Lightweight utilities for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization. [MIT]
 * [FsToolkit.ErrorHandling](https://github.com/demystifyfp/FsToolkit.ErrorHandling) - Clear, simple and powerful error handling with railway-oriented programming. Inspired by Chessie. [MIT]
@@ -153,7 +154,6 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [Npgsql.FSharp](https://github.com/Zaid-Ajaj/Npgsql.FSharp) - Thin F# wrapper around [Npgsql](https://github.com/npgsql/npgsql), the PostgreSQL database driver [MIT]
 * [TypeShape ★ 64 ⧗ 0](https://github.com/eiriktsarpalis/TypeShape) - Small, extensible F# library for practical generic programming. [MIT]
 * [Vp.FSharp.Sql](https://github.com/veepee-oss/Vp.FSharp.Sql) - Generic F# ADO Provider Wrapper (SqlServer, PostgreSql, Sqlite). [MIT]
-* [FSharp.CosmosDb](https://github.com/aaronpowell/fsharp.cosmosdb) - An F# wrapper around the CosmosDB SDK, making it more functional-friendly [MIT]
 
 ## Game development
 
