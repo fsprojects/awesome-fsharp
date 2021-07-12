@@ -153,6 +153,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [Npgsql.FSharp](https://github.com/Zaid-Ajaj/Npgsql.FSharp) - Thin F# wrapper around [Npgsql](https://github.com/npgsql/npgsql), the PostgreSQL database driver [MIT]
 * [TypeShape ★ 64 ⧗ 0](https://github.com/eiriktsarpalis/TypeShape) - Small, extensible F# library for practical generic programming. [MIT]
 * [Vp.FSharp.Sql](https://github.com/veepee-oss/Vp.FSharp.Sql) - Generic F# ADO Provider Wrapper (SqlServer, PostgreSql, Sqlite). [MIT]
+* [FSharp.CosmosDb](https://github.com/aaronpowell/fsharp.cosmosdb) - An F# wrapper around the CosmosDB SDK, making it more functional-friendly [MIT]
 
 ## Game development
 
