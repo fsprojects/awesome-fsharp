@@ -103,6 +103,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [DiffSharp ★ 106 ⧗ 70](https://github.com/DiffSharp/DiffSharp) - DiffSharp is a functional automatic differentiation (AD) library. [BSD-2-Clause]
 * [FsLab ★ 97 ⧗ 171](https://github.com/fslaborg/FsLab) - FsLab is a collection of libraries for data-science. It provides a rapid development environment that lets you write advanced analysis with few lines of production-quality code. [Apache 2.0]
 * [IfSharp * 272 ⧗ 1](https://github.com/fsprojects/IfSharp) - F# for Jupyter Notebooks. [BSD-3-Clause]
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native F# code with zero dependencies. [MIT]
 * **[Math.NET Numerics ★ 1,923 ⧗ 0](https://github.com/mathnet/mathnet-numerics)** - Math.NET Numerics aims to provide methods and algorithms for numerical computations in science, engineering and every day use. F# specific bindings available. [MIT]
 * [Math.NET Symbolics ★ 203 ⧗ 5](https://github.com/mathnet/mathnet-symbolics/) - Math.NET Symbolics is a basic open source computer algebra library for .NET, Silverlight and Mono written entirely in F#. [MIT]
 * [SIMDArray ★ 42 ⧗ 11](https://github.com/jackmott/SIMDArray) - SIMD enhanced Array extensions for faster computation. [MIT]
