@@ -331,6 +331,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 * [Community for F#](http://c4fsharp.net/) - Links to dojos and recordings of community presentations.
 * [cs2fs](https://jindraivanek.gitlab.io/cs2fs-online) - Transform C# code to F# code
+* [Decompiler.com](https://www.decompiler.com/) - Online C#/VB/F# decompiler
 * [DotNetFiddle](https://dotnetfiddle.net/) - Online REPL
 * [F# Core Engineering](http://fsharp.github.io/)
 * [F# for Fun and Profit](https://fsharpforfunandprofit.com/) - Reference tutorials
