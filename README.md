@@ -304,6 +304,10 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [Sergey Tihon (F# Weekly)](https://sergeytihon.wordpress.com/)
 * [Tomas Petricek](http://tomasp.net/blog/)
 
+### Books
+
+* [F# in Action](https://www.manning.com/books/f-sharp-in-action)
+
 ### Cheatsheets
 
 * [F# cheatsheet](http://dungpa.github.io/fsharp-cheatsheet)
