@@ -353,3 +353,4 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 * [Data programming with F#](https://www.udemy.com/course/data-programming-with-f/)
 * [F# workshop](http://www.fsharpworkshop.com/)
 * [Introduction to F#](https://fsharp.tv/courses/fsharp-programming-intro/)
+* [Write yourself a scheme in 48 hours using F#](https://write-yourself-a-scheme.pangwa.com/)
