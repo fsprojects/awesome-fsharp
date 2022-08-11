@@ -7,6 +7,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Table of Contents
 - [Awesome F#](#)
+  - [F# wrappers for popular .NET libraries](#f-wrappers-for-popular-net-libraries)
   - [Actor frameworks](#actor-frameworks)
   - [Build tools](#build-tools)
   - [Cloud](#cloud)
@@ -43,6 +44,19 @@ A curated list of awesome F# frameworks, libraries, software and resources.
     - [Websites](#websites)
     - [Videos](#videos)
     - [Courses](#courses)
+
+## F# wrappers for popular .NET libraries
+Looking to have a more enjoyable experience when consuming a popular .NET library? Here is a quick table.
+
+.NET Library | F# Wrapper
+-|-
+[Avalonia](https://github.com/AvaloniaUI/Avalonia) | [Avalonia.FuncUI](https://github.com/JaggerJo/Avalonia.FuncUI)
+[ASP.NET Core](https://github.com/dotnet/aspnetcore) | [Giraffe](https://github.com/giraffe-fsharp/Giraffe) (+ optionally [Saturn](https://github.com/SaturnFramework/Saturn))
+[ASP.NET Core Blazor](https://github.com/dotnet/aspnetcore/tree/main/src/Components) | [Bolero](https://github.com/fsbolero/Bolero)
+[MSTest](https://github.com/microsoft/testfx)/[NUnit](https://github.com/nunit/nunit)/[xUnit.net](https://github.com/xunit/xunit) | [FsUnit](https://github.com/fsprojects/FsUnit)
+[System.Text.Json](https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.Json) | [FSharp.SystemTextJson](https://github.com/Tarmil/FSharp.SystemTextJson)
+[WPF](https://github.com/dotnet/wpf) | [Elmish.WPF](https://github.com/elmish/Elmish.WPF)
+[Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) | [Fabulous](https://fsprojects.github.io/Fabulous/)
 
 ## Actor frameworks
 
