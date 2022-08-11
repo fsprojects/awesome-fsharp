@@ -109,7 +109,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 * [Argu ★ 145 ⧗ 0](https://github.com/fsprojects/Argu) - Declarative CLI argument/XML configuration parser for F# applications. [MIT]
 * [docopt.fs ★ 18 ⧗ 0](https://github.com/docopt/docopt.fs/) - command line arguments parser, F# port of [docopt](https://github.com/docopt/docopt). [MIT]
 * [FsConfig ★ 14 ⧗ 1](https://github.com/demystifyfp/FsConfig) - F# library for reading configuration data from environment variables and AppSettings with type safety. [Unlicense]
-
+* [Skid ★ 3 ⧗ 0](https://github.com/Meyhem/Skid) - Simple, single-file portable CLI utility for configuration templating. [MIT]
 ## Data Science
 
 * [Deedle ★ 347 ⧗ 21](https://github.com/BlueMountainCapital/Deedle) - Deedle: Exploratory data library for .NET. [BSD-2-Clause]
