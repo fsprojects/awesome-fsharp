@@ -37,6 +37,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
   - [.Net Core Templates](#net-core-templates)
   - [Resources](#resources)
     - [Blogs](#blogs)
+    - [Books](#books)
     - [Cheatsheets](#cheatsheets)
     - [Community](#community)
     - [Other Lists](#other-lists)
