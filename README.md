@@ -50,7 +50,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 .NET Library | F# Wrapper
 -|-
-[Avalonia](https://github.com/AvaloniaUI/Avalonia) | [Avalonia.FuncUI](https://github.com/JaggerJo/Avalonia.FuncUI)
+[Avalonia](https://github.com/AvaloniaUI/Avalonia) | [Avalonia.FuncUI](https://github.com/fsprojects/Avalonia.FuncUI)
 [ASP.NET Core](https://github.com/dotnet/aspnetcore) | [Giraffe](https://github.com/giraffe-fsharp/Giraffe) (+ optionally [Saturn](https://github.com/SaturnFramework/Saturn))
 [ASP.NET Core Blazor](https://github.com/dotnet/aspnetcore/tree/main/src/Components) | [Bolero](https://github.com/fsbolero/Bolero)
 [MSTest](https://github.com/microsoft/testfx)/[NUnit](https://github.com/nunit/nunit)/[xUnit.net](https://github.com/xunit/xunit) | [FsUnit](https://github.com/fsprojects/FsUnit)
@@ -180,7 +180,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ## GUI
 
-* [Avalonia.FuncUI](https://github.com/JaggerJo/Avalonia.FuncUI) - Develop cross-platform MVU GUI Applications using F# and Avalonia
+* [Avalonia.FuncUI](https://github.com/fsprojects/Avalonia.FuncUI) - Develop cross-platform MVU GUI Applications using F# and Avalonia
 * [Epoxy](https://github.com/kekyo/epoxy) - An independent flexible XAML MVVM library for .NET
 * [Fabulous](https://fsprojects.github.io/Fabulous/) - F# Functional App Development, using declarative dynamic UI
 
