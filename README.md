@@ -325,7 +325,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ### Cheatsheets
 
-* [F# cheatsheet](http://dungpa.github.io/fsharp-cheatsheet)
+* [F# cheatsheet](http://fsprojects.github.io/fsharp-cheatsheet/)
 * [F# Snips](http://fssnip.net/)
 * [F# tour](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour)
 * [Learn F# in Y minutes](https://learnxinyminutes.com/docs/fsharp)
