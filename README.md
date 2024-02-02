@@ -329,6 +329,8 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 * [F# Snips](http://fssnip.net/)
 * [F# tour](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour)
 * [Learn F# in Y minutes](https://learnxinyminutes.com/docs/fsharp)
+* [30min F# tutorial for C# programmers, with back to back code snippets](https://github.com/knocte/2fsharp/blob/master/csharp2fsharp.md)
+* [30min F# tutorial for Python programmers, with back to back code snippets](https://github.com/knocte/2fsharp/blob/master/python2fsharp.md)
 
 ### Community
 
