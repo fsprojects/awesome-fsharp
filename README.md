@@ -8,6 +8,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ## Table of Contents
 - [Awesome F#](#)
   - [F# wrappers for popular .NET libraries](#f-wrappers-for-popular-net-libraries)
+  - [Authentication and Authorization](#authentication-and-authorization)
   - [Actor frameworks](#actor-frameworks)
   - [Build tools](#build-tools)
   - [Cloud](#cloud)
@@ -53,10 +54,15 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 [Avalonia](https://github.com/AvaloniaUI/Avalonia) | [Avalonia.FuncUI](https://github.com/fsprojects/Avalonia.FuncUI)
 [ASP.NET Core](https://github.com/dotnet/aspnetcore) | [Giraffe](https://github.com/giraffe-fsharp/Giraffe) (+ optionally [Saturn](https://github.com/SaturnFramework/Saturn))
 [ASP.NET Core Blazor](https://github.com/dotnet/aspnetcore/tree/main/src/Components) | [Bolero](https://github.com/fsbolero/Bolero)
+[MassTransit](https://github.com/MassTransit/MassTransit) | [MassTransit.fs](https://github.com/et1975/MassTransit.fs)
 [MSTest](https://github.com/microsoft/testfx)/[NUnit](https://github.com/nunit/nunit)/[xUnit.net](https://github.com/xunit/xunit) | [FsUnit](https://github.com/fsprojects/FsUnit)
 [System.Text.Json](https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.Json) | [FSharp.SystemTextJson](https://github.com/Tarmil/FSharp.SystemTextJson)
 [WPF](https://github.com/dotnet/wpf) | [Elmish.WPF](https://github.com/elmish/Elmish.WPF)
 [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) | [Fabulous](https://github.com/fabulous-dev/Fabulous)
+
+## Authentication and Authorization
+
+* [AAD.fs](https://github.com/Azure/AAD.fs) - Azure Active Directory OAuth2 libraries for Suave and Giraffe/Saturn. [MIT]
 
 ## Actor frameworks
 
@@ -99,6 +105,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 * [FSharp.Control.AsyncSeq ★ 28 ⧗ 12](https://github.com/fsprojects/FSharp.Control.AsyncSeq) - Collection of asynchronous programming utilities for F#. [Apache 2.0]
 * [FSharp.Control.FusionTasks](https://github.com/kekyo/FSharp.Control.FusionTasks) - F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.
 * [FSharpx.Async ★ 37 ⧗ 56](https://github.com/fsprojects/FSharpx.Async) - Collection of asynchronous programming utilities for F#. [Apache 2.0]
+* [FsShelter](https://github.com/fsstorm/fsshelter) - Apache Storm topologies entirely in F#, run w/ or w/o Storm. [Apache 2.0]
 * [Giraffe.Tasks ★ 13 ⧗ 0](https://github.com/giraffe-fsharp/giraffe.tasks) - task computation expression to work natively with .NET's Tasks from an F# application. [Apache 2.0]
 * [Hopac ★ 268 ⧗ 7](https://github.com/Hopac/Hopac) - Concurrent ML style concurrent programming library for F#. [MIT]
 * [Ply](https://github.com/crowded/ply) - High performance System.Threading.(Value)Task computation expressions for F#. [MIT]
@@ -111,8 +118,8 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 * [docopt.fs ★ 18 ⧗ 0](https://github.com/docopt/docopt.fs/) - command line arguments parser, F# port of [docopt](https://github.com/docopt/docopt). [MIT]
 * [FsConfig ★ 14 ⧗ 1](https://github.com/demystifyfp/FsConfig) - F# library for reading configuration data from environment variables and AppSettings with type safety. [Unlicense]
 * [Skid ★ 3 ⧗ 0](https://github.com/Meyhem/Skid) - Simple, single-file portable CLI utility for configuration templating. [MIT]
-## Data Science
 
+## Data Science
 * [Deedle ★ 347 ⧗ 21](https://github.com/BlueMountainCapital/Deedle) - Deedle: Exploratory data library for .NET. [BSD-2-Clause]
 * [Deep.Net](http://www.deepml.net) - Deep learning library for F#. Provides symbolic model differentiation, automatic differentiation and compilation to CUDA GPUs. [Apache 2.0]
 * [DiffSharp ★ 106 ⧗ 70](https://github.com/DiffSharp/DiffSharp) - DiffSharp is a functional automatic differentiation (AD) library. [BSD-2-Clause]
@@ -162,6 +169,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 * [FSharp.CosmosDb](https://github.com/aaronpowell/fsharp.cosmosdb) - An F# wrapper around the CosmosDB SDK, making it more functional-friendly [MIT]
 * [FSharp.HashCollections ★ 4 ⧗ 0](https://github.com/mvkara/fsharp-hashcollections) - Library providing fast hash based immutable map and set. [MIT]
 * [FSharpLu ★ 133 ⧗ 20](https://github.com/Microsoft/fsharplu) - Lightweight utilities for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization. [MIT]
+* [FsCassy](https://github.com/et1975/FsCassy) - Composable and unit-testable Cassandra DB queries. [Apache 2.0]
 * [FsToolkit.ErrorHandling](https://github.com/demystifyfp/FsToolkit.ErrorHandling) - Clear, simple and powerful error handling with railway-oriented programming. Inspired by Chessie. [MIT]
 * [Fumble ★ 30 ⧗ 0](https://github.com/tforkmann/Fumble) - Thin F# API for Sqlite for easy data access to sqlite database with functional seasoning on top [MIT]
 * [FSharpPlus ★ 142 ⧗ 34](https://github.com/gmpl/FSharpPlus) - Extensions for F#. [Apache 2.0]
