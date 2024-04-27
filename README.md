@@ -244,6 +244,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 * [AzureStorageTypeProvider ★ 45 ⧗ 20](https://github.com/fsprojects/AzureStorageTypeProvider) - F# Azure Type Provider which can be used to explore Blob, Table and Queue Azure Storage assets and easily apply CRUD operations on them. [Unilicense]
 * [COM Type Provider ★ 36 ⧗ 330](https://github.com/fsprojects/FSharp.Interop.ComProvider) - Type provider for COM interop. [Unilicense]
 * [DynamicsCRMProvider ★ 8 ⧗ 380](https://github.com/fsprojects/DynamicsCRMProvider) - Type provider for Microsoft Dynamics CRM 2011. [Apache 2.0]
+* [EasyBuild.FileSystemProvider](https://github.com/easybuild-org/EasyBuild.FileSystemProvider) - Type provider to provide a typed representation of files and directories based on your project structure or a virtual file system
 * [ExcelProvider ★ 45 ⧗ 75](https://github.com/fsprojects/ExcelProvider) - Excel type provider. [Unilicense]
 * [Facil](https://github.com/cmeeren/Facil) - Facil generates F# data access source code from SQL queries and stored procedures. Optimized for developer happiness. [MIT]
 * [FSharp.Configuration ★ 60 ⧗ 6](https://github.com/fsprojects/FSharp.Configuration) - The project contains type providers for the configuration of .NET projects. Handles AppSettings, ResX, Yaml and Ini files. [Apache 2.0]
