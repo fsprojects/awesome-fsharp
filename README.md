@@ -230,6 +230,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 * [altcover ★ 139 ⧗ 0](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for .net/.net core and Mono. [MIT]
 * [canopy ★ 304 ⧗ 2](https://github.com/lefthandedgoat/canopy) - F# web automation and testing framework. [MIT]
 * [Expecto ★ 124 ⧗ 2](https://github.com/haf/expecto) - Smooth testing framework for F# with tests-as-values and parallelism by default. [Apache 2.0]
+* [Faqt](https://github.com/cmeeren/Faqt) - Fantastic fluent assertions for your F# tests and domain code. [MIT]
 * [FsCheck ★ 415 ⧗ 34](https://github.com/fscheck/FsCheck) - Random Testing for .NET. [BSD-3-Clause]
 * [fsharp-hedgehog ★ 42 ⧗ 4](https://github.com/hedgehogqa/fsharp-hedgehog) - Property-based testing system for F#. [Apache 2.0]
 * [FsUnit ★ 340 ⧗ 86](https://github.com/fsprojects/FsUnit) - FsUnit makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework. [MIT]
