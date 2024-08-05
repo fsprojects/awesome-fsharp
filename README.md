@@ -290,8 +290,9 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 * [Felicity](https://github.com/cmeeren/Felicity) - Boilerplate-free, idiomatic JSON:API for your beautiful, idiomatic F# domain model. Optimized for developer happiness. [MIT]
 * [Freya ★ 241 ⧗ 7](https://github.com/xyncro/freya) - Modern, purely functional stack for web programming in F#. [Apache 2.0]
 * [Genit ★ 62 ⧗ 1](https://github.com/lefthandedgoat/genit) - Cross-platform website generator and server using F#, Suave and PostgreSQL or MS SQL Server.
-* [Giraffe ★ 526 ⧗ 49](https://github.com/giraffe-fsharp/Giraffe) - Native functional ASP.NET Core web framework for F# developers. [Apache 2.0]
+* [Giraffe ★ 526 ⧗ 49](https://github.com/giraffe-fsharp/Giraffe) - ASP.NET Core based F# framework + supporting tools (ViewEngine, Htmx, OpenApi). [MIT]
 * [Saturn ★ 62 ⧗ 2](https://github.com/SaturnFramework/Saturn) - Opinionated, web development framework for F# which implements the server-side, functional MVC pattern. [MIT]
+* [Oxpecker ★ 207 ⧗ 8](https://github.com/Lanayx/Oxpecker) - Native functional ASP.NET Core web framework for F# developers. [Apache 2.0]
 * **[Suave ★ 756 ⧗ 2](https://github.com/SuaveIO/suave)** - Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition. [Apache 2.0]
 * [WebSharper ★ 270 ⧗ 7](https://github.com/intellifactory/websharper) - F#-based web programming platform including a compiler from F# code to JavaScript. [Apache 2.0]
 
