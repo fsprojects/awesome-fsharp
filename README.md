@@ -52,7 +52,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 .NET Library | F# Wrapper
 -|-
 [Avalonia](https://github.com/AvaloniaUI/Avalonia) | [Avalonia.FuncUI](https://github.com/fsprojects/Avalonia.FuncUI)
-[ASP.NET Core](https://github.com/dotnet/aspnetcore) | [Giraffe](https://github.com/giraffe-fsharp/Giraffe) (+ optionally [Saturn](https://github.com/SaturnFramework/Saturn))
+[ASP.NET Core](https://github.com/dotnet/aspnetcore) | [Giraffe](https://github.com/giraffe-fsharp/Giraffe) (+ optionally [Saturn](https://github.com/SaturnFramework/Saturn))<br/>[Oxpecker](https://github.com/Lanayx/Oxpecker)
 [ASP.NET Core Blazor](https://github.com/dotnet/aspnetcore/tree/main/src/Components) | [Bolero](https://github.com/fsbolero/Bolero)
 [MSTest](https://github.com/microsoft/testfx)/[NUnit](https://github.com/nunit/nunit)/[xUnit.net](https://github.com/xunit/xunit) | [FsUnit](https://github.com/fsprojects/FsUnit)
 [System.Text.Json](https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.Json) | [FSharp.SystemTextJson](https://github.com/Tarmil/FSharp.SystemTextJson)
@@ -293,6 +293,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 * [Genit ★ 62 ⧗ 1](https://github.com/lefthandedgoat/genit) - Cross-platform website generator and server using F#, Suave and PostgreSQL or MS SQL Server.
 * [Giraffe ★ 526 ⧗ 49](https://github.com/giraffe-fsharp/Giraffe) - Native functional ASP.NET Core web framework for F# developers. [Apache 2.0]
 * [Saturn ★ 62 ⧗ 2](https://github.com/SaturnFramework/Saturn) - Opinionated, web development framework for F# which implements the server-side, functional MVC pattern. [MIT]
+* [Oxpecker ★ 207 ⧗ 8](https://github.com/Lanayx/Oxpecker) - ASP.NET Core based F# framework + supporting tools (ViewEngine, Htmx, OpenApi) [MIT]
 * **[Suave ★ 756 ⧗ 2](https://github.com/SuaveIO/suave)** - Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition. [Apache 2.0]
 * [WebSharper ★ 270 ⧗ 7](https://github.com/intellifactory/websharper) - F#-based web programming platform including a compiler from F# code to JavaScript. [Apache 2.0]
 
