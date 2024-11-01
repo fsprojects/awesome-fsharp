@@ -112,6 +112,8 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 * [docopt.fs ★ 18 ⧗ 0](https://github.com/docopt/docopt.fs/) - command line arguments parser, F# port of [docopt](https://github.com/docopt/docopt). [MIT]
 * [FsConfig ★ 14 ⧗ 1](https://github.com/demystifyfp/FsConfig) - F# library for reading configuration data from environment variables and AppSettings with type safety. [Unlicense]
 * [Skid ★ 3 ⧗ 0](https://github.com/Meyhem/Skid) - Simple, single-file portable CLI utility for configuration templating. [MIT]
+* [FSharp.FsxConfig ★ 10 ⧗ 0](https://github.com/MecuSorin/FSharp.FsxConfig) - Simple configuration via fsx files: type safety, comments, can use multiple overlapping config files. [MIT]
+
 ## Data Science
 
 * [Deedle ★ 347 ⧗ 21](https://github.com/BlueMountainCapital/Deedle) - Deedle: Exploratory data library for .NET. [BSD-2-Clause]
@@ -206,6 +208,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 * [FParsec ★ 50 ⧗ 0](https://github.com/stephan-tolksdorf/fparsec) - FParsec is a parser combinator library for F#. [[BSD-2-Clause](http://www.quanttec.com/fparsec/license.html)]
 * [FsAttoparsec ★ 1 ⧗ 0](https://github.com/haf/FsAttoparsec) - Port of Bryan O'Sullivan's attoparsec from Haskell to F#. [BSD-3-Clause]
 * [XParsec ★ 29 ⧗ 2](https://github.com/corsis/XParsec) - Extensible, type-and-source-polymorphic, non-linear applicative parser combinator library for F# 3.0 and 4.0. [BSD-3-Clause]
+* [FSharp.Parser ★ 1 ⧗ 0](https://github.com/MecuSorin/FSharp.Parser) - Parser combinator library with operators silmilars to FParsec. No Dependencies. Single file implementation(can be included directly in the project). [MIT]
 
 ## PreCompilation
 * [Myriad ★ 38 ⧗ 4](https://github.com/MoiraeSoftware/myriad) - Myriad is a pre-compilation code generator
