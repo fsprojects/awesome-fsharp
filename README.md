@@ -181,13 +181,10 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Nu Game Engine](https://github.com/bryanedds/Nu) - Cross-platform F# 2D game engine built in the functional style. Uses SDL2 and Farseer Physics.
 
 ## GUI
-
 <!--lint disable double-link -->
 - [Avalonia.FuncUI](https://github.com/fsprojects/Avalonia.FuncUI) - Develop cross-platform MVU GUI Applications using F# and Avalonia.
 - [Elmish.WPF](https://github.com/elmish/Elmish.WPF) - Elmish (or MVU) approach to WPF programming.
-<!--lint enable double-link -->
 - [Epoxy](https://github.com/kekyo/epoxy) - An independent flexible XAML MVVM library for .NET.
-<!--lint disable double-link -->
 - [Fabulous](https://github.com/fabulous-dev/Fabulous) - F# Functional App Development, using declarative dynamic UI.
 <!--lint enable double-link -->
 
@@ -216,16 +213,15 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Myriad](https://github.com/MoiraeSoftware/myriad) - Myriad is a pre-compilation code generator.
 
 ## Serialization
-
+<!--lint disable double-link -->
 - [FsCodec](https://github.com/jet/FsCodec) - F# Event-Union Contract Encoding with versioning tolerant converters.
 - [FSharp.Json](https://github.com/vsapronov/FSharp.Json) - F# JSON Reflection based serialization library.
-<!--lint disable double-link -->
 - [FSharp.SystemTextJson](https://github.com/Tarmil/FSharp.SystemTextJson) - System.Text.Json extensions for F# types.
-<!--lint enable double-link -->
 - [Fleece](https://github.com/mausch/Fleece) - Fleece is a JSON mapper for F#. It simplifies mapping from a Json library's JsonValue onto your types, and mapping from your types onto JsonValue.
 - [FsPickler](https://github.com/mbraceproject/FsPickler) - Fast, multi-format messaging serializer for .NET.
 - [Legivel](https://github.com/fjoppe/Legivel) - F# Yaml 1.2 parser.
 - [Thoth.Json](https://thoth-org.github.io/Thoth.Json/) - Json encoder/decoder library inspire by Elm.
+<!--lint enable double-link -->
 
 ## Search
 - [FlexSearch](https://github.com/flexsearch/flexsearch) - High performance REST/SOAP services based full-text searching platform built on top of the popular Lucene search library.
@@ -234,19 +230,19 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [F# RISC-V Instruction Set formal specification](https://github.com/mrLSD/riscv-fs) - RISC-V CPU formal ISA Specification. RISC-V CPU simulator with ELF files execution.
 
 ## Testing
+<!--lint disable double-link -->
 - [altcover](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for .net/.net core and Mono.
 - [canopy](https://github.com/lefthandedgoat/canopy) - F# web automation and testing framework.
 - [Expecto](https://github.com/haf/expecto) - Smooth testing framework for F# with tests-as-values and parallelism by default.
 - [Faqt](https://github.com/cmeeren/Faqt) - Fantastic fluent assertions for your F# tests and domain code.
 - [FsCheck](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
 - [fsharp-hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog) - Property-based testing system for F#.
-<!--lint disable double-link -->
 - [FsUnit](https://github.com/fsprojects/FsUnit) - FsUnit makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework.
-<!--lint enable double-link -->
 - [NBomber](https://github.com/PragmaticFlow/NBomber) - Simple load testing framework for Pull and Push scenarios.
 - [Persimmon](https://github.com/persimmon-projects/Persimmon) - Unit test framework for F# using computation expressions.
 - [unquote](https://github.com/swensensoftware/unquote) - Write F# unit test assertions as quoted expressions.
 - [xUnit.net](https://xunit.github.io/) - Free, open source, community-focused unit testing tool for the .NET Framework.
+<!--lint enable double-link -->
 
 ## Type providers
 
@@ -293,25 +289,22 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Plotly.NET](https://github.com/plotly/Plotly.NET) - A Plotly-based general purpose plotting library for F#.
 
 ## Web frameworks
-
 <!--lint disable double-link -->
 - [Bolero](https://github.com/fsbolero/Bolero/) - F# in WebAssembly, develop SPAs with the full power of F# and .NET Blazor.
-<!--lint enable double-link -->
 - [Falco](https://github.com/pimbrouwers/Falco/) - A functional-first toolkit for building brilliant ASP.NET Core applications using F#.
 - [Felicity](https://github.com/cmeeren/Felicity) - Boilerplate-free, idiomatic JSON:API for your beautiful, idiomatic F# domain model. Optimized for developer happiness.
 - [Feliz](https://github.com/Zaid-Ajaj/Feliz) - A fresh retake of the React API in Fable and a collection of high-quality components to build React applications in F#.
 - [Freya](https://github.com/xyncro/freya) - Modern, purely functional stack for web programming in F#.
 - [Genit](https://github.com/lefthandedgoat/genit) - Cross-platform website generator and server using F#, Suave and PostgreSQL or MS SQL Server.
-<!--lint disable double-link -->
 - [Giraffe](https://github.com/giraffe-fsharp/Giraffe) - Native functional ASP.NET Core web framework for F# developers.
 - [Oxpecker](https://github.com/Lanayx/Oxpecker) - ASP.NET Core based F# framework + supporting tools (ViewEngine, Htmx, OpenApi)
 - [Saturn](https://github.com/SaturnFramework/Saturn) - Opinionated, web development framework for F# which implements the server-side, functional MVC pattern.
-<!--lint enable double-link -->
 - [Suave](https://github.com/SuaveIO/suave) - Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition.
 - [WebSharper](https://github.com/intellifactory/websharper) - F#-based web programming platform including a compiler from F# code to JavaScript.
+<!--lint enable double-link -->
 
 ## .Net Core Templates
-<!-- lint disable awesome-list-item -->
+<!--lint disable awesome-list-item-->
 - [ASP.NET Core WebAPI F# Template](https://github.com/MNie/FSharpNetCoreWebApiTemplate) - `dotnet new -i WebAPI.FSharp.Template::*`
 - [Expecto Template](https://github.com/MNie/Expecto.Template) - `dotnet new -i Expecto.Template::*`
 - [Fable, F# |> Babel](http://fable.io) - `dotnet new -i Fable.Template::*`
@@ -321,8 +314,8 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold) - F# Template for creating and publishing libraries targeting .NET Full (net45) and Core (netstandard1.6), `dotnet new -i MiniScaffold::*`
 - [NancyFx Template](https://github.com/MNie/NancyFxCore) - `dotnet new -i NancyFx.Core.Template::*`
 - [SAFE Stack Template](https://github.com/SAFE-Stack/SAFE-template) - `dotnet new -i SAFE.Template::*`
-<!-- lint enable awesome-list-item -->
 - [vbfox's F# Templates](https://github.com/vbfox/FSharpTemplates) - F# Template for creating GitHub project with appveyor and travis support.
+<!--lint enable awesome-list-item-->
 
 ## Resources
 
