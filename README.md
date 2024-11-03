@@ -61,18 +61,18 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ## Actor frameworks
 
-* **[Akka.NET](https://github.com/akkadotnet/akka.net)** - Community-driven port of the popular Java/Scala framework Akka to .NET. [Apache 2.0]
+* [Akka.NET](https://github.com/akkadotnet/akka.net) - Community-driven port of the popular Java/Scala framework Akka to .NET. [Apache 2.0]
 * [Akkling](https://github.com/Horusiath/Akkling) - F# typed API for Akka.NET. [Apache 2.0]
 * [Cricket](https://github.com/fsprojects/Cricket) - Actor framework for F#. [Unlicense]
 * [Orleankka](https://github.com/OrleansContrib/Orleankka) - Functional API for Orleans Framework. [Apache 2.0]
-* **[Orleans](https://github.com/dotnet/orleans)** - Distributed Virtual Actor Model. [MIT]
-* **[Proto.actor](https://github.com/AsynkronIT/protoactor-dotnet)** - Cross-platform actor framework for .NET, GO, JAVA and KOTLIN. [Apache 2.0]
+* [Orleans](https://github.com/dotnet/orleans) - Distributed Virtual Actor Model. [MIT]
+* [Proto.actor](https://github.com/AsynkronIT/protoactor-dotnet) - Cross-platform actor framework for .NET, GO, JAVA and KOTLIN. [Apache 2.0]
 
 
 ## Build tools
 
-* **[FAKE](https://github.com/fsharp/FAKE)** - "F# Make" is a cross platform build automation system. [Apache 2.0]
-* **[Xake](https://github.com/OlegZee/Xake)** - Another MAKE utility implementation on F#, fully declarative with no-brain parallelism, inspired by Shake. [MIT]
+* [FAKE](https://github.com/fsharp/FAKE) - "F# Make" is a cross platform build automation system. [Apache 2.0]
+* [Xake](https://github.com/OlegZee/Xake) - Another MAKE utility implementation on F#, fully declarative with no-brain parallelism, inspired by Shake. [MIT]
 
 ## Cloud
 
@@ -86,13 +86,13 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ## Compilers
 
 * [F# Compiler Services](https://github.com/fsharp/FSharp.Compiler.Service) - The F# Compiler, F# Interactive scripting engine and F# editing services as a component library. [Apache 2.0]
-* **[Fable](https://github.com/fable-compiler/Fable)** - F# to JavaScript Compiler. [Apache 2.0]
+* [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler. [Apache 2.0]
 * [Fez](https://github.com/kjnilsson/fez) - F# to Erlang compiler. [MIT]
-* **[FSharp](https://github.com/fsharp/fsharp)** - The Open Edition of the F# compiler, core library and tools. [Apache 2.0]
+* [FSharp](https://github.com/fsharp/fsharp) - The Open Edition of the F# compiler, core library and tools. [Apache 2.0]
 * [FunScript](https://github.com/ZachBray/FunScript) - F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider. [Apache-2.0]
 * [Juniper](https://github.com/calebh/Juniper) - Functional Reactive Programming for the Arduino and other microcontrollers. [MIT]
 * [Pengines.Client](https://github.com/ninjarobot/Pengines.Client) - sandboxed Prolog environment. [BSD-2-Clause]
-* **[Visual F#](https://github.com/Microsoft/visualfsharp)** - The Visual F# compiler and tools. [Apache 2.0]
+* [Visual F#](https://github.com/Microsoft/visualfsharp) - The Visual F# compiler and tools. [Apache 2.0]
 
 ## Concurrent, asynchronous and parallel programming
 
@@ -120,7 +120,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 * [FsLab](https://github.com/fslaborg/FsLab) - FsLab is a collection of libraries for data-science. It provides a rapid development environment that lets you write advanced analysis with few lines of production-quality code. [Apache 2.0]
 * [IfSharp](https://github.com/fsprojects/IfSharp) - F# for Jupyter Notebooks. [BSD-3-Clause]
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native F# code with zero dependencies. [MIT]
-* **[Math.NET Numerics](https://github.com/mathnet/mathnet-numerics)** - Math.NET Numerics aims to provide methods and algorithms for numerical computations in science, engineering and every day use. F# specific bindings available. [MIT]
+* [Math.NET Numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics aims to provide methods and algorithms for numerical computations in science, engineering and every day use. F# specific bindings available. [MIT]
 * [Math.NET Symbolics](https://github.com/mathnet/mathnet-symbolics/) - Math.NET Symbolics is a basic open source computer algebra library for .NET, Silverlight and Mono written entirely in F#. [MIT]
 * [SIMDArray](https://github.com/jackmott/SIMDArray) - SIMD enhanced Array extensions for faster computation. [MIT]
 * [Synapses](https://github.com/mrdimosthenis/Synapses) - Neural network library in F#. [MIT]
@@ -178,7 +178,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 * [FsUnity](https://github.com/FsUnity) - F# Libraries, Tools, and Plugins for the Unity3d Game Engine. [Unilicense]
 * [Garnet](https://github.com/bcarruthers/garnet) - Garnet is a lightweight game composition library for F# with entity-component-system (ECS) and actor-like messaging features. [MIT]
 * [Godot](http://www.lkokemohr.de/fsharp_godot.html) - Tutorial how to use F# with Godot. 
-* **[Nu Game Engine](https://github.com/bryanedds/Nu)** - Cross-platform F# 2D game engine built in the functional style. Uses SDL2 and Farseer Physics. [MIT]
+* [Nu Game Engine](https://github.com/bryanedds/Nu) - Cross-platform F# 2D game engine built in the functional style. Uses SDL2 and Farseer Physics. [MIT]
 
 ## GUI
 
@@ -200,7 +200,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ## Package Management
 
 * [NuGet](https://www.nuget.org/) - NuGet is the package manager for the Microsoft development platform including .NET. [Apache 2.0]
-* **[Paket](https://github.com/fsprojects/Paket)** - Dependency manager for .NET with support for NuGet packages and Git repositories. [MIT]
+* [Paket](https://github.com/fsprojects/Paket) - Dependency manager for .NET with support for NuGet packages and Git repositories. [MIT]
 
 ## Parsing
 
@@ -348,7 +348,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ### Other Lists
 
-* **[Awesome .NET!](https://github.com/quozd/awesome-dotnet)** - Collection of awesome .NET libraries, tools, frameworks and software. [CC0 1.0]
+* [Awesome .NET!](https://github.com/quozd/awesome-dotnet) - Collection of awesome .NET libraries, tools, frameworks and software. [CC0 1.0]
 * [Awesome Fable](https://github.com/kunjee17/awesome-fable) - Curated list of useful Fable tutorials, libraries and software. [CC0 1.0]
 * [F# Community Projects](http://fsharp.org/community/projects/) - FSharp community projects
 * [F# for fun and profit](https://fsharpforfunandprofit.com/)
