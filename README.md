@@ -46,6 +46,8 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 ## F# wrappers for popular .NET libraries
 Looking to have a more enjoyable experience when consuming a popular .NET library? Here is a quick table.
 
+<!-- The following table includes some entries that are duplicated in the list below. This is by design. -->  
+<!--lint disable double-link -->
 .NET Library | F# Wrapper
 -|-
 [Avalonia](https://github.com/AvaloniaUI/Avalonia) | [Avalonia.FuncUI](https://github.com/fsprojects/Avalonia.FuncUI)
@@ -55,6 +57,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 [System.Text.Json](https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.Json) | [FSharp.SystemTextJson](https://github.com/Tarmil/FSharp.SystemTextJson)
 [WPF](https://github.com/dotnet/wpf) | [Elmish.WPF](https://github.com/elmish/Elmish.WPF)
 [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) | [Fabulous](https://github.com/fabulous-dev/Fabulous)
+<!--lint enable double-link -->
 
 ## Actor frameworks
 
