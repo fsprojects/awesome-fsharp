@@ -1,2 +1,4 @@
-.access-token
-.vscode
+.idea/
+.vscode/
+
+*.user
