@@ -28,15 +28,15 @@ let getLink(header: string) =
     "#" + String characters 
 
 let tocText =
-    "- [Awesome F#](#)\n" + (
+    (
         headers
         |> Seq.map(fun h ->
             let text = h.Inline.FirstChild.ToString()
-            let indent = String(' ', (h.Level - 1) * 2)
+            let indent = String(' ', (h.Level - 2) * 2)
             $"{indent}- [{text}]({getLink text})"
         )
         |> String.concat "\n"
-    ) + "\n\n"
+    ) + "\n"
 
 let updateHeader (header: HeadingBlock) (newContent: string) =
     let parent = header.Parent
