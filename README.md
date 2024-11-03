@@ -291,6 +291,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 * [Bolero](https://github.com/fsbolero/Bolero/) - F# in WebAssembly, develop SPAs with the full power of F# and .NET Blazor. [Apache 2.0]
 * [Falco](https://github.com/pimbrouwers/Falco/) - A functional-first toolkit for building brilliant ASP.NET Core applications using F#.
 * [Felicity](https://github.com/cmeeren/Felicity) - Boilerplate-free, idiomatic JSON:API for your beautiful, idiomatic F# domain model. Optimized for developer happiness. [MIT]
+* [Feliz](https://github.com/Zaid-Ajaj/Feliz) – A fresh retake of the React API in Fable and a collection of high-quality components to build React applications in F#. \[MIT\]
 * [Freya](https://github.com/xyncro/freya) - Modern, purely functional stack for web programming in F#. [Apache 2.0]
 * [Genit](https://github.com/lefthandedgoat/genit) - Cross-platform website generator and server using F#, Suave and PostgreSQL or MS SQL Server.
 * [Giraffe](https://github.com/giraffe-fsharp/Giraffe) - Native functional ASP.NET Core web framework for F# developers. [Apache 2.0]
