@@ -186,6 +186,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 * [Avalonia.FuncUI](https://github.com/fsprojects/Avalonia.FuncUI) - Develop cross-platform MVU GUI Applications using F# and Avalonia
 * [Epoxy](https://github.com/kekyo/epoxy) - An independent flexible XAML MVVM library for .NET
 * [Fabulous](https://github.com/fabulous-dev/Fabulous) - F# Functional App Development, using declarative dynamic UI
+* [Elmish.WPF](https://github.com/elmish/Elmish.WPF) – Elmish (or MVU) approach to WPF programming. \[Apache 2.0\]
 
 ## HTTP Clients
 * [Http.fs](https://github.com/haf/Http.fs) - A simple, functional HTTP client library for F#
