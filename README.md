@@ -1,4 +1,4 @@
-# <img src="http://fsprojects.github.io/assets/logo.png" width="26"> Awesome F# [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Join the chat at https://gitter.im/VPashkov/awesome-fsharp](https://badges.gitter.im/VPashkov/awesome-fsharp.svg)](https://gitter.im/VPashkov/awesome-fsharp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# Awesome F# [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Join the chat at https://gitter.im/VPashkov/awesome-fsharp](https://badges.gitter.im/VPashkov/awesome-fsharp.svg)](https://gitter.im/VPashkov/awesome-fsharp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) <img src="https://fsharp.org/img/logo/fsharp.svg" width="48" height="48" align="right"/>
 
 A curated list of awesome F# frameworks, libraries, software and resources.
 
