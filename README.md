@@ -32,7 +32,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
   - [Creating type providers](#creating-type-providers)
 - [Visualization](#visualization)
 - [Web frameworks](#web-frameworks)
-- [.Net Core Templates](#net-core-templates)
+- [.NET Core Templates](#net-core-templates)
 - [Resources](#resources)
   - [Blogs](#blogs)
   - [Books](#books)
@@ -132,7 +132,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [F# Playground](https://github.com/Seng-Jik/FSharpPlayground) - Minimal playground for F#.
 - [JetBrains Rider](https://www.jetbrains.com/rider) - Cross-platform .NET IDE with F# support (Proprietary, free for non-commercial use).
 - [MonoDevelop](http://www.monodevelop.com/) - Cross-platform IDE mostly aimed at Mono/.NET developers.
-- [Visual Studio](https://www.visualstudio.com/) - IDE from Microsoft with first class F# support(Windows only) (Proprietary).
+- [Visual Studio](https://www.visualstudio.com/) - IDE from Microsoft with first class F# support (Windows only, Proprietary).
 
 ### Editor plugins
 
@@ -196,7 +196,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ## Logging
 
 - [FsLibLog](https://github.com/TheAngryByrd/FsLibLog) - FsLibLog is a single file you can copy paste or add through Paket GitHub dependencies to provide your F# library with a logging abstraction.
-- [Logary](https://github.com/logary/logary/) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for mono and .Net.
+- [Logary](https://github.com/logary/logary/) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for mono and .NET.
 
 ## Package Management
 
@@ -231,7 +231,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ## Testing
 <!--lint disable double-link -->
-- [altcover](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for .net/.net core and Mono.
+- [altcover](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for .NET/.NET core and Mono.
 - [canopy](https://github.com/lefthandedgoat/canopy) - F# web automation and testing framework.
 - [Expecto](https://github.com/haf/expecto) - Smooth testing framework for F# with tests-as-values and parallelism by default.
 - [Faqt](https://github.com/cmeeren/Faqt) - Fantastic fluent assertions for your F# tests and domain code.
@@ -303,7 +303,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [WebSharper](https://github.com/intellifactory/websharper) - F#-based web programming platform including a compiler from F# code to JavaScript.
 <!--lint enable double-link -->
 
-## .Net Core Templates
+## .NET Core Templates
 <!--lint disable awesome-list-item-->
 - [ASP.NET Core WebAPI F# Template](https://github.com/MNie/FSharpNetCoreWebApiTemplate) - `dotnet new -i WebAPI.FSharp.Template::*`
 - [Expecto Template](https://github.com/MNie/Expecto.Template) - `dotnet new -i Expecto.Template::*`

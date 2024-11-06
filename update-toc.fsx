@@ -36,7 +36,7 @@ let tocText =
             $"{indent}- [{text}]({getLink text})"
         )
         |> String.concat "\n"
-    ) + "\n"
+    ) + "\n\n"
 
 let updateHeader (header: HeadingBlock) (newContent: string) =
     let parent = header.Parent
