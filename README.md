@@ -331,6 +331,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ### Books
 
 - [F# in Action](https://www.manning.com/books/f-sharp-in-action)
+- [Domain Modeling Made Functional](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/)
 
 ### Cheatsheets
 
