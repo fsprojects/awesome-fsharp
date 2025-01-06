@@ -231,7 +231,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [F# RISC-V Instruction Set formal specification](https://github.com/mrLSD/riscv-fs) - RISC-V CPU formal ISA Specification. RISC-V CPU simulator with ELF files execution.
 
 ## Static site generators
-- [SkunkHTML](https://github.com/MaxGripe/skunk-html) - Markdown Blog with GitHub Pages
+- [SkunkHTML](https://github.com/MaxGripe/skunk-html) - Markdown Blog with GitHub Pages.
 
 ## Testing
 <!--lint disable double-link -->
