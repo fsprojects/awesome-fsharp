@@ -1,4 +1,4 @@
-﻿#r "nuget: Markdig, 0.38.0"
+﻿#r "nuget: Markdig, 0.41.0"
 
 open System
 open Markdig
