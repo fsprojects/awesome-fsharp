@@ -48,8 +48,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 - [F# main repository](https://github.com/dotnet/fsharp)
 - [F# projects](https://github.com/fsprojects)
 - [F# suggestions](https://github.com/fsharp/fslang-suggestions)
-- [F# design](https://github.com/fsharp/fslang-design)
-- [F# compiler service](https://github.com/fsharp/FSharp.Compiler.Service)
+- [F# RFCs](https://github.com/fsharp/fslang-design)
 
 ## F# Wrappers for Popular .NET Libraries
 Looking to have a more enjoyable experience when consuming a popular .NET library? Here is a quick table.
