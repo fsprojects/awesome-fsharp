@@ -72,7 +72,7 @@ let isNonLocalLink(link: string) =
         eprintfn $"Error during parsing link {link}: {error.Message}"
         reraise()
 
-let readmeFilePath = Path.Combine(__SOURCE_DIRECTORY__, "README.md")
+let readmeFilePath = Path.Combine(__SOURCE_DIRECTORY__, "../README.md")
 
 let markdown = File.ReadAllText(readmeFilePath)
 let document = Markdown.Parse(markdown, trackTrivia = true)

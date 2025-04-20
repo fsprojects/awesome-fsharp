@@ -17,4 +17,4 @@ jobs:
       - uses: actions/setup-dotnet@v4
         with:
           dotnet-version: 9.x
-      - run: dotnet fsi check-dead-links.fsx
+      - run: dotnet fsi scripts/check-dead-links.fsx

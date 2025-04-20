@@ -6,7 +6,7 @@ open System.IO
 open Markdig.Renderers.Roundtrip
 open Markdig.Syntax
 
-let readmeFilePath = Path.Combine(__SOURCE_DIRECTORY__, "README.md")
+let readmeFilePath = Path.Combine(__SOURCE_DIRECTORY__, "../README.md")
 
 let markdown = File.ReadAllText(readmeFilePath)
 let document = Markdown.Parse(markdown, trackTrivia = true)
