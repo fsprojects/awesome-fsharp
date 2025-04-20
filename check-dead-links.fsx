@@ -11,7 +11,6 @@ open Markdig.Syntax
 open Markdig.Syntax.Inlines
 open Polly
 open Polly.Retry
-open Polly.Timeout
 
 let rec visitRecursively (action: MarkdownObject -> unit) (node: MarkdownObject) =
     match node with
@@ -37,6 +36,10 @@ let collectLinks node =
         node
     urls
 
+let exclusionCodes = Map.ofArray [|
+    "https://www.lkokemohr.de/fsharp_godot.html", HttpStatusCode.TooManyRequests // GitHub runner receives this often
+|]
+
 let printLock = Object()
 let retryPipeline =
     ResiliencePipelineBuilder()
@@ -49,7 +52,10 @@ let checkLinkStatus (client: HttpClient) (url: string) = task {
             fun _ -> ValueTask<HttpResponseMessage>(client.GetAsync url)
         )
         if response.StatusCode <> HttpStatusCode.OK then
-            return Result.Error $"Status code {int response.StatusCode}."
+            return
+                match Map.tryFind url exclusionCodes with
+                | Some code when code = response.StatusCode -> Result.Ok()
+                | _ -> Result.Error $"Status code {int response.StatusCode}."
         else
             return Result.Ok()
     with
