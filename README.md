@@ -97,7 +97,6 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Fez](https://github.com/kjnilsson/fez) - F# to Erlang compiler.
 - [FunScript](https://github.com/ZachBray/FunScript) - F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider.
 - [Juniper](https://github.com/calebh/Juniper) - Functional Reactive Programming for the Arduino and other microcontrollers.
-- [Pengines.Client](https://github.com/ninjarobot/Pengines.Client) - Sandboxed Prolog environment.
 
 ## Concurrent, Asynchronous, and Parallel Programming
 

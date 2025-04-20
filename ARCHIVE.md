@@ -9,8 +9,11 @@ This is a storage of links that were removed from the main list.
 ## Actor Frameworks
 - [Cricket](https://github.com/fsprojects/Cricket) - Actor framework for F#.
 
-## Concurrent, Asynchronous and Parallel Programming
+## Concurrent, Asynchronous, and Parallel Programming
 - [Giraffe.Tasks](https://github.com/giraffe-fsharp/giraffe.tasks) - Task computation expression to work natively with .NET's Tasks from an F# application.
+
+## Compilers for Other Platforms
+- [Pengines.Client](https://github.com/ninjarobot/Pengines.Client) - Sandboxed Prolog environment.
 
 ## Development Tools
 
