@@ -175,7 +175,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 - [FsUnity](https://github.com/FsUnity) - F# Libraries, Tools, and Plugins for the Unity3d Game Engine.
 - [Garnet](https://github.com/bcarruthers/garnet) - Garnet is a lightweight game composition library for F# with entity-component-system (ECS) and actor-like messaging features.
-- [Godot](http://www.lkokemohr.de/fsharp_godot.html) - Tutorial how to use F# with Godot. 
+- [Godot](https://www.lkokemohr.de/fsharp_godot.html) - Tutorial how to use F# with Godot. 
 - [Nu Game Engine](https://github.com/bryanedds/Nu) - Cross-platform F# 2D game engine built in the functional style. Uses SDL2 and Farseer Physics.
 
 ## GUI
