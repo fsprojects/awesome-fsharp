@@ -77,7 +77,9 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ## Cloud
 
 - [Chia](https://github.com/DanpowerGruppe/Chia) - Chia is a F# library which contains HelperFunctions for reporting, logging and Azure cloud operations.
+- [Farmer](https://github.com/CompositionalIT/farmer) - Repeatable Azure deployments with ARM templates made easy.
 - [FsFirestore](https://github.com/mrbandler/FsFirestore) - Functional F# library to access Firestore database hosted on Google Cloud Platform (GCP) or Firebase.
+- [Pulumi.FSharp.Extensions](https://github.com/UnoSD/Pulumi.FSharp.Extensions) - F# computational expressions to reduce boilerplate in Pulumi code.
 
 ## Code Generation
 
