@@ -3,21 +3,21 @@
 A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Contents
-- [F# wrappers for popular .NET libraries](#f-wrappers-for-popular-net-libraries)
-- [Actor frameworks](#actor-frameworks)
-- [Build tools](#build-tools)
+- [F# Wrappers for Popular .NET Libraries](#f-wrappers-for-popular-net-libraries)
+- [Actor Frameworks](#actor-frameworks)
+- [Build Tools](#build-tools)
 - [Cloud](#cloud)
 - [Code Generation](#code-generation)
 - [Compilers](#compilers)
-- [Concurrent, asynchronous and parallel programming](#concurrent-asynchronous-and-parallel-programming)
+- [Concurrent, Asynchronous and Parallel Programming](#concurrent-asynchronous-and-parallel-programming)
 - [Configuration](#configuration)
 - [Data Science](#data-science)
 - [Development Tools](#development-tools)
   - [IDE](#ide)
-  - [Editor plugins](#editor-plugins)
-  - [Performance analysis](#performance-analysis)
-- [General purpose libraries](#general-purpose-libraries)
-- [Game development](#game-development)
+  - [Editor Plugins](#editor-plugins)
+  - [Performance Analysis](#performance-analysis)
+- [General Purpose Libraries](#general-purpose-libraries)
+- [Game Development](#game-development)
 - [GUI](#gui)
 - [HTTP Clients](#http-clients)
 - [Logging](#logging)
@@ -25,12 +25,12 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 - [Parsing](#parsing)
 - [Serialization](#serialization)
 - [Simulation](#simulation)
-- [Static site generators](#static-site-generators)
+- [Static Site Generators](#static-site-generators)
 - [Testing](#testing)
-- [Type providers](#type-providers)
-  - [Creating type providers](#creating-type-providers)
+- [Type Providers](#type-providers)
+  - [Creating Type Providers](#creating-type-providers)
 - [Visualization](#visualization)
-- [Web frameworks](#web-frameworks)
+- [Web Frameworks](#web-frameworks)
 - [.NET Core Templates](#net-core-templates)
 - [Resources](#resources)
   - [Blogs](#blogs)
@@ -42,7 +42,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
   - [Videos](#videos)
   - [Courses](#courses)
 
-## F# wrappers for popular .NET libraries
+## F# Wrappers for Popular .NET Libraries
 Looking to have a more enjoyable experience when consuming a popular .NET library? Here is a quick table.
 
 <!-- The following table includes some entries that are duplicated in the list below. This is by design. -->  
@@ -58,7 +58,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 [WPF](https://github.com/dotnet/wpf) | [Elmish.WPF](https://github.com/elmish/Elmish.WPF)
 <!--lint enable double-link -->
 
-## Actor frameworks
+## Actor Frameworks
 
 - [Akka.NET](https://github.com/akkadotnet/akka.net) - Community-driven port of the popular Java/Scala framework Akka to .NET.
 - [Akkling](https://github.com/Horusiath/Akkling) - F# typed API for Akka.NET.
@@ -66,7 +66,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Orleans](https://github.com/dotnet/orleans) - Distributed Virtual Actor Model.
 - [Proto.actor](https://github.com/AsynkronIT/protoactor-dotnet) - Cross-platform actor framework for .NET, GO, JAVA and KOTLIN.
 
-## Build tools
+## Build Tools
 
 - [FAKE](https://github.com/fsharp/FAKE) - "F# Make" is a cross platform build automation system.
 - [Xake](https://github.com/OlegZee/Xake) - Another MAKE utility implementation on F#, fully declarative with no-brain parallelism, inspired by Shake.
@@ -94,7 +94,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Pengines.Client](https://github.com/ninjarobot/Pengines.Client) - Sandboxed Prolog environment.
 - [Visual F#](https://github.com/Microsoft/visualfsharp) - The Visual F# compiler and tools.
 
-## Concurrent, asynchronous and parallel programming
+## Concurrent, Asynchronous and Parallel Programming
 
 - [FIO](https://github.com/iyyel/fio) - A type-safe, highly concurrent and asynchronous library for F# based on pure functional programming.
 - [FSharp.Control.AsyncSeq](https://github.com/fsprojects/FSharp.Control.AsyncSeq) - Collection of asynchronous programming utilities for F#.
@@ -134,7 +134,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [MonoDevelop](http://www.monodevelop.com/) - Cross-platform IDE mostly aimed at Mono/.NET developers.
 - [Visual Studio](https://www.visualstudio.com/) - IDE from Microsoft with first class F# support (Windows only, Proprietary).
 
-### Editor plugins
+### Editor Plugins
 
 - [Emacs F# mode](https://github.com/fsharp/emacs-fsharp-mode) - F# support in Emacs (including Intellisense and Interactive mode).
 - [FSharpFar](https://github.com/nightroman/FarNet) - F# support for Far Manager.
@@ -146,11 +146,11 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [fsharp-notebook](https://github.com/pablofrommars/fsharp-notebook) - Data Science Notebook for F# interactive.
 - [neofsharp.vim](https://github.com/adelarsq/neofsharp.vim) - Basic F# support for (Neo)Vim.
 
-### Performance analysis
+### Performance Analysis
 
 - [fasm](https://github.com/d-edge/fasm) - F# jit disassembler, as a dotnet tool.
 
-## General purpose libraries
+## General Purpose Libraries
 
 - [Aether](https://github.com/xyncro/aether) - Optics library for F#, similar to the Haskell Data.Lens package.
 - [Chessie](https://github.com/fsprojects/Chessie) - Railway-oriented programming.
@@ -171,7 +171,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Validus](https://github.com/pimbrouwers/Validus) - A composable validation library for F#, with built-in validators for most primitive types and easily extended through custom validators.
 - [Vp.FSharp.Sql](https://github.com/veepee-oss/Vp.FSharp.Sql) - Generic F# ADO Provider Wrapper (SqlServer, PostgreSql, Sqlite).
 
-## Game development
+## Game Development
 
 - [FsUnity](https://github.com/FsUnity) - F# Libraries, Tools, and Plugins for the Unity3d Game Engine.
 - [Garnet](https://github.com/bcarruthers/garnet) - Garnet is a lightweight game composition library for F# with entity-component-system (ECS) and actor-like messaging features.
@@ -223,7 +223,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
  
 - [F# RISC-V Instruction Set formal specification](https://github.com/mrLSD/riscv-fs) - RISC-V CPU formal ISA Specification. RISC-V CPU simulator with ELF files execution.
 
-## Static site generators
+## Static Site Generators
 
 - [SkunkHTML](https://github.com/MaxGripe/skunk-html) - Markdown Blog with GitHub Pages.
 
@@ -242,7 +242,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [xUnit.net](https://xunit.net/) - Free, open source, community-focused unit testing tool for the .NET Framework.
 <!--lint enable double-link -->
 
-## Type providers
+## Type Providers
 
 - [AzureStorageTypeProvider](https://github.com/fsprojects/AzureStorageTypeProvider) - F# Azure Type Provider which can be used to explore Blob, Table and Queue Azure Storage assets and easily apply CRUD operations on them.
 - [DynamicsCRMProvider](https://github.com/fsprojects/DynamicsCRMProvider) - Type provider for Microsoft Dynamics CRM 2011.
@@ -268,7 +268,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [SQLProvider](https://github.com/fsprojects/SQLProvider) - General F# SQL database erasing type provider, supporting LINQ queries, schema exploration, individuals, CRUD operations and much more besides.
 - [SwaggerProvider](https://github.com/fsprojects/SwaggerProvider) - F# generative Type Provider for Swagger.
 
-### Creating type providers
+### Creating Type Providers
 
 - [FSharp.TypeProviders.StarterPack](https://github.com/fsprojects/FSharp.TypeProviders.StarterPack) - The ProvidedTypes SDK for creating F# type providers.
 
@@ -280,7 +280,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [SharpVG](https://github.com/ChrisNikkel/SharpVG) - Create SVG vector graphics in F#.
 - [XPlot](https://github.com/fslaborg/XPlot) - A plotting library for the F# programming language.
 
-## Web frameworks
+## Web Frameworks
 <!--lint disable double-link -->
 - [Bolero](https://github.com/fsbolero/Bolero/) - F# in WebAssembly, develop SPAs with the full power of F# and .NET Blazor.
 - [Falco](https://github.com/pimbrouwers/Falco/) - A functional-first toolkit for building brilliant ASP.NET Core applications using F#.
