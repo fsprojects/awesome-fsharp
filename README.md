@@ -3,14 +3,14 @@
 A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Contents
-- [Main language-related repos](#main-language-related-repos)
+- [Main Language-Related Repositories](#main-languagerelated-repositories)
 - [F# Wrappers for Popular .NET Libraries](#f-wrappers-for-popular-net-libraries)
 - [Actor Frameworks](#actor-frameworks)
 - [Build Tools](#build-tools)
 - [Cloud](#cloud)
 - [Code Generation](#code-generation)
-- [Non .NET Compilers](#non-net-compilers)
-- [Concurrent, Asynchronous and Parallel Programming](#concurrent-asynchronous-and-parallel-programming)
+- [Compilers for Other Platforms](#compilers-for-other-platforms)
+- [Concurrent, Asynchronous, and Parallel Programming](#concurrent-asynchronous-and-parallel-programming)
 - [Configuration](#configuration)
 - [Data Science](#data-science)
 - [Development Tools](#development-tools)
@@ -43,7 +43,7 @@ A curated list of awesome F# frameworks, libraries, software and resources.
   - [Videos](#videos)
   - [Courses](#courses)
 
-## Main language-related repos
+## Main Language-Related Repositories
 
 - [F# main repository](https://github.com/dotnet/fsharp)
 - [F# projects](https://github.com/fsprojects)
@@ -91,7 +91,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Hawaii](https://github.com/Zaid-Ajaj/Hawaii) - A dotnet CLI tool to generate type-safe F# clients from OpenAPI/Swagger services.
 - [Myriad](https://github.com/MoiraeSoftware/myriad) - Myriad is a pre-compilation code generator.
 
-## Non .NET compilers
+## Compilers for Other Platforms
 
 - [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
 - [Fez](https://github.com/kjnilsson/fez) - F# to Erlang compiler.
@@ -99,7 +99,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Juniper](https://github.com/calebh/Juniper) - Functional Reactive Programming for the Arduino and other microcontrollers.
 - [Pengines.Client](https://github.com/ninjarobot/Pengines.Client) - Sandboxed Prolog environment.
 
-## Concurrent, Asynchronous and Parallel Programming
+## Concurrent, Asynchronous, and Parallel Programming
 
 - [FIO](https://github.com/iyyel/fio) - A type-safe, highly concurrent and asynchronous library for F# based on pure functional programming.
 - [FSharp.Control.AsyncSeq](https://github.com/fsprojects/FSharp.Control.AsyncSeq) - Collection of asynchronous programming utilities for F#.
@@ -338,13 +338,13 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ### Community
 
+- [Amplifying F#](https://amplifyingfsharp.io)
+- [F# on BlueSky](https://bsky.app/hashtag/fsharp)
 - [F# on Discord](https://discord.com/invite/fsharp-196693847965696000)
+- [F# on Discourse](https://forums.fsharp.org/)
 - [F# on Reddit](https://www.reddit.com/r/fsharp/)
 - [F# on Telegram](https://t.me/fsharp_chat)
-- [F# on Discourse](https://forums.fsharp.org/)
 - [F# on Twitter](https://x.com/hashtag/fsharp)
-- [F# on BlueSky](https://bsky.app/hashtag/fsharp)
-- [Amplifying F#](https://amplifyingfsharp.io)
 
 ### Other Lists
 
