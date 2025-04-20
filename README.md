@@ -340,7 +340,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ### Community
 
 - [F# on Discord](https://discord.com/invite/fsharp-196693847965696000)
-- [F# on Reddit](https://www.reddit.com/r/fsharp)
+- [F# on Reddit](https://www.reddit.com/r/fsharp/)
 - [F# on Telegram](https://t.me/fsharp_chat)
 - [F# on Discourse](https://forums.fsharp.org/)
 - [F# on Twitter](https://x.com/hashtag/fsharp)
