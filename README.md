@@ -3,12 +3,13 @@
 A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Contents
+- [Main language-related repos](#main-language-related-repos)
 - [F# Wrappers for Popular .NET Libraries](#f-wrappers-for-popular-net-libraries)
 - [Actor Frameworks](#actor-frameworks)
 - [Build Tools](#build-tools)
 - [Cloud](#cloud)
 - [Code Generation](#code-generation)
-- [Compilers](#compilers)
+- [Non .NET Compilers](#non-net-compilers)
 - [Concurrent, Asynchronous and Parallel Programming](#concurrent-asynchronous-and-parallel-programming)
 - [Configuration](#configuration)
 - [Data Science](#data-science)
@@ -41,6 +42,14 @@ A curated list of awesome F# frameworks, libraries, software and resources.
   - [Websites](#websites)
   - [Videos](#videos)
   - [Courses](#courses)
+
+## Main language-related repos
+
+- [F# main repository](https://github.com/dotnet/fsharp)
+- [F# projects](https://github.com/fsprojects)
+- [F# suggestions](https://github.com/fsharp/fslang-suggestions)
+- [F# design](https://github.com/fsharp/fslang-design)
+- [F# compiler service](https://github.com/fsharp/FSharp.Compiler.Service)
 
 ## F# Wrappers for Popular .NET Libraries
 Looking to have a more enjoyable experience when consuming a popular .NET library? Here is a quick table.
@@ -83,16 +92,13 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Hawaii](https://github.com/Zaid-Ajaj/Hawaii) - A dotnet CLI tool to generate type-safe F# clients from OpenAPI/Swagger services.
 - [Myriad](https://github.com/MoiraeSoftware/myriad) - Myriad is a pre-compilation code generator.
 
-## Compilers
+## Non .NET compilers
 
-- [F# Compiler Services](https://github.com/fsharp/FSharp.Compiler.Service) - The F# Compiler, F# Interactive scripting engine and F# editing services as a component library.
-- [FSharp](https://github.com/dotnet/fsharp) - The Open Edition of the F# compiler, core library and tools.
 - [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
 - [Fez](https://github.com/kjnilsson/fez) - F# to Erlang compiler.
 - [FunScript](https://github.com/ZachBray/FunScript) - F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider.
 - [Juniper](https://github.com/calebh/Juniper) - Functional Reactive Programming for the Arduino and other microcontrollers.
 - [Pengines.Client](https://github.com/ninjarobot/Pengines.Client) - Sandboxed Prolog environment.
-- [Visual F#](https://github.com/Microsoft/visualfsharp) - The Visual F# compiler and tools.
 
 ## Concurrent, Asynchronous and Parallel Programming
 
@@ -333,10 +339,13 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ### Community
 
+- [F# on Discord](https://discord.com/invite/fsharp-196693847965696000)
+- [F# on Reddit](https://www.reddit.com/r/fsharp)
+- [F# on Telegram](https://t.me/fsharp_chat)
 - [F# on Discourse](https://forums.fsharp.org/)
-- [F# on GitHub](https://github.com/fsharp/)
-- [F# on Slack](http://fsharp.org/guides/slack/)
-- [F# on Telegram](https://t.me/fsharp_news)
+- [F# on Twitter](https://x.com/hashtag/fsharp)
+- [F# on BlueSky](https://bsky.app/hashtag/fsharp)
+- [Amplifying F#](https://amplifyingfsharp.io)
 
 ### Other Lists
 
@@ -359,6 +368,8 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ### Videos
 
+- [Amplifying F# YouTube Channel](https://www.youtube.com/@amplifyingfsharp)
+- [F# Online YouTube Channel](https://www.youtube.com/@fonline6018)
 - [Austin F# Meetup Group Recorded Presentations](http://usergroup.tv/videos/category/group/austin-f-meetup)
 - [F# Chats on performance](https://www.youtube.com/watch?v=EIBRoNEpg6c&list=PLqWncHdBPoD4O1sr2Q3W9gAuJ30s09U2r)
 - [Fast Dictionary in F#](https://www.youtube.com/watch?v=KMR2y1vcO-s&list=PLqWncHdBPoD4-d_VSZ0MB0IBKQY0rwYLd)
