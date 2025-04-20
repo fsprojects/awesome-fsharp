@@ -4,6 +4,7 @@
 open System
 open System.Net
 open System.Net.Http
+open System.Net.Http.Headers
 open System.Threading.Tasks
 open Markdig
 open System.IO
@@ -39,6 +40,11 @@ let collectLinks node =
 let exclusionCodes = Map.ofArray [|
     "https://www.lkokemohr.de/fsharp_godot.html", HttpStatusCode.TooManyRequests // GitHub runner receives this often
 |]
+let userAgents = Map.ofArray [|
+    // Reddit doesn't like when we access it without any user-agent header.
+    // Note that this won't work for every other resource; e.g., X doesn't like whe we *pass* the user-agent.
+    "https://www.reddit.com/r/fsharp/", "Mozilla/5.0 (compatible; +https://github.com/fsprojects/awesome-fsharp)"
+|]
 
 let printLock = Object()
 let retryPipeline =
@@ -49,7 +55,13 @@ let checkLinkStatus (client: HttpClient) (url: string) = task {
     try
         lock printLock (fun () -> printfn $"Verifying link {url}…")
         let! response = retryPipeline.ExecuteAsync(
-            fun _ -> ValueTask<HttpResponseMessage>(client.GetAsync url)
+            fun _ -> ValueTask<HttpResponseMessage>(task {
+                use request = new HttpRequestMessage(HttpMethod.Get, url)
+                Map.tryFind url userAgents |> Option.iter(
+                    fun ua -> request.Headers.TryAddWithoutValidation("User-Agent", ua) |> ignore
+                )
+                return! client.SendAsync request
+            })
         )
         if response.StatusCode <> HttpStatusCode.OK then
             return
