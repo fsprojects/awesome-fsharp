@@ -23,7 +23,6 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 - [Logging](#logging)
 - [Package Management](#package-management)
 - [Parsing](#parsing)
-- [PreCompilation](#precompilation)
 - [Serialization](#serialization)
 - [Search](#search)
 - [Simulation](#simulation)
@@ -51,13 +50,13 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 <!--lint disable double-link -->
 .NET Library | F# Wrapper
 -|-
-[Avalonia](https://github.com/AvaloniaUI/Avalonia) | [Avalonia.FuncUI](https://github.com/fsprojects/Avalonia.FuncUI)
-[ASP.NET Core](https://github.com/dotnet/aspnetcore) | [Giraffe](https://github.com/giraffe-fsharp/Giraffe) (+ optionally [Saturn](https://github.com/SaturnFramework/Saturn))<br/>[Oxpecker](https://github.com/Lanayx/Oxpecker)
 [ASP.NET Core Blazor](https://github.com/dotnet/aspnetcore/tree/main/src/Components) | [Bolero](https://github.com/fsbolero/Bolero)
+[ASP.NET Core](https://github.com/dotnet/aspnetcore) | [Giraffe](https://github.com/giraffe-fsharp/Giraffe) (+ optionally [Saturn](https://github.com/SaturnFramework/Saturn))<br/>[Oxpecker](https://github.com/Lanayx/Oxpecker)
+[Avalonia](https://github.com/AvaloniaUI/Avalonia) | [Avalonia.FuncUI](https://github.com/fsprojects/Avalonia.FuncUI)
+[MAUI](https://github.com/dotnet/maui)/[Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) | [Fabulous](https://github.com/fabulous-dev/Fabulous)
 [MSTest](https://github.com/microsoft/testfx)/[NUnit](https://github.com/nunit/nunit)/[xUnit.net](https://github.com/xunit/xunit) | [FsUnit](https://github.com/fsprojects/FsUnit)
 [System.Text.Json](https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.Json) | [FSharp.SystemTextJson](https://github.com/Tarmil/FSharp.SystemTextJson)
 [WPF](https://github.com/dotnet/wpf) | [Elmish.WPF](https://github.com/elmish/Elmish.WPF)
-[MAUI](https://github.com/dotnet/maui)/[Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) | [Fabulous](https://github.com/fabulous-dev/Fabulous)
 <!--lint enable double-link -->
 
 ## Actor frameworks
@@ -77,19 +76,20 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ## Cloud
 
-- [FsFirestore](https://github.com/mrbandler/FsFirestore) - Functional F# library to access Firestore database hosted on Google Cloud Platform (GCP) or Firebase.
 - [Chia](https://github.com/DanpowerGruppe/Chia) - Chia is a F# library which contains HelperFunctions for reporting, logging and Azure cloud operations.
+- [FsFirestore](https://github.com/mrbandler/FsFirestore) - Functional F# library to access Firestore database hosted on Google Cloud Platform (GCP) or Firebase.
 
 ## Code Generation
 
 - [Hawaii](https://github.com/Zaid-Ajaj/Hawaii) - A dotnet CLI tool to generate type-safe F# clients from OpenAPI/Swagger services.
+- [Myriad](https://github.com/MoiraeSoftware/myriad) - Myriad is a pre-compilation code generator.
 
 ## Compilers
 
 - [F# Compiler Services](https://github.com/fsharp/FSharp.Compiler.Service) - The F# Compiler, F# Interactive scripting engine and F# editing services as a component library.
+- [FSharp](https://github.com/fsharp/fsharp) - The Open Edition of the F# compiler, core library and tools.
 - [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
 - [Fez](https://github.com/kjnilsson/fez) - F# to Erlang compiler.
-- [FSharp](https://github.com/fsharp/fsharp) - The Open Edition of the F# compiler, core library and tools.
 - [FunScript](https://github.com/ZachBray/FunScript) - F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider.
 - [Juniper](https://github.com/calebh/Juniper) - Functional Reactive Programming for the Arduino and other microcontrollers.
 - [Pengines.Client](https://github.com/ninjarobot/Pengines.Client) - Sandboxed Prolog environment.
@@ -110,9 +110,10 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ## Configuration
 
 - [Argu](https://github.com/fsprojects/Argu) - Declarative CLI argument/XML configuration parser for F# applications.
-- [docopt.fs](https://github.com/docopt/docopt.fs/) - command line arguments parser, F# port of [docopt](https://github.com/docopt/docopt).
 - [FsConfig](https://github.com/demystifyfp/FsConfig) - F# library for reading configuration data from environment variables and AppSettings with type safety.
 - [Skid](https://github.com/Meyhem/Skid) - Simple, single-file portable CLI utility for configuration templating.
+- [docopt.fs](https://github.com/docopt/docopt.fs/) - command line arguments parser, F# port of [docopt](https://github.com/docopt/docopt).
+
 ## Data Science
 
 - [Deedle](https://github.com/BlueMountainCapital/Deedle) - Deedle: Exploratory data library for .NET.
@@ -120,11 +121,11 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [DiffSharp](https://github.com/DiffSharp/DiffSharp) - DiffSharp is a functional automatic differentiation (AD) library.
 - [FsLab](https://github.com/fslaborg/FsLab) - FsLab is a collection of libraries for data-science. It provides a rapid development environment that lets you write advanced analysis with few lines of production-quality code.
 - [IfSharp](https://github.com/fsprojects/IfSharp) - F# for Jupyter Notebooks.
-- [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native F# code with zero dependencies.
 - [Math.NET Numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics aims to provide methods and algorithms for numerical computations in science, engineering and every day use. F# specific bindings available.
 - [Math.NET Symbolics](https://github.com/mathnet/mathnet-symbolics/) - Math.NET Symbolics is a basic open source computer algebra library for .NET, Silverlight and Mono written entirely in F#.
 - [SIMDArray](https://github.com/jackmott/SIMDArray) - SIMD enhanced Array extensions for faster computation.
 - [Synapses](https://github.com/mrdimosthenis/Synapses) - Neural network library in F#.
+- [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native F# code with zero dependencies.
 
 ## Development Tools
 
@@ -139,15 +140,15 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 - [Emacs F# mode](https://github.com/fsharp/emacs-fsharp-mode) - F# support in Emacs (including Intellisense and Interactive mode).
 - [F# Bindings](https://github.com/fsharp/fsharpbinding) - Archive of F# Language Bindings for Open Editors.
-- [Fantomas](https://github.com/fsprojects/fantomas) - F# code formatter.
-- [FSharpLint](https://github.com/fsprojects/FSharpLint) - F# code linter.
 - [FSharpFar](https://github.com/nightroman/FarNet) - F# support for Far Manager.
+- [FSharpLint](https://github.com/fsprojects/FSharpLint) - F# code linter.
+- [Fantomas](https://github.com/fsprojects/fantomas) - F# code formatter.
 - [Ionide](http://ionide.io/) - Atom Editor and Visual Studio Code package suite for cross platform F# development.
 - [Vim F#](https://github.com/fsharp/vim-fsharp) - F# support for Vim.
-- [neofsharp.vim](https://github.com/adelarsq/neofsharp.vim) - Basic F# support for (Neo)Vim.
 - [VimSpeak](https://github.com/AshleyF/VimSpeak) - VimSpeak lets you control Vim with your voice using speech recognition.
 - [Visual F# Power Tools](https://github.com/fsprojects/VisualFSharpPowerTools) - Power commands for F# in Visual Studio.
 - [fsharp-notebook](https://github.com/pablofrommars/fsharp-notebook) - Data Science Notebook for F# interactive.
+- [neofsharp.vim](https://github.com/adelarsq/neofsharp.vim) - Basic F# support for (Neo)Vim.
 
 ### Performance analysis
 
@@ -160,14 +161,14 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Donald](https://github.com/pimbrouwers/Donald) - A simple F# interface for ADO.NET.
 - [DustyTables](https://github.com/Zaid-Ajaj/DustyTables) - Thin F# API for SqlClient for easy data access to ms sql server with functional seasoning on top.
 - [ExtCore](https://github.com/jack-pappas/ExtCore) - Extended core library for F#.
-- [Fling](https://github.com/cmeeren/Fling) - Fling significantly reduces boilerplate needed to efficiently save/load complex domain entities to/from multiple tables.
 - [FSharp.CosmosDb](https://github.com/aaronpowell/fsharp.cosmosdb) - An F# wrapper around the CosmosDB SDK, making it more functional-friendly.
 - [FSharp.HashCollections](https://github.com/mvkara/fsharp-hashcollections) - Library providing fast hash based immutable map and set.
 - [FSharpLu](https://github.com/Microsoft/fsharplu) - Lightweight utilities for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization.
-- [FsToolkit.ErrorHandling](https://github.com/demystifyfp/FsToolkit.ErrorHandling) - Clear, simple and powerful error handling with railway-oriented programming. Inspired by Chessie.
-- [Fumble](https://github.com/tforkmann/Fumble) - Thin F# API for Sqlite for easy data access to sqlite database with functional seasoning on top.
 - [FSharpPlus](https://github.com/gmpl/FSharpPlus) - Extensions for F#.
 - [FSharpx.Extras](https://github.com/fsprojects/FSharpx.Extras) - FSharpx.Extras is a collection of libraries and tools for use with F#.
+- [Fling](https://github.com/cmeeren/Fling) - Fling significantly reduces boilerplate needed to efficiently save/load complex domain entities to/from multiple tables.
+- [FsToolkit.ErrorHandling](https://github.com/demystifyfp/FsToolkit.ErrorHandling) - Clear, simple and powerful error handling with railway-oriented programming. Inspired by Chessie.
+- [Fumble](https://github.com/tforkmann/Fumble) - Thin F# API for Sqlite for easy data access to sqlite database with functional seasoning on top.
 - [LiteDB.FSharp](https://github.com/Zaid-Ajaj/LiteDB.FSharp) - F# Support for [LiteDB](https://github.com/mbdavid/LiteDB), an embedded single file database for .NET.
 - [Npgsql.FSharp](https://github.com/Zaid-Ajaj/Npgsql.FSharp) - Thin F# wrapper around [Npgsql](https://github.com/npgsql/npgsql), the PostgreSQL database driver.
 - [TypeShape](https://github.com/eiriktsarpalis/TypeShape) - Small, extensible F# library for practical generic programming.
@@ -190,8 +191,9 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 <!--lint enable double-link -->
 
 ## HTTP Clients
-- [Http.fs](https://github.com/haf/Http.fs) - A simple, functional HTTP client library for F#.
+
 - [FsHttp](https://github.com/ronaldschlenker/FsHttp) - A convenient library for consuming HTTP/REST endpoints via F#.
+- [Http.fs](https://github.com/haf/Http.fs) - A simple, functional HTTP client library for F#.
 - [Oryx](https://github.com/cognitedata/oryx) - A high performance .NET cross platform functional HTTP request handler library for writing HTTP clients and orchestrating web requests.
 
 ## Logging
@@ -210,40 +212,40 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [FsAttoparsec](https://github.com/haf/FsAttoparsec) - Port of Bryan O'Sullivan's attoparsec from Haskell to F#.
 - [XParsec](https://github.com/corsis/XParsec) - Extensible, type-and-source-polymorphic, non-linear applicative parser combinator library for F# 3.0 and 4.0.
 
-## PreCompilation
-- [Myriad](https://github.com/MoiraeSoftware/myriad) - Myriad is a pre-compilation code generator.
-
 ## Serialization
 <!--lint disable double-link -->
-- [FsCodec](https://github.com/jet/FsCodec) - F# Event-Union Contract Encoding with versioning tolerant converters.
 - [FSharp.Json](https://github.com/vsapronov/FSharp.Json) - F# JSON Reflection based serialization library.
 - [FSharp.SystemTextJson](https://github.com/Tarmil/FSharp.SystemTextJson) - System.Text.Json extensions for F# types.
 - [Fleece](https://github.com/mausch/Fleece) - Fleece is a JSON mapper for F#. It simplifies mapping from a Json library's JsonValue onto your types, and mapping from your types onto JsonValue.
+- [FsCodec](https://github.com/jet/FsCodec) - F# Event-Union Contract Encoding with versioning tolerant converters.
 - [FsPickler](https://github.com/mbraceproject/FsPickler) - Fast, multi-format messaging serializer for .NET.
 - [Legivel](https://github.com/fjoppe/Legivel) - F# Yaml 1.2 parser.
 - [Thoth.Json](https://thoth-org.github.io/Thoth.Json/) - Json encoder/decoder library inspire by Elm.
 <!--lint enable double-link -->
 
 ## Search
+
 - [FlexSearch](https://github.com/flexsearch/flexsearch) - High performance REST/SOAP services based full-text searching platform built on top of the popular Lucene search library.
 
 ## Simulation
+ 
 - [F# RISC-V Instruction Set formal specification](https://github.com/mrLSD/riscv-fs) - RISC-V CPU formal ISA Specification. RISC-V CPU simulator with ELF files execution.
 
 ## Static site generators
+
 - [SkunkHTML](https://github.com/MaxGripe/skunk-html) - Markdown Blog with GitHub Pages.
 
 ## Testing
 <!--lint disable double-link -->
-- [altcover](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for .NET/.NET core and Mono.
-- [canopy](https://github.com/lefthandedgoat/canopy) - F# web automation and testing framework.
 - [Expecto](https://github.com/haf/expecto) - Smooth testing framework for F# with tests-as-values and parallelism by default.
 - [Faqt](https://github.com/cmeeren/Faqt) - Fantastic fluent assertions for your F# tests and domain code.
 - [FsCheck](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
-- [fsharp-hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog) - Property-based testing system for F#.
 - [FsUnit](https://github.com/fsprojects/FsUnit) - FsUnit makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework.
 - [NBomber](https://github.com/PragmaticFlow/NBomber) - Simple load testing framework for Pull and Push scenarios.
 - [Persimmon](https://github.com/persimmon-projects/Persimmon) - Unit test framework for F# using computation expressions.
+- [altcover](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for .NET/.NET core and Mono.
+- [canopy](https://github.com/lefthandedgoat/canopy) - F# web automation and testing framework.
+- [fsharp-hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog) - Property-based testing system for F#.
 - [unquote](https://github.com/swensensoftware/unquote) - Write F# unit test assertions as quoted expressions.
 - [xUnit.net](https://xunit.github.io/) - Free, open source, community-focused unit testing tool for the .NET Framework.
 <!--lint enable double-link -->
@@ -256,9 +258,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [DynamicsCRMProvider](https://github.com/fsprojects/DynamicsCRMProvider) - Type provider for Microsoft Dynamics CRM 2011.
 - [EasyBuild.FileSystemProvider](https://github.com/easybuild-org/EasyBuild.FileSystemProvider) - Type provider to provide a typed representation of files and directories based on your project structure or a virtual file system.
 - [ExcelProvider](https://github.com/fsprojects/ExcelProvider) - Excel type provider.
-- [Facil](https://github.com/cmeeren/Facil) - Facil generates F# data access source code from SQL queries and stored procedures. Optimized for developer happiness.
 - [FSharp.Configuration](https://github.com/fsprojects/FSharp.Configuration) - The project contains type providers for the configuration of .NET projects. Handles AppSettings, ResX, Yaml and Ini files.
-- [FSharp.Data](https://github.com/fsharp/FSharp.Data) - Data science library that contains type providers for CSV, HTML, JSON, XML, and WorldBank data.
 - [FSharp.Data.DbPedia](https://github.com/fsprojects/FSharp.Data.DbPedia) - F# type provider for DBpedia.
 - [FSharp.Data.HiveProvider](https://github.com/fsprojects/FSharp.Data.HiveProvider) - Demonstrator F# type provider for Apache Hive.
 - [FSharp.Data.Npgsql](https://github.com/demetrixbio/FSharp.Data.Npgsql) - F# type providers library on a top of well-known Npgsql ADO.NET client library.
@@ -266,8 +266,10 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [FSharp.Data.Tdms](https://github.com/mettekou/FSharp.Data.Tdms) - TDMS support for F#.
 - [FSharp.Data.Toolbox](https://github.com/fsprojects/FSharp.Data.Toolbox) - Library for various data access APIs based on FSharp.Data. The library currently includes the Twitter type provider for access to Twitter users and feeds, and SAS type provider to read SAS dataset files.
 - [FSharp.Data.TypeProviders](https://github.com/fsprojects/FSharp.Data.TypeProviders) - Library that contains type providers for `.edmx` files, `.dbml` files, WSDL services, OData services, and SQL databases.
+- [FSharp.Data](https://github.com/fsharp/FSharp.Data) - Data science library that contains type providers for CSV, HTML, JSON, XML, and WorldBank data.
 - [FSharp.Management](https://github.com/fsprojects/FSharp.Management) - The project contains various type providers for the management of the machine. Handles file system, registry,  Windows Management Instrumentation, PowerShell and SystemTimeZones.
 - [FSharp.Text.RegexProvider](https://github.com/fsprojects/FSharp.Text.RegexProvider) - Type provider for regular expressions.
+- [Facil](https://github.com/cmeeren/Facil) - Facil generates F# data access source code from SQL queries and stored procedures. Optimized for developer happiness.
 - [FsXaml](https://github.com/fsprojects/FsXaml) - F# Tools for working with XAML Projects.
 - [FsYaml](https://github.com/bleis-tift/FsYaml) - Typed Yaml library for F#.
 - [GraphProvider](https://github.com/fsprojects/GraphProvider) - `.dgml` state machine type provider.
@@ -278,7 +280,6 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [SQLProvider](https://github.com/fsprojects/SQLProvider) - General F# SQL database erasing type provider, supporting LINQ queries, schema exploration, individuals, CRUD operations and much more besides.
 - [SwaggerProvider](https://github.com/fsprojects/SwaggerProvider) - F# generative Type Provider for Swagger.
 
-
 ### Creating type providers
 
 - [FSharp.TypeProviders.StarterPack](https://github.com/fsprojects/FSharp.TypeProviders.StarterPack) - The ProvidedTypes SDK for creating F# type providers.
@@ -287,10 +288,10 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ## Visualization
 
 - [FSharp.Charting](https://github.com/fslaborg/FSharp.Charting) - Charting library suitable for interactive F# scripting.
-- [SharpVG](https://github.com/ChrisNikkel/SharpVG) - Create SVG vector graphics in F#.
-- [XPlot](https://github.com/fslaborg/XPlot) - A plotting library for the F# programming language.
 - [GG.Net](https://github.com/pablofrommars/GGNet) - Visualization library for data scientists.
 - [Plotly.NET](https://github.com/plotly/Plotly.NET) - A Plotly-based general purpose plotting library for F#.
+- [SharpVG](https://github.com/ChrisNikkel/SharpVG) - Create SVG vector graphics in F#.
+- [XPlot](https://github.com/fslaborg/XPlot) - A plotting library for the F# programming language.
 
 ## Web frameworks
 <!--lint disable double-link -->
@@ -334,17 +335,17 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ### Books
 
-- [F# in Action by Isaac Abraham](https://www.manning.com/books/f-sharp-in-action) - A practical guide in software development in F#.
 - [Domain Modeling Made Functional by Scott Wlaschin](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/) - Tackle software complexity with domain-driven design and F#.
+- [F# in Action by Isaac Abraham](https://www.manning.com/books/f-sharp-in-action) - A practical guide in software development in F#.
 
 ### Cheatsheets
 
-- [F# cheatsheet](https://fsprojects.github.io/fsharp-cheatsheet/) - Quick reference for the main language features.
 - [F# Snips](https://fssnip.net/) - Share your snippets of F# code.
+- [F# cheatsheet](https://fsprojects.github.io/fsharp-cheatsheet/) - Quick reference for the main language features.
 - [F# tour](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour) - Official language tour from Microsoft.
-- [Learn F# in Y minutes](https://learnxinyminutes.com/docs/fsharp) - A guide recommended to quickly start programming in F#.
 - [Guide for C# devs to learn F#](https://github.com/knocte/2fsharp/blob/master/csharp2fsharp.md) - A 30-minute F# tutorial for C# programmers, with back-to-back code snippets.
 - [Guide for Python devs to learn F#](https://github.com/knocte/2fsharp/blob/master/python2fsharp.md) - A 30-minute F# tutorial for Python programmers, with back-to-back code snippets.
+- [Learn F# in Y minutes](https://learnxinyminutes.com/docs/fsharp) - A guide recommended to quickly start programming in F#.
 
 ### Community
 
@@ -352,7 +353,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [F# on GitHub](https://github.com/fsharp/)
 - [F# on IRC](http://webchat.freenode.net/?channels=%23%23fsharp)
 - [F# on Slack](http://fsharp.org/guides/slack/)
-- [F# news on Telegram](https://t.me/fsharp_news)
+- [F# on Telegram](https://t.me/fsharp_news)
 
 ### Other Lists
 
@@ -365,22 +366,22 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ### Websites
 
 - [Community for F#](http://c4fsharp.net/) - Links to dojos and recordings of community presentations.
-- [cs2fs](https://jindraivanek.gitlab.io/cs2fs-online) - Transform C# code to F# code.
 - [Decompiler.com](https://www.decompiler.com/) - Online C#/VB/F# decompiler.
 - [DotNetFiddle](https://dotnetfiddle.net/) - Online REPL.
 - [F# Core Engineering](http://fsharp.github.io/)
-- [F# for Fun and Profit](https://fsharpforfunandprofit.com/) - Reference tutorials.
 - [F# Software Foundation](http://fsharp.org/) - Main website.
-- [fantomas-tools](https://fsprojects.github.io/fantomas-tools) - A set of Fantomas related tools like AST viewer and online bug reporter.
+- [F# for Fun and Profit](https://fsharpforfunandprofit.com/) - Reference tutorials.
 - [SharpLab](https://sharplab.io/) - C#/VB/F# compiler playground.
 - [Try F#](https://try.fsharp.org/) - Online tutorials, currently without execution of code due to Silverlight dependency.
+- [cs2fs](https://jindraivanek.gitlab.io/cs2fs-online) - Transform C# code to F# code.
+- [fantomas-tools](https://fsprojects.github.io/fantomas-tools) - A set of Fantomas related tools like AST viewer and online bug reporter.
 
 ### Videos
 
 - [Austin F# Meetup Group Recorded Presentations](http://usergroup.tv/videos/category/group/austin-f-meetup)
-- [Intro to F#](https://www.youtube.com/watch?v=1ioGr701c5Q&list=PLqWncHdBPoD4YEWoXQlRj1tiTc96HZxH8)
-- [Fast Dictionary in F#](https://www.youtube.com/watch?v=KMR2y1vcO-s&list=PLqWncHdBPoD4-d_VSZ0MB0IBKQY0rwYLd)
 - [F# Chats on performance](https://www.youtube.com/watch?v=EIBRoNEpg6c&list=PLqWncHdBPoD4O1sr2Q3W9gAuJ30s09U2r)
+- [Fast Dictionary in F#](https://www.youtube.com/watch?v=KMR2y1vcO-s&list=PLqWncHdBPoD4-d_VSZ0MB0IBKQY0rwYLd)
+- [Intro to F#](https://www.youtube.com/watch?v=1ioGr701c5Q&list=PLqWncHdBPoD4YEWoXQlRj1tiTc96HZxH8)
 - [Topological Sort](https://www.youtube.com/playlist?list=PLqWncHdBPoD5hEK31CcfmTHP-7icw2Xd0)
 
 ### Courses
