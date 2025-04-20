@@ -63,11 +63,9 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 - [Akka.NET](https://github.com/akkadotnet/akka.net) - Community-driven port of the popular Java/Scala framework Akka to .NET.
 - [Akkling](https://github.com/Horusiath/Akkling) - F# typed API for Akka.NET.
-- [Cricket](https://github.com/fsprojects/Cricket) - Actor framework for F#.
 - [Orleankka](https://github.com/OrleansContrib/Orleankka) - Functional API for Orleans Framework.
 - [Orleans](https://github.com/dotnet/orleans) - Distributed Virtual Actor Model.
 - [Proto.actor](https://github.com/AsynkronIT/protoactor-dotnet) - Cross-platform actor framework for .NET, GO, JAVA and KOTLIN.
-
 
 ## Build tools
 
@@ -89,7 +87,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ## Compilers
 
 - [F# Compiler Services](https://github.com/fsharp/FSharp.Compiler.Service) - The F# Compiler, F# Interactive scripting engine and F# editing services as a component library.
-- [FSharp](https://github.com/fsharp/fsharp) - The Open Edition of the F# compiler, core library and tools.
+- [FSharp](https://github.com/dotnet/fsharp) - The Open Edition of the F# compiler, core library and tools.
 - [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
 - [Fez](https://github.com/kjnilsson/fez) - F# to Erlang compiler.
 - [FunScript](https://github.com/ZachBray/FunScript) - F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider.
@@ -103,7 +101,6 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [FSharp.Control.AsyncSeq](https://github.com/fsprojects/FSharp.Control.AsyncSeq) - Collection of asynchronous programming utilities for F#.
 - [FSharp.Control.FusionTasks](https://github.com/kekyo/FSharp.Control.FusionTasks) - F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.
 - [FSharpx.Async](https://github.com/fsprojects/FSharpx.Async) - Collection of asynchronous programming utilities for F#.
-- [Giraffe.Tasks](https://github.com/giraffe-fsharp/giraffe.tasks) - Task computation expression to work natively with .NET's Tasks from an F# application.
 - [Hopac](https://github.com/Hopac/Hopac) - Concurrent ML style concurrent programming library for F#.
 - [Ply](https://github.com/crowded/ply) - High performance System.Threading.(Value)Task computation expressions for F#.
 - [Reaction.AsyncRx](https://github.com/dbrattli/Reaction) - An implementation of Async Observables in F# for .NET and Fable.
@@ -141,14 +138,12 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ### Editor plugins
 
 - [Emacs F# mode](https://github.com/fsharp/emacs-fsharp-mode) - F# support in Emacs (including Intellisense and Interactive mode).
-- [F# Bindings](https://github.com/fsharp/fsharpbinding) - Archive of F# Language Bindings for Open Editors.
 - [FSharpFar](https://github.com/nightroman/FarNet) - F# support for Far Manager.
 - [FSharpLint](https://github.com/fsprojects/FSharpLint) - F# code linter.
 - [Fantomas](https://github.com/fsprojects/fantomas) - F# code formatter.
 - [Ionide](http://ionide.io/) - Atom Editor and Visual Studio Code package suite for cross platform F# development.
 - [Vim F#](https://github.com/fsharp/vim-fsharp) - F# support for Vim.
 - [VimSpeak](https://github.com/AshleyF/VimSpeak) - VimSpeak lets you control Vim with your voice using speech recognition.
-- [Visual F# Power Tools](https://github.com/fsprojects/VisualFSharpPowerTools) - Power commands for F# in Visual Studio.
 - [fsharp-notebook](https://github.com/pablofrommars/fsharp-notebook) - Data Science Notebook for F# interactive.
 - [neofsharp.vim](https://github.com/adelarsq/neofsharp.vim) - Basic F# support for (Neo)Vim.
 
@@ -225,10 +220,6 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Thoth.Json](https://thoth-org.github.io/Thoth.Json/) - Json encoder/decoder library inspire by Elm.
 <!--lint enable double-link -->
 
-## Search
-
-- [FlexSearch](https://github.com/flexsearch/flexsearch) - High performance REST/SOAP services based full-text searching platform built on top of the popular Lucene search library.
-
 ## Simulation
  
 - [F# RISC-V Instruction Set formal specification](https://github.com/mrLSD/riscv-fs) - RISC-V CPU formal ISA Specification. RISC-V CPU simulator with ELF files execution.
@@ -254,15 +245,11 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ## Type providers
 
-- [ApiaryProvider](https://github.com/fsprojects/ApiaryProvider) - Type provider for Apiary.io.
 - [AzureStorageTypeProvider](https://github.com/fsprojects/AzureStorageTypeProvider) - F# Azure Type Provider which can be used to explore Blob, Table and Queue Azure Storage assets and easily apply CRUD operations on them.
-- [COM Type Provider](https://github.com/fsprojects/FSharp.Interop.ComProvider) - Type provider for COM interop.
 - [DynamicsCRMProvider](https://github.com/fsprojects/DynamicsCRMProvider) - Type provider for Microsoft Dynamics CRM 2011.
 - [EasyBuild.FileSystemProvider](https://github.com/easybuild-org/EasyBuild.FileSystemProvider) - Type provider to provide a typed representation of files and directories based on your project structure or a virtual file system.
 - [ExcelProvider](https://github.com/fsprojects/ExcelProvider) - Excel type provider.
 - [FSharp.Configuration](https://github.com/fsprojects/FSharp.Configuration) - The project contains type providers for the configuration of .NET projects. Handles AppSettings, ResX, Yaml and Ini files.
-- [FSharp.Data.DbPedia](https://github.com/fsprojects/FSharp.Data.DbPedia) - F# type provider for DBpedia.
-- [FSharp.Data.HiveProvider](https://github.com/fsprojects/FSharp.Data.HiveProvider) - Demonstrator F# type provider for Apache Hive.
 - [FSharp.Data.Npgsql](https://github.com/demetrixbio/FSharp.Data.Npgsql) - F# type providers library on a top of well-known Npgsql ADO.NET client library.
 - [FSharp.Data.SqlClient](https://github.com/fsprojects/FSharp.Data.SqlClient) - F# Type Provider for statically typed access to T-SQL command parameters and result set.
 - [FSharp.Data.Tdms](https://github.com/mettekou/FSharp.Data.Tdms) - TDMS support for F#.
@@ -285,7 +272,6 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ### Creating type providers
 
 - [FSharp.TypeProviders.StarterPack](https://github.com/fsprojects/FSharp.TypeProviders.StarterPack) - The ProvidedTypes SDK for creating F# type providers.
-- [RestProvider](https://github.com/fsprojects/RestProvider) - Create type providers just by implementing a simple REST service.
 
 ## Visualization
 
@@ -319,7 +305,6 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold) - F# Template for creating and publishing libraries targeting .NET Full (net45) and Core (netstandard1.6), `dotnet new -i MiniScaffold::*`
 - [NancyFx Template](https://github.com/MNie/NancyFxCore) - `dotnet new -i NancyFx.Core.Template::*`
 - [SAFE Stack Template](https://github.com/SAFE-Stack/SAFE-template) - `dotnet new -i SAFE.Template::*`
-- [vbfox's F# Templates](https://github.com/vbfox/FSharpTemplates) - F# Template for creating GitHub project with appveyor and travis support.
 <!--lint enable awesome-list-item-->
 
 ## Resources
@@ -357,7 +342,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ### Other Lists
 
 - [Awesome .NET!](https://github.com/quozd/awesome-dotnet) - Collection of awesome .NET libraries, tools, frameworks and software.
-- [Awesome Fable](https://github.com/kunjee17/awesome-fable) - Curated list of useful Fable tutorials, libraries and software.
+- [Awesome Fable](https://fable.io/resources.html) - Curated list of useful Fable tutorials, libraries and software.
 - [F# Community Projects](http://fsharp.org/community/projects/) - FSharp community projects.
 - [FSharpest](https://www.fsharpest.xyz) - A directory to discover F# tools, libraries and resources.
 - [WTF#](https://wtfsharp.net) - Podcast focused on F# and its ecosystem.
