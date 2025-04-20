@@ -1,12 +1,17 @@
 ﻿#r "nuget: Markdig, 0.41.0"
+#r "nuget: Polly.Core, 8.5.2"
 
 open System
 open System.Net
 open System.Net.Http
+open System.Threading.Tasks
 open Markdig
 open System.IO
 open Markdig.Syntax
 open Markdig.Syntax.Inlines
+open Polly
+open Polly.Retry
+open Polly.Timeout
 
 let rec visitRecursively (action: MarkdownObject -> unit) (node: MarkdownObject) =
     match node with
@@ -33,10 +38,16 @@ let collectLinks node =
     urls
 
 let printLock = Object()
-let checkLinkStatus (client: HttpClient) (url: string) = async {
+let retryPipeline =
+    ResiliencePipelineBuilder()
+        .AddRetry(RetryStrategyOptions())
+        .Build()
+let checkLinkStatus (client: HttpClient) (url: string) = task {
     try
         lock printLock (fun () -> printfn $"Verifying link {url}…")
-        let! response = Async.AwaitTask <| client.GetAsync url
+        let! response = retryPipeline.ExecuteAsync(
+            fun _ -> ValueTask<HttpResponseMessage>(client.GetAsync url)
+        )
         if response.StatusCode <> HttpStatusCode.OK then
             return Result.Error $"Status code {int response.StatusCode}."
         else
@@ -64,7 +75,7 @@ let links = collectLinks document |> Seq.filter isNonLocalLink
 let results = Async.RunSynchronously(async {
     use client = new HttpClient()
     return! links |> Seq.map(fun url -> async {
-        let! status = checkLinkStatus client url
+        let! status = Async.AwaitTask <| checkLinkStatus client url
         return url, status
     }) |> Async.Parallel
 })
