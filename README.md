@@ -373,7 +373,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [F# Software Foundation](http://fsharp.org/) - Main website.
 - [fantomas-tools](https://fsprojects.github.io/fantomas-tools) - A set of Fantomas related tools like AST viewer and online bug reporter.
 - [SharpLab](https://sharplab.io/) - C#/VB/F# compiler playground.
-- [Try F#](http://www.tryfsharp.org) - Online tutorials, currently without execution of code due to Silverlight dependency.
+- [Try F#](https://try.fsharp.org/) - Online tutorials, currently without execution of code due to Silverlight dependency.
 
 ### Videos
 
