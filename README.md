@@ -24,7 +24,6 @@ A curated list of awesome F# frameworks, libraries, software and resources.
 - [Package Management](#package-management)
 - [Parsing](#parsing)
 - [Serialization](#serialization)
-- [Search](#search)
 - [Simulation](#simulation)
 - [Static site generators](#static-site-generators)
 - [Testing](#testing)
