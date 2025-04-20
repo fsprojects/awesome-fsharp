@@ -249,7 +249,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [canopy](https://github.com/lefthandedgoat/canopy) - F# web automation and testing framework.
 - [fsharp-hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog) - Property-based testing system for F#.
 - [unquote](https://github.com/swensensoftware/unquote) - Write F# unit test assertions as quoted expressions.
-- [xUnit.net](https://xunit.github.io/) - Free, open source, community-focused unit testing tool for the .NET Framework.
+- [xUnit.net](https://xunit.net/) - Free, open source, community-focused unit testing tool for the .NET Framework.
 <!--lint enable double-link -->
 
 ## Type providers
@@ -301,7 +301,6 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Falco](https://github.com/pimbrouwers/Falco/) - A functional-first toolkit for building brilliant ASP.NET Core applications using F#.
 - [Felicity](https://github.com/cmeeren/Felicity) - Boilerplate-free, idiomatic JSON:API for your beautiful, idiomatic F# domain model. Optimized for developer happiness.
 - [Feliz](https://github.com/Zaid-Ajaj/Feliz) - A fresh retake of the React API in Fable and a collection of high-quality components to build React applications in F#.
-- [Freya](https://github.com/xyncro/freya) - Modern, purely functional stack for web programming in F#.
 - [Genit](https://github.com/lefthandedgoat/genit) - Cross-platform website generator and server using F#, Suave and PostgreSQL or MS SQL Server.
 - [Giraffe](https://github.com/giraffe-fsharp/Giraffe) - Native functional ASP.NET Core web framework for F# developers.
 - [Oxpecker](https://github.com/Lanayx/Oxpecker) - ASP.NET Core based F# framework + supporting tools (ViewEngine, Htmx, OpenApi)
@@ -316,7 +315,6 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Expecto Template](https://github.com/MNie/Expecto.Template) - `dotnet new -i Expecto.Template::*`
 - [Fable, F# |> Babel](http://fable.io) - `dotnet new -i Fable.Template::*`
 - [Fable-elmish](https://github.com/fable-compiler/fable-elmish) - `dotnet new -i Fable.Template.Elmish.React::*`
-- [Freya](https://freya.io) - `dotnet new --install Freya.Template::*`
 - [Giraffe Template](https://github.com/giraffe-fsharp/giraffe-template) - `dotnet new -i "giraffe-template::*"`
 - [MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold) - F# Template for creating and publishing libraries targeting .NET Full (net45) and Core (netstandard1.6), `dotnet new -i MiniScaffold::*`
 - [NancyFx Template](https://github.com/MNie/NancyFxCore) - `dotnet new -i NancyFx.Core.Template::*`
@@ -332,7 +330,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Codesuji](https://codesuji.com) - A community member blog, focusing on functional aspects on F#.
 - [Krzysztof Cieslak](https://kcieslak.io/) - A blog of the Ionide maintainer. 
 - [Mark Seemann](https://blog.ploeh.dk/) - A blog discussing various aspects of software design.
-- [Sergey Tihon (F# Weekly)](https://sergeytihon.wordpress.com/) - Weekly newsletter collected across the ecosystem.
+- [Sergey Tihon (F# Weekly)](https://sergeytihon.com/) - Weekly newsletter collected across the ecosystem.
 - [Tomas Petricek](http://tomasp.net/blog/) - A well-known community member working on a diverse set of topics.
 
 ### Books
@@ -353,7 +351,6 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 - [F# on Discourse](https://forums.fsharp.org/)
 - [F# on GitHub](https://github.com/fsharp/)
-- [F# on IRC](http://webchat.freenode.net/?channels=%23%23fsharp)
 - [F# on Slack](http://fsharp.org/guides/slack/)
 - [F# on Telegram](https://t.me/fsharp_news)
 
@@ -370,7 +367,6 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Community for F#](http://c4fsharp.net/) - Links to dojos and recordings of community presentations.
 - [Decompiler.com](https://www.decompiler.com/) - Online C#/VB/F# decompiler.
 - [DotNetFiddle](https://dotnetfiddle.net/) - Online REPL.
-- [F# Core Engineering](http://fsharp.github.io/)
 - [F# Software Foundation](http://fsharp.org/) - Main website.
 - [F# for Fun and Profit](https://fsharpforfunandprofit.com/) - Reference tutorials.
 - [SharpLab](https://sharplab.io/) - C#/VB/F# compiler playground.
@@ -388,7 +384,5 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ### Courses
 
-- [Data programming with F#](https://www.udemy.com/course/data-programming-with-f/)
 - [F# workshop](http://www.fsharpworkshop.com/)
-- [Introduction to F#](https://fsharp.tv/courses/fsharp-programming-intro/)
 - [Write yourself a scheme in 48 hours using F#](https://write-yourself-a-scheme.pangwa.com/)
