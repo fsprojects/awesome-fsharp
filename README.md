@@ -325,26 +325,26 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ### Blogs
 
-- [.NET Blog (F# tag)](https://devblogs.microsoft.com/dotnet/tag/f/)
-- [Codesuji](http://codesuji.com)
-- [Krzysztof Cieslak](http://kcieslak.io/)
-- [Mark Seemann](http://blog.ploeh.dk/)
-- [Sergey Tihon (F# Weekly)](https://sergeytihon.wordpress.com/)
-- [Tomas Petricek](http://tomasp.net/blog/)
+- [.NET Blog (F# tag)](https://devblogs.microsoft.com/dotnet/tag/f/) - News and discussions about F# from the .NET team.
+- [Codesuji](https://codesuji.com) - A community member blog, focusing on functional aspects on F#.
+- [Krzysztof Cieslak](https://kcieslak.io/) - A blog of the Ionide maintainer. 
+- [Mark Seemann](https://blog.ploeh.dk/) - A blog discussing various aspects of software design.
+- [Sergey Tihon (F# Weekly)](https://sergeytihon.wordpress.com/) - Weekly newsletter collected across the ecosystem.
+- [Tomas Petricek](http://tomasp.net/blog/) - A well-known community member working on a diverse set of topics.
 
 ### Books
 
-- [F# in Action](https://www.manning.com/books/f-sharp-in-action)
-- [Domain Modeling Made Functional](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/)
+- [F# in Action by Isaac Abraham](https://www.manning.com/books/f-sharp-in-action) - A practical guide in software development in F#.
+- [Domain Modeling Made Functional by Scott Wlaschin](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/) - Tackle software complexity with domain-driven design and F#.
 
 ### Cheatsheets
 
-- [F# cheatsheet](http://fsprojects.github.io/fsharp-cheatsheet/)
-- [F# Snips](http://fssnip.net/)
-- [F# tour](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour)
-- [Learn F# in Y minutes](https://learnxinyminutes.com/docs/fsharp)
-- [30min F# tutorial for C# programmers, with back to back code snippets](https://github.com/knocte/2fsharp/blob/master/csharp2fsharp.md)
-- [30min F# tutorial for Python programmers, with back to back code snippets](https://github.com/knocte/2fsharp/blob/master/python2fsharp.md)
+- [F# cheatsheet](https://fsprojects.github.io/fsharp-cheatsheet/) - Quick reference for the main language features.
+- [F# Snips](https://fssnip.net/) - Share your snippets of F# code.
+- [F# tour](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour) - Official language tour from Microsoft.
+- [Learn F# in Y minutes](https://learnxinyminutes.com/docs/fsharp) - A guide recommended to quickly start programming in F#.
+- [Guide for C# devs to learn F#](https://github.com/knocte/2fsharp/blob/master/csharp2fsharp.md) - A 30-minute F# tutorial for C# programmers, with back-to-back code snippets.
+- [Guide for Python devs to learn F#](https://github.com/knocte/2fsharp/blob/master/python2fsharp.md) - A 30-minute F# tutorial for Python programmers, with back-to-back code snippets.
 
 ### Community
 
