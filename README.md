@@ -3,7 +3,7 @@
 A curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Contents
-- [Main Language-Related Repositories](#main-languagerelated-repositories)
+- [Main Language-Related Repositories](#main-language-related-repositories)
 - [F# Wrappers for Popular .NET Libraries](#f-wrappers-for-popular-net-libraries)
 - [Actor Frameworks](#actor-frameworks)
 - [Build Tools](#build-tools)

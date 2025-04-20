@@ -18,14 +18,14 @@ let headers =
 let getLink(header: string) =
     let characters =
         header
-        |> Seq.choose(function 
+        |> Seq.choose(function
             | c when Char.IsLetterOrDigit c -> Some(Char.ToLowerInvariant c)
-            | ' ' -> Some '-'
-            | _ -> None 
+            | ' ' | '-' -> Some '-'
+            | _ -> None
         )
         |> Seq.toArray
-    
-    "#" + String characters 
+
+    "#" + String characters
 
 let tocText =
     (
@@ -43,7 +43,7 @@ let updateHeader (header: HeadingBlock) (newContent: string) =
     let index = parent.IndexOf header
     while not (parent[index + 1] :? HeadingBlock) do
         parent.RemoveAt(index + 1)
-        
+
     let newMd = Markdown.Parse(newContent, trackTrivia = true)
     for block in newMd do
         block.Parent.Remove block |> ignore
@@ -55,7 +55,7 @@ let firstHeader =
 
 updateHeader firstHeader tocText
 
-File.WriteAllText(readmeFilePath, 
+File.WriteAllText(readmeFilePath,
     use sw = new StringWriter()
     let renderer = RoundtripRenderer sw
     renderer.Write document
