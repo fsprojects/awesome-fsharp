@@ -4,7 +4,6 @@
 open System
 open System.Net
 open System.Net.Http
-open System.Net.Http.Headers
 open System.Threading.Tasks
 open Markdig
 open System.IO
