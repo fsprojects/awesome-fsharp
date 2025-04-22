@@ -333,7 +333,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [F# tour](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour) - Official language tour from Microsoft.
 - [Guide for C# devs to learn F#](https://github.com/knocte/2fsharp/blob/master/csharp2fsharp.md) - A 30-minute F# tutorial for C# programmers, with back-to-back code snippets.
 - [Guide for Python devs to learn F#](https://github.com/knocte/2fsharp/blob/master/python2fsharp.md) - A 30-minute F# tutorial for Python programmers, with back-to-back code snippets.
-- [Guide for Rust devs to learn F#](https://github.com/Dhghomon/rust-fsharp) - informal manual for users of Rust and F# to read through to learn about the other language 
+- [Guide for Rust devs to learn F#](https://github.com/Dhghomon/rust-fsharp) - Informal manual for users of Rust and F# to read through to learn about the other language. 
 - [Learn F# in Y minutes](https://learnxinyminutes.com/docs/fsharp) - A guide recommended to quickly start programming in F#.
 
 ### Community
