@@ -166,6 +166,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [FSharpLu](https://github.com/Microsoft/fsharplu) - Lightweight utilities for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization.
 - [FSharpPlus](https://github.com/gmpl/FSharpPlus) - Extensions for F#.
 - [FSharpx.Extras](https://github.com/fsprojects/FSharpx.Extras) - FSharpx.Extras is a collection of libraries and tools for use with F#.
+- [Fli](https://github.com/CaptnCodr/Fli) - Computational expression to run system processes and manage their output. 
 - [Fling](https://github.com/cmeeren/Fling) - Fling significantly reduces boilerplate needed to efficiently save/load complex domain entities to/from multiple tables.
 - [FsToolkit.ErrorHandling](https://github.com/demystifyfp/FsToolkit.ErrorHandling) - Clear, simple and powerful error handling with railway-oriented programming. Inspired by Chessie.
 - [Fumble](https://github.com/tforkmann/Fumble) - Thin F# API for Sqlite for easy data access to sqlite database with functional seasoning on top.
