@@ -46,21 +46,34 @@ let retryPipeline =
     ResiliencePipelineBuilder()
         .AddRetry(RetryStrategyOptions())
         .Build()
+type Success = Success
 let checkLinkStatus (client: HttpClient) (url: string) = task {
     try
         lock printLock (fun () -> printfn $"Verifying link {url}…")
-        let! response = retryPipeline.ExecuteAsync(
-            fun _ -> ValueTask<HttpResponseMessage>(client.GetAsync url)
-        )
-        if response.StatusCode <> HttpStatusCode.OK then
+        let context = ResilienceContextPool.Shared.Get()
+        try
+            let! result = retryPipeline.ExecuteOutcomeAsync(
+                (fun _ _ -> ValueTask<Outcome<Success>>(task {
+                    let! response = client.GetAsync url
+                    return
+                        match response.StatusCode with
+                        | HttpStatusCode.OK -> Outcome.FromResult(Success)
+                        | code when Map.tryFind url exclusionCodes = Some code -> Outcome.FromResult(Success)
+                        | code -> Outcome.FromException(Exception $"Status code {int code}.")
+                })),
+                context,
+                null
+            )
             return
-                match Map.tryFind url exclusionCodes with
-                | Some code when code = response.StatusCode -> Result.Ok()
-                | _ -> Result.Error $"Status code {int response.StatusCode}."
-        else
-            return Result.Ok()
+                match result with
+                | _ when not(isNull(box result.Result)) -> Result.Ok()
+                | _ when result.Exception <> null -> Result.Error(result.Exception.Message)
+                | _ -> failwithf "Neither result nor exception was set."
+
+        finally
+            ResilienceContextPool.Shared.Return context
     with
-    | error -> return Result.Error $"Exception {error.Message}"
+    | error -> return Result.Error $"Internal script error: {error}"
 }
 
 let isNonLocalLink(link: string) =
