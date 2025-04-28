@@ -201,6 +201,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 - [FsLibLog](https://github.com/TheAngryByrd/FsLibLog) - FsLibLog is a single file you can copy paste or add through Paket GitHub dependencies to provide your F# library with a logging abstraction.
 - [Logary](https://github.com/logary/logary/) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for mono and .NET.
+- [FSLogger](https://github.com/varon/FSLogger) - A rich, simple, and efficient purely functional micro logging library for F#. \[MIT\]
 
 ## Package Management
 
