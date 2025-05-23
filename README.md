@@ -1,6 +1,8 @@
 # Awesome F# [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://fsharp.org/img/logo/fsharp.svg" width="48" height="48" align="right"/>
 
-A curated list of awesome F# frameworks, libraries, software and resources.
+F# is a programming language with focus on immutability, type inference, first-class functions, powerful data types and pattern matching, targeting .NET and other platforms.
+
+This is a curated list of awesome F# frameworks, libraries, software and resources.
 
 ## Contents
 - [Main Language-Related Repositories](#main-language-related-repositories)
