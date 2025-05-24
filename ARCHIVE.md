@@ -15,6 +15,9 @@ This is a storage of links that were removed from the main list.
 ## Compilers for Other Platforms
 - [Pengines.Client](https://github.com/ninjarobot/Pengines.Client) - Sandboxed Prolog environment.
 
+## Courses
+- [F# workshop](http://www.fsharpworkshop.com/)
+
 ## Development Tools
 
 ### Editor Plugins

@@ -380,5 +380,4 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ### Courses
 
-- [F# workshop](http://www.fsharpworkshop.com/)
 - [Write yourself a scheme in 48 hours using F#](https://write-yourself-a-scheme.pangwa.com/)
