@@ -232,7 +232,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ## Static Site Generators
 
-- [SkunkHTML](https://github.com/MaxGripe/skunk-html) - Markdown blog with GitHub Pages.
+- [SkunkHTML](https://github.com/mg0x7BE/skunk-html) - Markdown blog with GitHub Pages.
 
 ## Testing
 <!--lint disable double-link -->
