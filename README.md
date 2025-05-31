@@ -103,7 +103,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ## Concurrent, Asynchronous, and Parallel Programming
 
 - [FIO](https://github.com/iyyel/fio) - A type-safe, highly concurrent and asynchronous library for F# based on pure functional programming.
-- [FSharp.Control.AsyncSeq](https://github.com/fsprojects/FSharp.Control.AsyncSeq) - Collection of asynchronous programming utilities for F#.
+- [FSharp.Control.AsyncSeq](https://github.com/fsprojects/FSharp.Control.AsyncSeq) - Asynchronous sequence support, integration with `IAsyncEnumerable`.
 - [FSharp.Control.FusionTasks](https://github.com/kekyo/FSharp.Control.FusionTasks) - F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.
 - [FSharpx.Async](https://github.com/fsprojects/FSharpx.Async) - Collection of asynchronous programming utilities for F#.
 - [Hopac](https://github.com/Hopac/Hopac) - Concurrent ML style concurrent programming library for F#.
