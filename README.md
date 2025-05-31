@@ -107,6 +107,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [FSharp.Control.FusionTasks](https://github.com/kekyo/FSharp.Control.FusionTasks) - F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.
 - [FSharpx.Async](https://github.com/fsprojects/FSharpx.Async) - Collection of asynchronous programming utilities for F#.
 - [Hopac](https://github.com/Hopac/Hopac) - Concurrent ML style concurrent programming library for F#.
+- [IcedTasks](https://github.com/TheAngryByrd/IcedTasks) - Cold tasks, cancellable tasks, and extensions for the `async` workflow.
 - [Ply](https://github.com/crowded/ply) - High performance System.Threading.(Value)Task computation expressions for F#.
 - [Reaction.AsyncRx](https://github.com/dbrattli/Reaction) - An implementation of Async Observables in F# for .NET and Fable.
 - [TaskBuilder.fs](https://github.com/rspeele/TaskBuilder.fs) - F# computation expression builder for System.Threading.Tasks.
