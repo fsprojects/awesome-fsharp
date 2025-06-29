@@ -122,7 +122,6 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ## Data Science
 
 - [Deedle](https://github.com/BlueMountainCapital/Deedle) - Exploratory data library for .NET.
-- [Deep.Net](http://www.deepml.net) - Deep learning library for F#. Provides symbolic model differentiation, automatic differentiation and compilation to CUDA GPUs.
 - [DiffSharp](https://github.com/DiffSharp/DiffSharp) - Functional automatic differentiation (AD) library.
 - [FsLab](https://github.com/fslaborg/FsLab) - A collection of libraries for data-science. It provides a rapid development environment that lets you write advanced analysis with few lines of production-quality code.
 - [IfSharp](https://github.com/fsprojects/IfSharp) - F# for Jupyter Notebooks.

@@ -18,6 +18,9 @@ This is a storage of links that were removed from the main list.
 ## Courses
 - [F# workshop](http://www.fsharpworkshop.com/)
 
+## Data Science
+- [Deep.Net](http://www.deepml.net) - Deep learning library for F#. Provides symbolic model differentiation, automatic differentiation and compilation to CUDA GPUs.
+
 ## Development Tools
 
 ### Editor Plugins
