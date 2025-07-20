@@ -10,6 +10,7 @@ This is a curated list of awesome F# frameworks, libraries, software and resourc
 - [Actor Frameworks](#actor-frameworks)
 - [Build Tools](#build-tools)
 - [Cloud](#cloud)
+- [Code Analysis](#code-analysis)
 - [Code Generation](#code-generation)
 - [Compilers for Other Platforms](#compilers-for-other-platforms)
 - [Concurrent, Asynchronous, and Parallel Programming](#concurrent-asynchronous-and-parallel-programming)
@@ -87,6 +88,9 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Farmer](https://github.com/CompositionalIT/farmer) - Repeatable Azure deployments with ARM templates made easy.
 - [FsFirestore](https://github.com/mrbandler/FsFirestore) - Functional F# library to access Firestore database hosted on Google Cloud Platform (GCP) or Firebase.
 - [Pulumi.FSharp.Extensions](https://github.com/UnoSD/Pulumi.FSharp.Extensions) - F# computational expressions to reduce boilerplate in Pulumi code.
+
+## Code Analysis
+- [Ionide FSharp.Analyzers.SDK](https://github.com/ionide/FSharp.Analyzers.SDK) - Library for building custom analyzers for F# / FSharp.Analyzers.Cli.
 
 ## Code Generation
 
