@@ -182,6 +182,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [TypeShape](https://github.com/eiriktsarpalis/TypeShape) - Small, extensible F# library for practical generic programming.
 - [Validus](https://github.com/pimbrouwers/Validus) - A composable validation library for F#, with built-in validators for most primitive types and easily extended through custom validators.
 - [Vp.FSharp.Sql](https://github.com/veepee-oss/Vp.FSharp.Sql) - Generic F# ADO provider wrapper (SqlServer, PostgreSQL, SQLite).
+- [SqlHydra](https://github.com/JordanMarr/SqlHydra) - Suite of NuGet packages for working with databases in F# including query expressions and code generation tools (for generating strongly typed F# DTO record types based on your database tables). Supports MySql, Postgresql, Oracle, SqlServer, and Sqlite.
 
 ## Game Development
 
