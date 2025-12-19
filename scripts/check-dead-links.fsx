@@ -12,6 +12,15 @@ open Markdig.Syntax.Inlines
 open Polly
 open Polly.Retry
 
+let exclusionCodes = Map.ofArray [|
+    "https://www.lkokemohr.de/fsharp_godot.html", HttpStatusCode.TooManyRequests // GitHub runner receives this often
+    "https://www.reddit.com/r/fsharp/", HttpStatusCode.Forbidden
+|]
+
+let ignoredLinks = Set.ofArray [|
+    "https://www.decompiler.com/"
+|]
+
 let rec visitRecursively (action: MarkdownObject -> unit) (node: MarkdownObject) =
     match node with
     | :? ContainerBlock as c ->
@@ -35,11 +44,6 @@ let collectLinks node =
         )
         node
     urls
-
-let exclusionCodes = Map.ofArray [|
-    "https://www.lkokemohr.de/fsharp_godot.html", HttpStatusCode.TooManyRequests // GitHub runner receives this often
-    "https://www.reddit.com/r/fsharp/", HttpStatusCode.Forbidden
-|]
 
 let printLock = Object()
 let retryPipeline =
@@ -90,7 +94,10 @@ let readmeFilePath = Path.Combine(__SOURCE_DIRECTORY__, "../README.md")
 
 let markdown = File.ReadAllText(readmeFilePath)
 let document = Markdown.Parse(markdown, trackTrivia = true)
-let links = collectLinks document |> Seq.filter isNonLocalLink
+let links =
+    collectLinks document
+    |> Seq.filter(fun x -> not(Set.contains x ignoredLinks))
+    |> Seq.filter isNonLocalLink
 
 let results = Async.RunSynchronously(async {
     use client = new HttpClient()
