@@ -85,7 +85,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ## Cloud
 
-- [Chia](https://github.com/DanpowerGruppe/Chia) - Chia is a F# library which contains HelperFunctions for reporting, logging and Azure cloud operations.
+- [Chia](https://github.com/DanpowerGruppe/Chia) - An F# library which contains HelperFunctions for reporting, logging and Azure cloud operations.
 - [Farmer](https://github.com/CompositionalIT/farmer) - Repeatable Azure deployments with ARM templates made easy.
 - [FsFirestore](https://github.com/mrbandler/FsFirestore) - Functional F# library to access Firestore database hosted on Google Cloud Platform (GCP) or Firebase.
 - [Pulumi.FSharp.Extensions](https://github.com/UnoSD/Pulumi.FSharp.Extensions) - F# computational expressions to reduce boilerplate in Pulumi code.
@@ -96,7 +96,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ## Code Generation
 
 - [Hawaii](https://github.com/Zaid-Ajaj/Hawaii) - A dotnet CLI tool to generate type-safe F# clients from OpenAPI/Swagger services.
-- [Myriad](https://github.com/MoiraeSoftware/myriad) - Myriad is a pre-compilation code generator.
+- [Myriad](https://github.com/MoiraeSoftware/myriad) - A pre-compilation code generator.
 
 ## Compilers for Other Platforms
 
@@ -153,7 +153,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Fantomas](https://github.com/fsprojects/fantomas) - F# code formatter.
 - [Ionide](http://ionide.io/) - Atom Editor and Visual Studio Code package suite for cross platform F# development.
 - [Vim F#](https://github.com/fsharp/vim-fsharp) - F# support for Vim.
-- [VimSpeak](https://github.com/AshleyF/VimSpeak) - VimSpeak lets you control Vim with your voice using speech recognition.
+- [VimSpeak](https://github.com/AshleyF/VimSpeak) - A tool to control Vim with your voice using speech recognition.
 - [fsharp-notebook](https://github.com/pablofrommars/fsharp-notebook) - Data science notebook for F# Interactive.
 - [neofsharp.vim](https://github.com/adelarsq/neofsharp.vim) - Basic F# support for (Neo)Vim.
 
@@ -172,16 +172,16 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [FSharp.HashCollections](https://github.com/mvkara/fsharp-hashcollections) - Fast hash-based immutable map and set.
 - [FSharpLu](https://github.com/Microsoft/fsharplu) - Lightweight utilities for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization.
 - [FSharpPlus](https://github.com/gmpl/FSharpPlus) - Extensions for F#.
-- [FSharpx.Extras](https://github.com/fsprojects/FSharpx.Extras) - FSharpx.Extras is a collection of libraries and tools for use with F#.
+- [FSharpx.Extras](https://github.com/fsprojects/FSharpx.Extras) - A collection of libraries and tools for use with F#.
 - [Fli](https://github.com/CaptnCodr/Fli) - Computational expression to run system processes and manage their output. 
-- [Fling](https://github.com/cmeeren/Fling) - Fling significantly reduces boilerplate needed to efficiently save/load complex domain entities to/from multiple tables.
+- [Fling](https://github.com/cmeeren/Fling) - Significantly reduces boilerplate needed to efficiently save/load complex domain entities to/from multiple tables.
 - [FsToolkit.ErrorHandling](https://github.com/demystifyfp/FsToolkit.ErrorHandling) - Clear, simple and powerful error handling with railway-oriented programming. Inspired by Chessie.
-- [Fumble](https://github.com/tforkmann/Fumble) - Thin F# API for Sqlite for easy data access to sqlite database with functional seasoning on top.
+- [Fumble](https://github.com/tforkmann/Fumble) - Thin F# API for SQLite for easy data access to SQLite database with functional seasoning on top.
 - [LiteDB.FSharp](https://github.com/Zaid-Ajaj/LiteDB.FSharp) - F# Support for [LiteDB](https://github.com/mbdavid/LiteDB), an embedded single file database for .NET.
 - [Npgsql.FSharp](https://github.com/Zaid-Ajaj/Npgsql.FSharp) - Thin F# wrapper around [Npgsql](https://github.com/npgsql/npgsql), the PostgreSQL database driver.
 - [TypeShape](https://github.com/eiriktsarpalis/TypeShape) - Small, extensible F# library for practical generic programming.
 - [Validus](https://github.com/pimbrouwers/Validus) - A composable validation library for F#, with built-in validators for most primitive types and easily extended through custom validators.
-- [Vp.FSharp.Sql](https://github.com/veepee-oss/Vp.FSharp.Sql) - Generic F# ADO provider wrapper (SqlServer, PostgreSql, Sqlite).
+- [Vp.FSharp.Sql](https://github.com/veepee-oss/Vp.FSharp.Sql) - Generic F# ADO provider wrapper (SqlServer, PostgreSQL, SQLite).
 
 ## Game Development
 
@@ -244,7 +244,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Expecto](https://github.com/haf/expecto) - Smooth testing framework for F# with tests-as-values and parallelism by default.
 - [Faqt](https://github.com/cmeeren/Faqt) - Fantastic fluent assertions for your F# tests and domain code.
 - [FsCheck](https://github.com/fscheck/FsCheck) - Random testing for .NET.
-- [FsUnit](https://github.com/fsprojects/FsUnit) - FsUnit makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework.
+- [FsUnit](https://github.com/fsprojects/FsUnit) - Makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework.
 - [NBomber](https://github.com/PragmaticFlow/NBomber) - Simple load testing framework for Pull and Push scenarios.
 - [Persimmon](https://github.com/persimmon-projects/Persimmon) - Unit test framework for F# using computation expressions.
 - [altcover](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for .NET/.NET core and Mono.
@@ -269,7 +269,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [FSharp.Data](https://github.com/fsharp/FSharp.Data) - Data science library that contains type providers for CSV, HTML, JSON, XML, and WorldBank data.
 - [FSharp.Management](https://github.com/fsprojects/FSharp.Management) - The project contains various type providers for the management of the machine. Handles file system, registry,  Windows Management Instrumentation, PowerShell and SystemTimeZones.
 - [FSharp.Text.RegexProvider](https://github.com/fsprojects/FSharp.Text.RegexProvider) - Type provider for regular expressions.
-- [Facil](https://github.com/cmeeren/Facil) - Facil generates F# data access source code from SQL queries and stored procedures.
+- [Facil](https://github.com/cmeeren/Facil) - Generates F# data access source code from SQL queries and stored procedures.
 - [FsXaml](https://github.com/fsprojects/FsXaml) - F# Tools for working with XAML Projects.
 - [FsYaml](https://github.com/bleis-tift/FsYaml) - Typed Yaml library for F#.
 - [GraphProvider](https://github.com/fsprojects/GraphProvider) - `.dgml` state machine type provider.
@@ -302,7 +302,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Giraffe](https://github.com/giraffe-fsharp/Giraffe) - Native functional ASP.NET Core web framework for F# developers.
 - [Oxpecker](https://github.com/Lanayx/Oxpecker) - ASP.NET Core based F# framework + supporting tools (ViewEngine, Htmx, OpenApi).
 - [Saturn](https://github.com/SaturnFramework/Saturn) - Opinionated, web development framework for F# which implements the server-side, functional MVC pattern.
-- [Suave](https://github.com/SuaveIO/suave) - Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition.
+- [Suave](https://github.com/SuaveIO/suave) - A simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition.
 - [WebSharper](https://github.com/intellifactory/websharper) - F#-based web programming platform including a compiler from F# code to JavaScript.
 <!--lint enable double-link -->
 
