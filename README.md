@@ -301,6 +301,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Feliz](https://github.com/Zaid-Ajaj/Feliz) - A fresh retake of the React API in Fable and a collection of high-quality components to build React applications in F#.
 - [Genit](https://github.com/lefthandedgoat/genit) - Cross-platform website generator and server using F#, Suave and PostgreSQL or MS SQL Server.
 - [Giraffe](https://github.com/giraffe-fsharp/Giraffe) - Native functional ASP.NET Core web framework for F# developers.
+- [Next.fs](https://github.com/Neftedollar/Next.fs) - Fable bindings for building Next.js applications with F#.
 - [Oxpecker](https://github.com/Lanayx/Oxpecker) - ASP.NET Core based F# framework + supporting tools (ViewEngine, Htmx, OpenApi).
 - [Saturn](https://github.com/SaturnFramework/Saturn) - Opinionated, web development framework for F# which implements the server-side, functional MVC pattern.
 - [Suave](https://github.com/SuaveIO/suave) - A simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition.
