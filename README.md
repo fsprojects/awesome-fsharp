@@ -30,6 +30,7 @@ This is a curated list of awesome F# frameworks, libraries, software and resourc
 - [Serialization](#serialization)
 - [Simulation](#simulation)
 - [Static Site Generators](#static-site-generators)
+- [Database](#database)
 - [Testing](#testing)
 - [Type Providers](#type-providers)
   - [Creating Type Providers](#creating-type-providers)
@@ -239,6 +240,11 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ## Static Site Generators
 
 - [SkunkHTML](https://github.com/mg0x7BE/skunk-html) - Markdown blog with GitHub Pages.
+
+## Database
+
+- [Fyper](https://github.com/Neftedollar/fyper) - Type-safe Cypher query builder for graph databases (Neo4j, Apache AGE). Computation expressions, parameterized by default, zero dependencies. [MIT]
+
 
 ## Testing
 <!--lint disable double-link -->
