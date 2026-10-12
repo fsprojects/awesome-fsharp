@@ -91,6 +91,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Pulumi.FSharp.Extensions](https://github.com/UnoSD/Pulumi.FSharp.Extensions) - F# computational expressions to reduce boilerplate in Pulumi code.
 
 ## Code Analysis
+- [FSharp.Refactor](https://github.com/Thorium/fsharp-refactor) - Analyzers and CLI tool with functional refactoring quick fixes that clarify code intent.
 - [Ionide FSharp.Analyzers.SDK](https://github.com/ionide/FSharp.Analyzers.SDK) - Library for building custom analyzers for F# / FSharp.Analyzers.Cli.
 
 ## Code Generation
