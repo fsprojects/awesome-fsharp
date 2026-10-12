@@ -177,6 +177,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Fling](https://github.com/cmeeren/Fling) - Significantly reduces boilerplate needed to efficiently save/load complex domain entities to/from multiple tables.
 - [FsToolkit.ErrorHandling](https://github.com/demystifyfp/FsToolkit.ErrorHandling) - Clear, simple and powerful error handling with railway-oriented programming. Inspired by Chessie.
 - [Fumble](https://github.com/tforkmann/Fumble) - Thin F# API for SQLite for easy data access to SQLite database with functional seasoning on top.
+- [Linq.Expression.Optimizer](https://github.com/Thorium/Linq.Expression.Optimizer) - Optimizer for System.Linq.Expression trees: boolean algebra, constant and anonymous-type elimination.
 - [LiteDB.FSharp](https://github.com/Zaid-Ajaj/LiteDB.FSharp) - F# Support for [LiteDB](https://github.com/mbdavid/LiteDB), an embedded single file database for .NET.
 - [Npgsql.FSharp](https://github.com/Zaid-Ajaj/Npgsql.FSharp) - Thin F# wrapper around [Npgsql](https://github.com/npgsql/npgsql), the PostgreSQL database driver.
 - [SqlHydra](https://github.com/JordanMarr/SqlHydra) - Suite of NuGet packages for working with databases in F# including query expressions and code generation tools (for generating strongly typed F# DTO record types based on your database tables). Supports MySQL, PostgreSQL, Oracle, SQL Server, and SQLite.
