@@ -203,6 +203,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ## HTTP Clients
 
 - [FsHttp](https://github.com/ronaldschlenker/FsHttp) - A convenient library for consuming HTTP/REST endpoints via F#.
+- [FunStripe](https://github.com/simontreanor/FunStripe) - F# client for the Stripe API, with code generators for the model and requests.
 - [Http.fs](https://github.com/haf/Http.fs) - A simple, functional HTTP client library for F#.
 - [Oryx](https://github.com/cognitedata/oryx) - A high performance .NET cross-platform functional HTTP request handler library for writing HTTP clients and orchestrating web requests.
 
