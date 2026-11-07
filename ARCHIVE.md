@@ -43,6 +43,7 @@ This is a storage of links that were removed from the main list.
 - [WTF#](https://wtfsharp.net) - Podcast focused on F# and its ecosystem.
 
 ### Websites
+- [Community for F#](http://c4fsharp.net/) - Links to dojos and recordings of community presentations.
 - [F# Core Engineering](http://fsharp.github.io/)
 
 ## Search

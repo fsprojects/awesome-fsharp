@@ -365,7 +365,6 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ### Websites
 
-- [Community for F#](http://c4fsharp.net/) - Links to dojos and recordings of community presentations.
 - [Decompiler.com](https://www.decompiler.com/) - Online C#/VB/F# decompiler.
 - [DotNetFiddle](https://dotnetfiddle.net/) - Online REPL.
 - [F# Software Foundation](http://fsharp.org/) - Main website.
